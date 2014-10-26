@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_video_quality_entries">
+        <item>Наилучшее</item>
+        <item>@string/pref_video_quality_entry_1080p</item>
+        <item>@string/pref_video_quality_entry_720p</item>
+        <item>@string/pref_video_quality_entry_1080p</item>
+        <item>@string/pref_video_quality_entry_720p</item>
+        <item>@string/pref_video_quality_entry_wvga</item>
+        <item>@string/pref_video_quality_entry_vga</item>
+        <item>@string/pref_video_quality_entry_cif</item>
+        <item>@string/pref_video_quality_entry_qvga</item>
+        <item>@string/pref_video_quality_entry_qcif</item>
+    </string-array>
+    <string-array name="virtual_items">
+        <item>Круг</item>
+        <item>Линия</item>
+        <item>Автопортрет</item>
+        <item>Отмена</item>
+    </string-array>
+</resources>

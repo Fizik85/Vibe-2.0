@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Настройки адаптивной подсветки</string>
+    <string name="cabl_settings_title">Настройки адаптивной подсветки</string>
+    <string name="cabl_enable_title">Включить адаптивную подсветку</string>
+    <string name="cabl_enable_summary_on">Подсветка будет перенастраиваться под отображаемый контент</string>
+    <string name="cabl_enable_summary_off">Подсветка не будет перенастраиваться под отображаемый контент</string>
+    <string name="cabl_levels_title">Визуальный уровень</string>
+    <string name="cabl_levels_summary">Низкий уровень настроит АП, чтобы пытаться сохранить максимально возможное количество энергии без учета отображаемого контента. Уровень качества Авто, настроит АП, чтобы максимизировать сохранение энергии за счет автоподстройки под автоопределяемый тип отображаемого контента.</string>
+    <string name="cabl_level_default">Авто</string>
+    <string name="cabl_info_default">Неизвестно</string>
+    <string name="cabl_version_title">Версия АП</string>
+</resources>

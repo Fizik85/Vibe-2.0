@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="launcher_name">Miracast</string>
+    <string name="app_name">Внеш.дисплей</string>
+    <string name="wfd_img_description">Изображение wfd</string>
+    <string name="wfd_bn_refresh">Обновить</string>
+    <string name="wfd_bn_help">Справка</string>
+    <string name="wfd_bn_about">Контактные данные</string>
+    <string name="wfd_bn_clear">Очистить</string>
+    <string name="wfd_bn_disconnect">Разъединить</string>
+    <string name="wfd_dlg_scan_enable_wifi">Включение Wi-Fi...</string>
+    <string name="wfd_dlg_scan_scan_device">Сканирование устройств...</string>
+    <string name="wfd_dlg_scan_reconnecting">Переключение режима, повторное подключение ...</string>
+    <string name="wfd_dlg_confirm_clear_message">Очистить запись всех подключенных устройств?</string>
+    <string name="wfd_dlg_rename_title">Переименовать устройство</string>
+    <string name="wfd_dlg_rename_done">Готово</string>
+    <string name="wfd_dlg_rename_forget">Исключить</string>
+    <string name="wfd_dlg_info_reconnect_fail">Сбой при повторном подключении. Попробуйте выполнить подключение вручную.</string>
+    <string name="wfd_dlg_confirm_switch_av_message">"Для того чтобы переключить режим, необходимо сначала разорвать текущее подключение.
+Переключить режим?"</string>
+    <string name="wfd_dlg_confirm_switch_video_message">"В режиме Только видео через защитный ключ передаются только видеоданные.
+Для того чтобы переключить режим, необходимо сначала разорвать текущее подключение.
+Переключить режим?"</string>
+    <string name="wfd_dlg_confirm_switch_audio_message">"В режиме Только аудио общий доступ с помощью устройства предоставляется только к аудио.
+Соединение будет потеряно, если устройство не поддерживает режим Только аудио. Позаботьтесь об этом до перехода в другой режим.
+Перед переходом требуется отключить текущее соединение.
+Перейти в другой режим сейчас?"</string>
+    <string name="toast_connecting">Подключение, повторите попытку позже</string>
+    <string name="toast_already_connected">Уже подключено другое устройство, сначала отключите его</string>
+    <string name="toast_device_not_available">Не удается выполнить подключение, устройство недоступно</string>
+    <string name="welcome_version">Версия %1s</string>
+    <string name="tutor_message_1">Подключите защитный ключ AllShare Cast к устройству HDMI с помощью кабеля HDMI A-TO-A.</string>
+    <string name="tutor_message_2">Когда красный индикатор начнет мигать, нажмите кнопку сброса. Подождите, пока индикатор не загорится синим цветом. При повторном подключении не требуется нажимать кнопку еще раз.</string>
+    <string name="tutor_message_3">Включите функцию Screen Mirroring (дублирование экрана) с помощью приложения Miracast на своем телефоне. Название защитного ключа AllShare Cast будет указано в приложении.</string>
+    <string name="tutor_message_4">При успешном подключении вы сможете передавать изображение экрана на другое устройство.</string>
+    <string name="tutor_message_audioonly">Если защитный ключ поддерживает аудиовыход, вы можете использовать режим Только аудио для прослушивания музыки без проводов.</string>
+    <string name="tutor_message_videoonly">При необходимости подключения защитного ключа с помощью интерфейса DVI или VGA рекомендуется использовать режим Только видео.</string>
+</resources>
