@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <page>
+        <item
+            icon_id="10001"
+            icon_property="0x00000003"
+            icon_type="1"
+            src="@drawable/home_icon_navi"
+            title="Google"
+            type="1"
+            url="https://google.ru"
+            color="4"/>
+        <item
+            icon_id="10111"
+            icon_property="0x0000000f"
+            icon_type="1"
+            src="@drawable/home_icon_rss"
+            title="Lenta.ru"
+            type="1"
+            url="http://pda.lenta.ru"
+            color="1"/>
+         <item
+            icon_id="10108"
+            icon_property="0x00000003"
+            icon_type="1"
+            src="@drawable/home_icon_zhuangjibibei"
+            title="AliExpress"
+            type="1"
+            url="http://aliexpress.com"
+            color="4"/>
+        <item
+            icon_id="10002"
+            icon_property="0x00000003"
+            icon_type="1"
+            src="@drawable/home_icon_baidu"
+            title="Baidu"
+            type="1"
+            url="http://m.baidu.com/?from=1001163f"
+            color="5"/>
+    </page>
+</root>

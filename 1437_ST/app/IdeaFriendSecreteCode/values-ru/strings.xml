@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IdeaFriendSecreteCode</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="meid_activity_title">Версия PRL</string>
+    <string name="disable_dfn_activity_title">Настройки FDN</string>
+    <string name="tv_text">"Настройки запуска FDN.
+(вкл./выкл.)"</string>
+    <string name="btn_post">Включить</string>
+    <string name="btn_neg">Выключить</string>
+    <string name="enable">Включить</string>
+    <string name="disable">Выключить</string>
+    <string name="reboot_device_title">Перезапустить</string>
+    <string name="reboot_device_message_pre_on">Служба SS включена</string>
+    <string name="reboot_device_message_pre_off">Служба SS выключена</string>
+    <string name="reboot_device_message_post">(Требуется перезапуск!)</string>
+    <string name="reboot">Перезапуск</string>
+    <string name="cancel">Отмена</string>
+    <string name="default_state">Ошибка:</string>
+    <string name="cur_state">Текущее состояние службы SS:</string>
+</resources>

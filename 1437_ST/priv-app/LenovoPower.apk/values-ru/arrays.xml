@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_brightness_entries">
+        <item>Минимальная</item>
+        <item>30%</item>
+        <item>60%</item>
+        <item>Максимальная</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="advancedSetting_lowCapacity_value">
+        <item>Менее 10%</item>
+        <item>Менее 20%</item>
+        <item>Менее 30%</item>
+    </string-array>
+    <string-array name="wifi_timeout_entries">
+        <item>1 мин.</item>
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+    </string-array>
+    <string-array name="netWakeup_during">
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+    </string-array>
+    <string-array name="netWakeup_delay">
+        <item>5 мин.</item>
+        <item>15 мин.</item>
+        <item>25 мин.</item>
+        <item>35 мин.</item>
+        <item>45 мин.</item>
+    </string-array>
+    <string-array name="netWakeup_lasting">
+        <item>5 мин.</item>
+        <item>15 мин.</item>
+        <item>30 мин.</item>
+    </string-array>
+</resources>

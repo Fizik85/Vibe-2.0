@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="wallpaperperview_cut_desktoplayout_marginLeft">20.0dip</dimen>
+    <dimen name="wallpaperperview_cut_locksreenlayout_marginLeft">20.0dip</dimen>
+</resources>

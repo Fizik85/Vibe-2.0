@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_lenovo_lsf_app_name">UserFramework</string>
+    <string name="com_lenovo_lsf_lenovouser_app_name">Аккаунт Lenovo</string>
+    <string name="com_lenovo_lsf_lenovouser_btn_ok">ОК</string>
+    <string name="com_lenovo_lsf_lenovouser_btn_cancel">Отмена</string>
+    <string name="com_lenovo_lsf_lenovouser_btn_retry">Повтор</string>
+    <string name="com_lenovo_lsf_lenovouser_forget_error1">Неверный код авторизации</string>
+    <string name="com_lenovo_lsf_lenovouser_forget_error3">Нет такого пользователя</string>
+    <string name="com_lenovo_lsf_lenovouser_forget_progess">Отправка пароля. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_forget_failuret">Ошибка отправки пароля</string>
+    <string name="com_lenovo_lsf_lenovouser_forget_failure">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_change_error1">Неверный пароль</string>
+    <string name="com_lenovo_lsf_lenovouser_change_error2">Пароли не совпадают</string>
+    <string name="com_lenovo_lsf_lenovouser_change_error3">Введите пароль в правильном формате</string>
+    <string name="com_lenovo_lsf_lenovouser_change_progess">Изменение пароля. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_change_success">Пароль изменен.</string>
+    <string name="com_lenovo_lsf_lenovouser_change_failure">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_text0">Войти в аккаунт Lenovo</string>
+    <string name="com_lenovo_lsf_lenovouser_login_text7">Авторизация завершена</string>
+    <string name="com_lenovo_lsf_lenovouser_login_progess">Вход в систему. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_login_failure">Ошибка входа</string>
+    <string name="com_lenovo_lsf_lenovouser_login_networkfailure">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendfailure">Ваш аккаунт еще не активирован. Отправить повторно письмо с кодом активации на e-mail?</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendfailure1">Ваш аккаунт еще не активирован. Отправить повторно SMS с кодом активации на мобильный телефон?</string>
+    <string name="com_lenovo_lsf_lenovouser_login_rprogess">Отправка письма с кодом активации. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendst">Письмо с кодом активации отправлено</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resends">Новое письмо с кодом активации отправлено на Ваш e-mail. Проверьте.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendft">Ошибка повторной отправки письма с кодом активации</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendf">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_rprogess1">Отправка SMS с кодом активации. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendst1">SMS с кодом активации отправлено</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resends1">Новое SMS с кодом активации отправлена ??на Ваш мобильный телефон. Проверьте.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendft1">Ошибка повторной отправки SMS с кодом активации</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendf1">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error1">Нет такого пользователя</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error2">Неверный пароль.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error3">Прежде, чем войти в аккаунт, активируйте его</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error4">Введите пароль</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error5">Введите имя аккаунта</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error6">Ваш аккаунт был временно заблокирован из-за пяти ошибок входа. Повторите попытку через 10 минут</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error7">Нверный формат имени пользователя</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error8">Аккаунт отключен</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error10">Неверный параметр запроса</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error11">Неверный ключ приложения</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error12">Неверный токен доступа</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error13">Неверная область</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error20">Неизвестная ошибка. Код ошибки:</string>
+    <string name="com_lenovo_lsf_lenovouser_userinfo_text16">Выйти из аккаунта Lenovo</string>
+    <string name="com_lenovo_lsf_lenovouser_userinfo_text17">Выйти из аккаунта Lenovo?</string>
+    <string name="com_lenovo_lsf_lenovouser_userinfo_logouting">Выход из аакаунта. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_userinfo_logouts">Вы вышли из аккаунта</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error1">Нверный формат имени пользователя</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error2">Такой аккаунт уже существует</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error3">Введите пароль в правильном формате</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error4">Пароли не совпадают</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error5">Неверный код авторизации</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error6">Ошибка получения кода авторизации</string>
+    <string name="com_lenovo_lsf_lenovouser_register_progess">Регистрация. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_register_failuret">Ошибка регистрации аккаунта</string>
+    <string name="com_lenovo_lsf_lenovouser_register_failure">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendprogess">Отправка письма с кодом активации. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendfailuret">Ошибка повторной отправки письма с кодом активации</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendfailure">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendsuccesst">Письмо с кодом активации отправлено</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendsuccess">Новое письмо с кодом активации отправлено на Ваш e-mail. Проверьте.</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendprogess1">Отправка SMS с кодом активации. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendfailuret1">Ошибка повторной отправки SMS с кодом активации</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendfailure1">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendsuccesst1">SMS с кодом активации отправлено</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendsuccess1">Новое SMS с кодом активации отправлена ??на Ваш мобильный телефон. Проверьте.</string>
+    <string name="com_lenovo_lsf_lenovouser_userinfo_registerlegalt">Условия предоставления услуг</string>
+    <string name="com_lenovo_lsf_lenovouser_onekey_error_titlt">Ошибка регистрации</string>
+    <string name="com_lenovo_lsf_lenovouser_onekey_imeiinvalid">Номер IMEI является недействительным.</string>
+    <string name="com_lenovo_lsf_psauthen_text15">Следующие одно или несколько приложений запрашивают разрешение на доступ к Вашему аккаунту, сейчас и в будущем.</string>
+    <string name="com_lenovo_lsf_psauthen_text16">Разрешить</string>
+    <string name="com_lenovo_lsf_psauthen_text17">Отклонить</string>
+    <string name="com_lenovo_lsf_psauthen_text18">Разрешить доступ?</string>
+    <string name="com_lenovo_lsf_psauthen_text19">Запрос доступа</string>
+    <string name="com_lenovo_lsf_psauthen_text20">Невозможно войти в два разных аккаунта</string>
+    <string name="com_lenovo_lsf_psauthen_error1">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_psauthen_error2">Ошибка входа в аккаунт</string>
+    <string name="com_lenovo_lsf_psauthen_error3">Пользователь не существует</string>
+    <string name="com_lenovo_lsf_psauthen_error4">Неверный пароль</string>
+    <string name="com_lenovo_lsf_psauthen_error5">Активируйте свой аккаунт</string>
+    <string name="com_lenovo_lsf_psauthen_error6">Аккаунт отключен</string>
+    <string name="com_lenovo_lsf_psauthen_error7">Аккаунт заблокирован</string>
+    <string name="com_lenovo_lsf_psauthen_error8">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_psauthen_error9">Отменено пользователем</string>
+    <string name="com_lenovo_lsf_psauthen_error10">Дубликат аккаунта Lenovo</string>
+    <string name="com_lenovo_lsf_ui_name">Аккаунт Lenovo</string>
+    <string name="com_lenovo_lsf_login_string_login_sina">Войти в Sina</string>
+    <string name="com_lenovo_lsf_login_string_login_qq">Войти в QQ</string>
+    <string name="com_lenovo_lsf_login_string_login">Войти</string>
+    <string name="com_lenovo_lsf_login_string_registration">Регистрация</string>
+    <string name="com_lenovo_lsf_login_string_havenoid" />
+    <string name="com_lenovo_lsf_login_string_forgetpwd"><u>Забыли пароль?</u></string>
+    <string name="com_lenovo_lsf_login_string_account">Аккаунт Lenovo</string>
+    <string name="com_lenovo_lsf_login_string_password">Пароль</string>
+    <string name="com_lenovo_lsf_login_string_accounthint">abc@example.com</string>
+    <string name="com_lenovo_lsf_login_string_pwdhint">4-20 символов</string>
+    <string name="com_lenovo_lsf_login_string_sendrequest">Отправка запроса на вход…</string>
+    <string name="com_lenovo_lsf_login_string_verifing">Авторизация…</string>
+    <string name="com_lenovo_lsf_login_string_agree">Авторизация означает, что Вы принимаете</string>
+    <string name="com_lenovo_lsf_login_string_protocol">Авторизация означает, что Вы принимаете <u>Условия предоставления услуг</u></string>
+    <string name="com_lenovo_lsf_register_string_login">Войти</string>
+    <string name="com_lenovo_lsf_register_string_haveid" />
+    <string name="com_lenovo_lsf_register_string_register">Регистрация</string>
+    <string name="com_lenovo_lsf_register_string_registerinfo">Если у Вас уже есть аккаунт Lenovo, вернитесь и войдите снова</string>
+    <string name="com_lenovo_lsf_register_string_account">Аккаунт Lenovo</string>
+    <string name="com_lenovo_lsf_register_string_setpwd">Пароль</string>
+    <string name="com_lenovo_lsf_register_string_confirmpwd">Пароль</string>
+    <string name="com_lenovo_lsf_register_string_location_selection">Ваша страна/регион?</string>
+    <string name="com_lenovo_lsf_register_string_confirmpwd_hint">Повторите пароль</string>
+    <string name="com_lenovo_lsf_register_string_verifycode">Проверочный код</string>
+    <string name="com_lenovo_lsf_register_string_changeanother">Изменить</string>
+    <string name="com_lenovo_lsf_register_string_agree">Я принимаю</string>
+    <string name="com_lenovo_lsf_register_string_protocol">Я принимаю <u>Условия обслуживания</u></string>
+    <string name="com_lenovo_lsf_register_string_accounthint">abc@example.com</string>
+    <string name="com_lenovo_lsf_register_string_setpwdhint">4-20 символов</string>
+    <string name="com_lenovo_lsf_register_string_verifycodehint">Введите проверочный код</string>
+    <string name="com_lenovo_lsf_register_string_countries">Местоположение</string>
+    <string name="com_lenovo_lsf_forget_string_findpassword">Забыли пароль</string>
+    <string name="com_lenovo_lsf_forget_string_findpasswordinfo">Мы отправим Ваш пароль на e-mail или в SMS.</string>
+    <string name="com_lenovo_lsf_forget_string_reset">Отправить</string>
+    <string name="com_lenovo_lsf_change_string_changepassword">Изменить пароль</string>
+    <string name="com_lenovo_lsf_change_string_oldpassword">Текущий пароль</string>
+    <string name="com_lenovo_lsf_change_string_newpassword">Новый пароль</string>
+    <string name="com_lenovo_lsf_change_string_confirmpassword">Подтвердите пароль</string>
+    <string name="com_lenovo_lsf_change_string_confirm">Отправить</string>
+    <string name="com_lenovo_lsf_change_string_confirmset">Отправить</string>
+    <string name="com_lenovo_lsf_change_string_setpassword">Установить пароль</string>
+    <string name="com_lenovo_lsf_change_string_please_input_oldpassword">Введите текущий пароль.</string>
+    <string name="com_lenovo_lsf_change_string_please_input_newpassword">Введите новый пароль.</string>
+    <string name="com_lenovo_lsf_change_string_please_input_newpassword_senced">Повторите новый пароль.</string>
+    <string name="com_lenovo_lsf_myaccount_string_myaccount">Мой аккаунт</string>
+    <string name="com_lenovo_lsf_myaccount_string_account">Аккаунт Lenovo:</string>
+    <string name="com_lenovo_lsf_myaccount_string_accountinfo">abc@example.com</string>
+    <string name="com_lenovo_lsf_myaccount_string_changeaccount">Сменить аккаунт</string>
+    <string name="com_lenovo_lsf_myaccount_string_status">Статус:</string>
+    <string name="com_lenovo_lsf_myaccount_string_statusinfo_not_verify">Не проверен</string>
+    <string name="com_lenovo_lsf_myaccount_string_statusinfo_verified">Проверен</string>
+    <string name="com_lenovo_lsf_myaccount_string_statusinfo_getting">Проверка статуса…</string>
+    <string name="com_lenovo_lsf_myaccount_string_statusinfo_getting_error">Ошибка при проверке статуса.</string>
+    <string name="com_lenovo_lsf_myaccount_string_verify">Проверить</string>
+    <string name="com_lenovo_lsf_myaccount_string_password">Пароль:</string>
+    <string name="com_lenovo_lsf_myaccount_string_passwordno">нет</string>
+    <string name="com_lenovo_lsf_myaccount_string_passwordyes">есть</string>
+    <string name="com_lenovo_lsf_myaccount_string_setpassword">Установить пароль</string>
+    <string name="com_lenovo_lsf_myaccount_string_changepassword">Изменить</string>
+    <string name="com_lenovo_lsf_myaccount_string_time">Время входа:</string>
+    <string name="com_lenovo_lsf_myaccount_string_timeinfo">2010-4-1 10:13:21</string>
+    <string name="com_lenovo_lsf_myaccount_string_logout">Выйти</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_success">Отправлено</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_detail">Новый пароль был отправлен на %1$s:</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_mailbox">почтовый ящик</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_phone">телефон</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_checkmail">Проверьте почту</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_checksms">Проверьте SMS</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_login">Войти</string>
+    <string name="com_lenovo_lsf_forgetfail_string_fail">Ошибка отправки пароля.</string>
+    <string name="com_lenovo_lsf_forgetfail_string_detail">Объяснение</string>
+    <string name="com_lenovo_lsf_forgetfail_string_resend">Повторно отправить пароль</string>
+    <string name="com_lenovo_lsf_forgetfail_string_empty_verify_code">Введите код подтверждения.</string>
+    <string name="com_lenovo_lsf_registersuccess_string_success">Регистрация завершена</string>
+    <string name="com_lenovo_lsf_registersuccess_string_detailmail1">Проверочное письмо было отправлено на Ваш почтовый ящик:</string>
+    <string name="com_lenovo_lsf_registersuccess_string_detailmail2">Нажмите на ссылку в письме, чтобы подтвердить аккаунт!</string>
+    <string name="com_lenovo_lsf_registersuccess_string_detailphone1">Проверочный код был отправлен на Ваш телефон:</string>
+    <string name="com_lenovo_lsf_registersuccess_string_detailphone2">Нажмите на ссылку в SMS, чтобы подтвердить аккаунт.</string>
+    <string name="com_lenovo_lsf_registersuccess_string_login">Войти</string>
+    <string name="com_lenovo_lsf_registersuccess_string_resend">Повторить</string>
+    <string name="com_lenovo_lsf_register_time_out">Время регистрации истекло. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_registersuccess_string_resend_phone">Отправить повторно проверочное SMS</string>
+    <string name="com_lenovo_lsf_registersuccess_string_resend_mail">Отправить повторно проверочное письмо</string>
+    <string name="com_lenovo_lsf_username_not_null">Введите аккаунт Lenovo</string>
+    <string name="com_lenovo_lsf_password_not_null">Введите пароль</string>
+    <string name="com_lenovo_lsf_senced_password_not_null">Повторите пароль</string>
+    <string name="com_lenovo_lsf_click_sixty_min_later">Подождите 60 секунд перед повторным нажатием.</string>
+    <string name="com_lenovo_lsf_account_settings">Настройки аккаунта</string>
+    <string name="com_lenovo_lsf_account_settings_summery" />
+    <string name="com_lenovo_lsf_login_password_error">Неверный пароль. Введите правильный пароль.</string>
+    <string name="com_lenovo_lsf_forget_password_error">Слишком много операций. Повторите попытку позже</string>
+    <string name="com_lenovo_lsf_app_upgrade_notification">Обновление LenovoServiceFramework</string>
+    <string name="com_lenovo_lsf_binding_string_account">Аккаунт Lenovo:</string>
+    <string name="com_lenovo_lsf_binding_another_account"><u>Связать с другим аккаунтом Lenovo</u></string>
+    <string name="com_lenovo_lsf_account_binding_welcome">Добро пожаловать!</string>
+    <string name="com_lenovo_lsf_account_binding_exists_account_description">Найдите настройки e-mail в %1$s, который уже связан с аккаунтом Lenovo. Введите пароль для привязки микроблога QQ</string>
+    <string name="com_lenovo_lsf_account_binding_description">Нажав кнопку ОК, Вы свяжете аккаунты с Вашим аккаунтом %1$s</string>
+    <string name="com_lenovo_lsf_account_binding_input_description">Зарегистрируйтесь или укажите существующий аккаунт Lenovo для привязки</string>
+    <string name="com_lenovo_lsf_account_binding_progress_description">Отправка запроса…</string>
+    <string name="com_lenovo_lsf_account_link_third_accout_timeout">Истекло время ожидания подключения стороннего аккаунта. Повторите попытку!</string>
+    <string name="com_lenovo_lsf_account_binding_error">Ошибка привязки аккаунта</string>
+    <string name="com_lenovo_lsf_account_has_binding_antheor">Аккаунт Lenovo уже связан со сторонним аккаунтом!</string>
+    <string name="com_lenovo_lsf_thirdaccount_has_binding_antheor_lenovoid">Сторонний аккаунт уже связан с аккаунтом Lenovo!</string>
+    <string name="com_lenovo_lsf_update">Обновить</string>
+    <string name="com_lenovo_lsf_about">О программе</string>
+    <string name="com_lenovo_lsf_third_login">Сторонний аккаунт</string>
+    <string name="com_lenovo_lsf_normal_login">Логин:</string>
+    <string name="com_lenovo_lsf_check_update">Проверка обновления…</string>
+    <string name="com_lenovo_lsf_update_already_last_version">Обновление не требуется</string>
+    <string name="com_lenovo_lsf_app_version">Версия ПО</string>
+    <string name="com_lenovo_lsf_app_web_url_label">Веб-портал</string>
+    <string name="com_lenovo_lsf_app_web_url"><u>http://passport.lenovo.com</u></string>
+    <string name="com_lenovo_lsf_app_copyright">Copyright(C) 1998-2012</string>
+    <string name="com_lenovo_lsf_app_copyright_bottom">Lenovo Inc. Все права защищены</string>
+    <string name="com_lenovo_lsf_webview_refresh">Обновить</string>
+    <string name="com_lenovo_lsf_binding_acitivities_details">Сведения</string>
+    <string name="com_lenovo_lsf_password_cannot_be_blank">Введите пароль в правильном формате</string>
+    <string name="com_lenovo_lsf_binding_account_phone_num">Номер телефона</string>
+    <string name="com_lenovo_lsf_binding_account_name_sina">Skype</string>
+    <string name="com_lenovo_lsf_binding_account_name_qq">ICQ</string>
+    <string name="com_lenovo_lsf_onekey_airplanemode">Вы не можете использовать эту функцию в \"Режиме полета\". Сначала отключите его</string>
+    <string name="com_lenovo_lsf_open_sms_error">Ошибка открытия SMS. Убедитесь, что приложение SMS-сообщений установлено и не заблокировано центром безопасности</string>
+    <string name="com_lenovo_lsf_open_browser_error">Ошибка открытия браузера. Убедитесь, что браузер установлен и не заблокирован центром безопасности</string>
+    <string name="com_lenovo_lsf_get_update_pkginfo_null">Ошибка обновления информации. Проверьте готовность сети</string>
+    <string name="com_lenovo_lsf_tgt_error">Текущий аккаунт просрочен. Войдите в систему снова</string>
+    <string name="com_lenovo_lsf_sim_error">Текущая SIM-карта телефона недоступна</string>
+    <string name="com_lenovo_lsf_auto_oneKeyLogin_times_more_than_limit">Превышен лимит автоматического входа в аккаунт на сегодня. Повторите попытку завтра</string>
+    <string name="com_lenovo_lsf_auto_oneKeyLogin_application_no_permissions">Приложение не имеет доступа для выполнения операции</string>
+    <string name="com_lenovo_lsf_auto_oneKeyLogin_goinig">Ожидайте завершения авторизации</string>
+    <string name="com_lenovo_lsf_sso_sina_login_progress">Осуществляется вход. Ожидайте…</string>
+    <string name="com_lenovo_lsf_sso_sina_auth_cancel">Авторизацияя отменена</string>
+    <string name="com_lenovo_lsf_sso_sina_auth_error">Ошибка авторизации:</string>
+    <string name="com_lenovo_lsf_third_token_time_out">Время сессии истекло</string>
+    <string name="com_lenovo_lsf_choose_location_title">Выберите пункт</string>
+    <string name="com_lenovo_lsf_add_another_login_name">Добавить псевдоним аккаунта</string>
+    <string name="com_lenovo_lsf_add_another_login_name_description">Использовать %1$s для имени пользователя</string>
+    <string name="com_lenovo_lsf_add_another_login_name_mail">e-mail</string>
+    <string name="com_lenovo_lsf_add_another_login_name_phonenum">телефон</string>
+    <string name="com_lenovo_lsf_add_another_login_name_Label">Псевдоним аккаунта</string>
+    <string name="com_lenovo_lsf_delete_another_login_name_Label">Удалить псевдоним аккаунта</string>
+    <string name="com_lenovo_lsf_add_another_login_name_error">Ошибка</string>
+    <string name="com_lenovo_lsf_account_not_verified">Аккаунт не активирован. Активируйте его сейчас</string>
+    <string name="com_lenovo_lsf_account_not_verified_description">После активации Вы сможете использовать дополнительные функции и услуги</string>
+    <string name="com_lenovo_lsf_account_info_getting">Получение информации о пользователе. Ожидайте…</string>
+    <string name="com_lenovo_lsf_account_info_getting_error">Ошибка получения информации о пользователе</string>
+    <string name="com_lenovo_lsf_set_network">Настройка сети</string>
+    <string name="com_lenovo_lsf_no_network">Отсутствует сетевое подключение</string>
+    <string name="com_lenovo_lsf_bind_third">Связать с аккаунтом соцсети</string>
+    <string name="com_lenovo_lsf_more_info">Другие параметры аккаунта</string>
+    <string name="com_lenovo_lsf_quickly_login">Быстрый вход</string>
+    <string name="com_lenovo_lsf_webview_error_text1">Ошибка подключения к Интернет</string>
+    <string name="com_lenovo_lsf_webview_error_text2">Проверьте подключение к сети</string>
+    <string name="com_lenovo_lsf_webview_error_text3">Повторить</string>
+    <string name="com_lenovo_lsf_webview_error_text4">Обновить</string>
+    <string name="com_lenovo_lsf_phone_login">Мобильный телефон</string>
+    <string name="com_lenovo_lsf_sina_login">Skype</string>
+    <string name="com_lenovo_lsf_qq_login">ICQ</string>
+    <string name="more_string">еще %1$s...</string>
+    <string name="copy_email">Скопировать адрес эл. почты</string>
+    <string name="copy_number">Скопировать номер телефона</string>
+    <string name="done">Готово</string>
+
+
+    <string name="fb_app_name">Отзыв</string>
+    <string name="fb_action_settings">Настройки</string>
+    <string name="fb_action_about">О программе</string>
+    <string name="fb_setting_userid">Аккаунт</string>
+    <string name="fb_setting_input_userid">Введите Ваш ID</string>
+    <string name="fb_setting_name">Ник</string>
+    <string name="fb_setting_input_name">Введите Ваш ник</string>
+    <string name="fb_setting_email">Email</string>
+    <string name="fb_setting_input_email">Введите Ваш email</string>
+    <string name="fb_setting_phone">Tel</string>
+    <string name="fb_setting_input_phone">Введите номер телефона</string>
+    <string name="fb_setting_main_mode">Основной стиль интерфейса</string>
+    <string name="fb_show_app_list">Показать список приложений</string>
+    <string name="fb_show_bug_type">Показать тип отзыва</string>
+    <string name="fb_sure">OK</string>
+    <string name="fb_app_settings_desp">Эта функция используется для сбора мнений и предложений пользователей телефонов Lenovo, касающихся различных функций. Пожалуйста, заполните следующую информацию, чтобы помочь нам быстрее решить ваши проблемы. Спасибо!</string>
+    <string name="fb_choose_main_mode">Выберите основной стиль интерфейса</string>
+    <string name="fb_can_update">Обновляемый</string>
+    <string name="fb_most_new">Последняя версия</string>
+    <string name="fb_can_download">Рекомендуется загрузка</string>
+    <string name="fb_fresh">Обносить</string>
+    <string name="fb_can_update_tip">Локальная версия устарела. Можно обновить приложение(%d)</string>
+    <string name="fb_most_new_tip">Локальная версия является последней версией на сервере (%d)</string>
+    <string name="fb_can_download_tip">Это приложение не установлено локально. Скачать можно с (%d)</string>
+    <string name="fb_update_success">Обновлено</string>
+    <string name="fb_update_fail">Ошибка обновления из-за ошибки сети или на сервере обновляются данные. Попробуйте позже.</string>
+    <string name="fb_loading_app">Загрузка списка последних обновлений приложений…</string>
+    <string name="fb_getting_data">Извлечение данных. Ожидайте</string>
+    <string name="fb_freshing">Обновление</string>
+    <string name="fb_application_name">Имя приложения</string>
+    <string name="fb_version_name">Версия</string>
+    <string name="fb_version_code">Номер версии</string>
+    <string name="fb_pkgname">Имя пакета</string>
+    <string name="fb_udpate_time">Время обновления</string>
+    <string name="fb_time">Время отзыва</string>
+    <string name="fb_feedback">Отзыв</string>
+    <string name="fb_my_feedback">Мой отзыв</string>
+    <string name="fb_all_feedback">Все отзывы</string>
+    <string name="fb_upload_log">Лог загрузки</string>
+    <string name="fb_upload_pic">Загрузить изображение:</string>
+    <string name="fb_turn_on_real_log">Включить журнал реального времени (это позволит нам эффективно локализовать проблему)</string>
+    <string name="fb_turn_on">Включить</string>
+    <string name="fb_turn_off">Выключить</string>
+    <string name="fb_noti_logger_on">Журнал реального времени включен!</string>
+    <string name="fb_noti_logger_title">Запускается журнал реального времени…</string>
+    <string name="fb_noti_logger_off">Журнал реального времени остановлен!</string>
+    <string name="fb_anonymous">Аноним</string>
+    <string name="fb_me">Я</string>
+    <string name="fb_tip">Подсказка</string>
+    <string name="fb_more">Ещё</string>
+    <string name="fb_reply_hint">Введите текст ответа</string>
+    <string name="fb_send">Отправить</string>
+    <string name="fb_question">Отзыв</string>
+    <string name="fb_hardware_version">Версия железа</string>
+    <string name="fb_software_version">Версия ПО</string>
+    <string name="fb_phone_model">Модель телефона</string>
+    <string name="fb_fname">Спрашивающий</string>
+    <string name="fb_fphone">"Телефон Спрашивающего"</string>
+    <string name="fb_femail">"Email Спрашивающего"</string>
+    <string name="fb_type">Тип отзыва</string>
+    <string name="fb_submit">Отправить</string>
+    <string name="fb_submiting">Отправка…</string>
+    <string name="fb_submit_ok">Отправлено</string>
+    <string name="fb_submit_fail">Ошибка отправки. Проверьте савязь</string>
+    <string name="fb_submit_empty">Отзыв не может быть пустым</string>
+    <string name="fb_def_submit_content">Нет</string>
+    <string name="fb_restart_due_read_log_permission">Предоставлены права READ_LOGS. Нажмите ОК для перезапуска приложения.</string>
+    <string name="fb_log_service_is_running">Запущен журнал реального времени, необходимо его выключить.</string>
+    <string name="fb_real_log_path_empty">У Вас нет журналов реального времени.</string>
+    <string name="fb_refreshing">Обновление</string>
+    <string name="fb_refreshing_warnning">Обновление, ожидайте</string>
+    <string name="fb_bug_data_lose">Данные потеряны</string>
+    <string name="fb_bug_exception">Нестандартный выход</string>
+    <string name="fb_bug_not_call">Не может быть вызван</string>
+    <string name="fb_bug_not_net">Нет доступа в Интернет</string>
+    <string name="fb_bug_power_much">Потребляется слишком много энергии</string>
+    <string name="fb_bug_reboot">Авто перезагрузка</string>
+    <string name="fb_bug_other_error">Другие ошибки</string>
+    <string name="fb_bug_suggest">Предложения для Lenovo</string>
+    <string name="fb_bug_real">пойман баг в реальном времени</string>
+    <string name="fb_empty">На данный момент нет информации об отзыве</string>
+    <string name="fb_new">(новый)</string>
+    <string name="fb_app_empty">Вы ещё не установили ни одного рекомендованного Lenovo приложения</string>
+    <string name="fb_other_app">Другие приложения</string>
+    <string name="fb_menu_bug_type">Показать тип отзыва</string>
+    <string name="fb_menu_app">Показать список приложений</string>
+    <string name="fb_all_feedback_first_show">Вы можете использовать значок в правом верхнем углу, чтобы выбрать для отображения \"Список приложений\" или \"Тип отзыва\"</string>
+    <string name="fb_username">Пользователь</string>
+    <string name="fb_itcode">ITCode</string>
+    <string name="fb_input_itcode">Введите ITCode</string>
+    <string name="fb_password">Пароль</string>
+    <string name="fb_login">Вход</string>
+    <string name="fb_anonymous_login">Анонимный вход</string>
+    <string name="fb_account_hint">Введите Ваш логин</string>
+    <string name="fb_password_hint">Введите Ваш пароль</string>
+    <string name="fb_user_or_password_wrong">Неправильный логин или пароль. Попробуйте ещё раз</string>
+    <string name="fb_login_fail">Ошибка входа</string>
+    <string name="fb_user_or_password_empty">Ни имя пользователя, ни пароль не может быть пустым</string>
+    <string name="fb_logining">Вхожу…</string>
+    <string name="fb_login_for_itcode">ITCode пользователь</string>
+    <string name="fb_login_for_lenovoid">LenovoID пользователь</string>
+    <string name="fb_exchange_show">Изменить формат отображения списка</string>
+    <string name="fb_logined">Вы вошли</string>
+    <string name="fb_logout">Выход</string>
+    <string name="fb_logout_tip">Вы вошли под аккаунтом \"%s\". Хотите выйти?</string>
+    <string name="fb_logout_exchange">Вы вошли под аккаунтом \"%s\". Хотите сменить аккаунт или выйти?</string>
+    <string name="fb_cancel">Отмена</string>
+    <string name="fb_itcode_login">Переключить на ITCode</string>
+    <string name="fb_lenovoid_login">Переключить на LenovoID</string>
+    <string name="fb_exchange_account">Переключить аккаунт</string>
+    <string name="fb_account_empty">Аккаунт пустой</string>
+    <string name="fb_password_empty">Пароль пустой</string>
+    <string name="fb_login_select_fail_tip">Ошибка входа. Проверьте сеть или испоьлзуйте другой метод входа</string>
+    <string name="fb_login_for_itcode_desp">Использовать внутренний рабочий ITCode Lenovo для входа</string>
+    <string name="fb_login_for_itcode_desp2">"Пользователи ITCode и внутренние пользователи Lenovo используют для входа t3 страницу.
+Пароль шифруется для обеспечения безопасности. Вы можете использовать его со спокойной душой."</string>
+    <string name="fb_login_for_lenovoid_desp">Использовать LenovoID для входа</string>
+    <string name="fb_login_for_anonymous_desp">Вход, не требующий сертификации</string>
+    <string name="fb_fd_up_switch_account_tips">Дружеское напоминание: После запуска приложения Вы можете менять аккаунты через меню и наблюдать разные версии приложения</string>
+    <string name="fb_input_reply">Введите ответ</string>
+    <string name="fb_itcode_login_tip">Для входа с внутренним Lenovo ITCode</string>
+    <string name="fb_lenovoid_login_tip">Для входа с LenovoID</string>
+    <string name="fb_anonymous_login_tip">Для входа без аутентификации</string>
+    <string name="fb_itcode_user">ITCode пользователь</string>
+    <string name="fb_lenovoid_user">LenovoID пользователь</string>
+    <string name="fb_anonymous_user">Анонимный пользовательr</string>
+    <string name="fb_anonymous_not_login">Аноним, пожалуйста, авторизуйтесь~</string>
+    <string name="fb_favouted">Вы уже одобрили этот отзыв</string>
+    <string name="fb_net_close">Нет активной сети. Сначала поключитесь.</string>
+    <string name="fb_xlistview_header_hint_normal">Проведите вниз для обновления</string>
+    <string name="fb_xlistview_header_hint_ready">Отпустите для обновления данных</string>
+    <string name="fb_xlistview_header_hint_loading">Загрузка…</string>
+    <string name="fb_xlistview_footer_hint_normal">Больше</string>
+    <string name="fb_xlistview_footer_hint_ready">Отпустите для загрузки</string>
+    <string name="fb_xlistview_footer_hint_nomore">Данные загружены</string>
+    <string name="fb_favout">Approve (%s)</string>
+    <string name="fb_not_login">Пожалуйста, войдите~</string>
+    <string name="fb_has_login">Подождите! Вы уже в системе. Что ещё вы хотите сделать?</string>
+    <string name="fb_has_login_suffix">Войти в систему</string>
+    <string name="fb_add_big_log">Вручную добавить журнал</string>
+    <string name="fb_not_install_file_brower">Установите браузер файлов Lenovo</string>
+    <string name="fb_has_favout">Утвержден (%s)</string>
+    <string name="fb_logout_exchange2">Вы уже вошли в систему с аккаунтом \"%s\". Вы хотите выйти?</string>
+    <string name="fb_my_feedback_update">%d из ваших отзывов получили новые ответы. Нажмите, чтобы посмотреть</string>
+    <string name="fb_from">Предоставлено от %s</string>
+    <string name="fb_setting_tip">Спасибо вам за аккуратно перемещённый палец. Это поможет нам улучшиться!</string>
+    <string name="fb_account_info">Личная информация</string>
+    <string name="fb_version_type">Тип версии</string>
+    <string name="fb_pull_load">Потяните вниз для загрузки</string>
+    <string name="fb_release_load">Отпустите для больших комментариев</string>
+    <string name="fb_loading">Загрузка комментариев...</string>
+    <string name="fb_no_reply">Сейчас нет комментариев</string>
+    <string name="fb_official">Lenovo Official</string>
+    <string name="fb_not_allow_official">Имя не может содержать Lenovo Official. Введите снова</string>
+    <string name="fb_switch_account">Переключение учетных записей</string>
+    <string name="fb_input_feedback">Пожалуйста, введите отзыв</string>
+    <string name="fb_error_phone">Неверный формат номера. Не забудьте добавить код города для стационарного телефона. Введите снова</string>
+    <string name="fb_error_email">Недопустимый адрес электронной почты. Введите снова</string>
+    <string name="fb_image">Представленные изображения</string>
+    <string name="fb_commit_datausage">Предпологаемый объём данных:</string>
+    <string name="fb_commit_datausageforB">B</string>
+    <string name="fb_commit_datausageforKB">KB</string>
+    <string name="fb_bug_uninstalled_app">Приложение не установлено</string>
+    <string name="fb_error_fb_texttolong">Лимит символов. Благодарю за ваш подробный отзыв</string>
+    <string name="fb_error_rp_texttolong">Лимит символов. Спасибо за ваш подробный ответ</string>
+    <string name="fb_error_sdnotfound">Карта памяти не найдена. Некоторые функции не будут работать. Проверьте карту</string>
+    <string name="fb_setting_error_texttolong">Максимум 25 символов</string>
+    <string name="fb_error_sdnotfound_incommit">Карта памяти не найдена. Не удается загрузить изображения и журналы. Продолжать отправку?</string>
+    <string name="fb_loger_error_sdnotfound_incommit">Карта памяти не найдена. Не могу загрузить изображения. Продолжать отправку?</string>
+    <string name="fb_image_edit">Редактирование изображений</string>
+    <string name="fb_image_edit_error_unfindimage">Не удается найти ресурсы для редактирования изображений</string>
+    <string name="fb_image_edit_error_analyze">Ошибка анализа изображения</string>
+    <string name="fb_image_edit_commit">Сохранить изменения в изображении?</string>
+    <string name="fb_main_tab_one">Ответ</string>
+    <string name="fb_main_tab_two">Сортировка</string>
+    <string name="fb_main_tab_three">Найдено</string>
+    <string name="fb_setting_unlogin_title">Нажмите, для входа</string>
+    <string name="fb_buglistfrg_bt_runing">Сканирование журнала в реальном времени...</string>
+    <string name="fb_use_network">Эта действие будет проводить сетевые операции, продолжить?</string>
+    <string name="fb_not_warn">"Не уведомлять"</string>
+    <string name="fb_addinfo_tip">Вы не ввели вашу персональную информацию. Мы предлагаем вам заполнить вашу личную информацию, чтобы мы могли помочь быстро решить ваши проблемы.</string>
+    <string name="fb_addinfo">Полная личная информация</string>
+    <string name="fb_anonymity">Анонимная отправка</string>
+    <string name="fb_pull_to_refresh_pull_label">Проведите вниз для обновления</string>
+    <string name="fb_pull_to_refresh_release_label">Отпустите для обновления</string>
+    <string name="fb_pull_to_refresh_refreshing_label">Обновление...</string>
+    <string name="fb_pull_to_refresh_footer_release_label">Отпустите для загрузки</string>
+    <string name="fb_pull_to_refresh_footer_pull_label">Потяните вверх для загрузки</string>
+    <string name="fb_pull_to_refresh_footer_refreshing_label">Загрузка...</string>
+    <string name="fb_pull_to_refresh_last_update_time">Последнее обновление:: %s</string>
+    <string name="fb_qq">QQ</string>
+    <string name="fb_input_qq">Пожалуйста, введите ваш QQ</string>
+    <string name="fb_error_qq">Недопустимый QQ. Введите снова</string>
+    <string name="fb_content_title">Обратная связь:</string>
+    <string name="fb_appname_title">Название приложения:</string>
+    <string name="fb_time_title">Время обратной связи:</string>
+    <string name="fb_version_title">Версия:</string>
+    <string name="fb_contact_information">Контакты</string>
+    <string name="fb_save">Сохранить</string>
+    <string name="fb_log_path_empty">Лог отзыва не может быть пустым.</string>
+    <string name="fb_same_photo">Изображение уже добавлено, вберите другое</string>
+    <string name="fb_specific_app">Тип приложения</string>
+    <string name="fb_choose_module">Выберите тип отзыва</string>
+    <string name="fb_choose_module_app">Выберите тип приложения</string>
+    <string name="fb_reply_notification">Вам пришёл ответ на Отзыв</string>
+    <string name="fb_abandon_edit">При выходе все исправления будут потеряны</string>
+    <string name="fb_dialog_topic_delete">Удалить отзыв?</string>
+    <string name="fb_dialog_delete">Удалить отзыв</string>
+    <string name="fb_dialog_share">Отправить отзыв</string>
+    <string name="fb_toast_delfail">Ошибка удаления</string>
+    <string name="fb_load_fail">Ошибка загрузки, попробуйте позже</string>
+    <string name="fb_dialog_msg_deleting">выполнение…</string>
+    <string name="fb_add_photo">Добавить изображение</string>
+    <string name="fb_sending">Отправка…</string>
+    <string name="fb_resend">Послать ещё раз</string>
+    <string name="fb_delete">Удалить</string>
+    <string name="fb_option">Настройки</string>
+    <string name="lenovo_about">О программе</string>
+    <string name="lenovo_about_update">Обновить</string>
+    <string name="lenovo_about_update_now">Обновить сейчас!</string>
+    <string name="lenovo_about_versoin">Обнаружена новая версия</string>
+    <string name="lenovo_about_qqgroup">Группа QQ</string>
+    <string name="lenovo_about_weibo">Sina Weibo</string>
+    <string name="lenovo_about_email">E-mail</string>
+    <string name="lenovo_about_unsupport">Сейчас недоступно. Ожидайте!</string>
+    <string name="lenovo_about_divider">": "</string>
+    <string name="lenovo_about_AboutInfoCopyRight_Cn" />
+    <string name="lenovo_about_AboutInfoCopyRight_En">Copyright © 2013 Lenovo. Все права защищены</string>
+    <string name="lenovo_about_divider_at" />
+    <string name="lenovo_about_netconnect_alert">Эта операция требует сетевого подключения. Продолжить?</string>
+    <string name="lenovo_about_prompt">Уведомление</string>
+    <string name="ab_version_introduction">Знакомство с функциями</string>
+    <string name="ab_contacts">Метод контакта</string>
+    <string name="ab_feedback">Отзыв</string>
+    <string name="ab_checking_update">Проверка обновлений...</string>
+    <string name="ab_downloading_update">Загрузка обновлений...</string>
+    <string name="ab_website">Официальный веб-сайт</string>
+    <string name="ab_patch_update">Обновление сокращения трафика</string>
+    <string name="action_bar_up_description">Вверх</string>
+    <string name="ab_cvaa_show_items">showing items 1 to num of num</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите Wi-Fi!</string>
+    <string name="SUS_MSG_LATESTVERSION">Установлена текущая версия!</string>
+    <string name="SUS_MSG_NOTFOUND">Нет обновлений!</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Сеть недоступна!</string>
+    <string name="SUS_MSG_WARNING_PENDING">Обновляется в данный момент!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Загрузка завершена!</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Ошибка обновления. Повторите попытку!</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Не предлагать</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">Предлагать при обнаружении новой версии</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Недостаточно места на устройстве хранения!</string>
+    <string name="SUS_VERSIONUPDATE">Найдена новая версия!</string>
+    <string name="SUS_UPDATEDESC">Описание:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Имя:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Размер:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">Для загрузки рекомендуется Wi-Fi!</string>
+    <string name="SUS_UPDATE">Обновить</string>
+    <string name="SUS_CANCEL">Позже</string>
+    <string name="SUS_DOWNLOAD_TITLE">Идет загрузка IdeaFriend!</string>
+    <string name="SUS_CANCELBUTTON">Отмена</string>
+    <string name="SUS_NOTIFICATION_TITLE">Подсказка</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Обновление... Подождите!</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Тайм-аут сети. Ещё раз...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">ОК</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Прервать</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Это диалоговое окно будет скрыто через</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">с.)</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Нажмите для установки!</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">Нажмите для установки:</string>
+    <string name="SUS_CURRENT_VERSION">Текущая версия</string>
+    <string name="SUS_NEW_VERSION">Новая версия</string>
+    <string name="SUS_FIND_NEW_VERSION">Обнаружена новая версия для</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Установка приложения.</string>
+    <string name="SUS_BTN_UPDATINGPROMPT">Обновление…</string>
+    <string name="todayis">Сегодня</string>
+    <string name="todayisspecialday">Сегодня особый день</string>
+    <string name="str_festival_title">Фестиваль</string>
+    <string name="str_solarterm_title">Солнцестояние</string>
+    <string name="shareEvent">Передать событие</string>
+    <string name="share_label">Передать</string>
+    <string name="loading_failed">Ошибка загрузки</string>
+    <string name="operation_failed">Ошибка операции. Проверьте, выключено ли \"Хранилище календаря\"</string>
+    <string name="clear_events">Удалить все события</string>
+    <string name="select_clear_calendars_title">Выберите аккаунт</string>
+    <string name="clear_all_selected_events_title">Все события выбранных аккаунтов будут удалены.</string>
+    <string name="delete_completed">Удалено</string>
+    <string name="wait_deleting_tip">Удаление...</string>
+    <string name="attendees_invalid_tip">Некоторые приглашенные лица не найдены</string>
+    <string name="unread_reminders">Не просмотрено: %d</string>
+    <string name="click_to_view_all">Просмотреть все</string>
+    <string name="search_setting_description">События календаря</string>
+    <string name="lunar_radio_text">Lunar</string>
+    <string name="gregorian_radio_text">Solar</string>
+    <string name="quick_response_error_already_exist">Уже создано</string>
+    <string name="quick_response_error_null">Введите данные</string>
+    <string name="preferences_alerts_vibrateWhen_summary">Оповещать вибрацией</string>
+    <string name="search_hint">Поиск</string>
+    <string name="search_for">Поиск \"%s\"</string>
+    <string name="login">Войти</string>
+    <string name="str_export_success">Экспорт завершен</string>
+    <string name="str_export_fail">Сбой экспорта</string>
+    <string name="str_delete_success">Событие удалено</string>
+    <string name="str_delete_fail">Сбой удаления</string>
+    <string name="str_import_success">Импорт завершен</string>
+    <string name="str_import_fail">Сбой импорта событий</string>
+    <string name="birthday">День рождения</string>
+    <string name="events">Расписание</string>
+    <string name="reminders">Событие</string>
+    <string name="notes">Записки</string>
+    <string name="cards">Карты</string>
+    <string name="trip">Поездка</string>
+    <string name="select_all">Выб.все</string>
+    <string name="unselect_all">Отм.все</string>
+    <string name="export_label">Экспорт</string>
+    <string name="import_label">Импорт события</string>
+    <string name="export_detial">Экспорт на SD-карту</string>
+    <string name="import_detial">Импорт с SD-карты</string>
+    <string name="delete_event_label">Удалить расписание</string>
+    <string name="export_message">Экспорт...</string>
+    <string name="export_confirm">Экспортировать выбранное?</string>
+    <string name="import_message">Идет импорт...</string>
+    <string name="import_confirm">Импортировать выбранное?</string>
+    <string name="delete_event_message">Удаление...</string>
+    <string name="delete_event_confirm">Удалить выбранное?</string>
+    <string name="export_event">Экспорт (%d)</string>
+    <string name="delete_event">Удаление (%d)</string>
+    <string name="import_event">Импорт(%d)</string>
+    <string name="wait_tip">Подождите...</string>
+    <string name="delete_message">Удалить?</string>
+    <string name="ticker_title">Следующее событие:</string>
+    <string name="hour_text">час.</string>
+    <string name="min_text">мин.</string>
+    <string name="sec_text">сек.</string>
+    <string name="add_reminder">Создать напоминание</string>
+    <string name="add_card">Add Credit Card</string>
+    <string name="reminder_expired">Истекло</string>
+    <string name="today_no_events">Нет событий</string>
+    <string name="preferences_update_data">Обновить данные о выходных</string>
+    <string name="preferences_show_lunar">Показать лунную дату</string>
+    <string name="preferences_show_almanac">Показать альманах</string>
+    <string name="preferences_menu_gravity">Положение меню нового события</string>
+
+
+    <string name="fly_detial_title">Сведения о рейсе</string>
+    <string name="repayment_day">День платежа:</string>
+    <string name="new_tip">New</string>
+    <string name="from_text">От: %s</string>
+    <string name="to_text">Кому: %s</string>
+    <string name="name_birthday_text">День рождения: %s</string>
+    <string name="name_lunar_birthday_text">"%s's лунный день рождения"</string>
+    <string name="tips1">Выберите дату</string>
+    <string name="tips2">Жест вверх/вниз для переключения между месяцем и неделей</string>
+    <string name="tips3">Жест слева направо для отображения меню</string>
+    <string name="str_days">дн.</string>
+    <string name="edit_note">Редактировать записку</string>
+    <string name="credit_card_reminder">Напоминание окончания срока действия Кредитной карты</string>
+    <string name="str_reminder_hint">Введите описание</string>
+    <string name="str_reminder0">В тот же день</string>
+    <string name="str_reminder1">За 1 день</string>
+    <string name="str_reminder2">За 2 дня</string>
+    <string name="str_reminder3">За 3 дня</string>
+    <string name="str_reminder4">За 4 дня</string>
+    <string name="str_reminder5">За 5 дней</string>
+    <string name="str_description_info">Заметка</string>
+    <string name="str_creditcard_title">Напоминания по кредитной карте</string>
+    <string name="str_please_input_title">Введите название</string>
+    <string name="str_please_input_note">Введите записку</string>
+    <string name="str_more_settings">Другие параметры</string>
+    <string name="str_shut_close">Свернуть</string>
+    <string name="str_edit_event">Изменить расписание</string>
+    <string name="str_create_event">Создать расписание</string>
+    <string name="str_description">Заметка</string>
+    <string name="str_where">Место</string>
+    <string name="str_type">Аккаунт</string>
+    <string name="str_dueTo">До</string>
+    <string name="str_repeat">Повтор</string>
+    <string name="str_reminder">Напомнить</string>
+    <string name="str_ahead">Заранее</string>
+    <string name="str_please_input_event_title">Введите тему расписания</string>
+    <string name="str_event_title">Заголовок</string>
+    <string name="str_start">Начало</string>
+    <string name="str_end">Конец</string>
+    <string name="str_end_must_after_start">Время окончания должно быть позднее времени начала</string>
+    <string name="str_more_timezones">Другие часовые пояса ></string>
+    <string name="str_timezone">Часовой пояс</string>
+    <string name="str_lastdate_must_after_startdate">Дата окончания должна быть позднее даты начала</string>
+    <string name="str_local_event">Локальное расписание</string>
+    <string name="str_not_remind">Не напоминать</string>
+    <string name="str_remind_on_time">По расписанию</string>
+    <string name="str_no_repeat">Без повтора</string>
+    <string name="str_it_is_due_day_today">Сегодня день выплат по кредитной карте</string>
+    <string name="str_x_day_left">Осталось %d дн.</string>
+    <string name="str_event_detail">Подробнее</string>
+    <string name="str_delay_5_min">Задержка 5 мин.</string>
+    <string name="str_journey_alarm">Напоминание о путешествии</string>
+    <string name="str_select_date">Выберите дату</string>
+    <string name="str_alarm_closed">Завершено</string>
+    <string name="str_turn_off">Откл.</string>
+    <string name="str_turn_on">Вкл.</string>
+    <string name="str_skip">Пропустить</string>
+    <string name="i_see">Я знаю</string>
+    <string name="account_management">Управление аккаунтами</string>
+    <string name="str_today_todo">Расписание на сегодня</string>
+    <string name="month_widget_label">Календарь</string>
+    <string name="day_widget_label">Calendar(2x2)</string>
+    <string name="str_no_title">Без темы</string>
+    <string name="str_widget_todo">Календарь</string>
+    <string name="no_reminders">Вы не добавили напоминание</string>
+    <string name="no_activited_reminders">Для последних событий не требуются напоминания</string>
+    <string name="no_cards">No credit card record</string>
+    <string name="no_trip">No trip record</string>
+    <string name="multi_delete">Удалить несколько элементов</string>
+    <string name="alarm_time">Время сигнала</string>
+    <string name="alarm_count">Повтор сигнала</string>
+    <string name="weekdayly">Every weekday</string>
+    <string name="weekly_on_day">Еженедельно %s</string>
+    <string name="monthly_on_day_count1">Ежемесячно (кажд. %1$s%2$s)</string>
+    <string name="monthly_on_day1">Ежемесячно (кажд. %s)</string>
+    <string name="yearly1">Ежегодно %s</string>
+    <string name="delete_reminder_label">Удаление напоминаний</string>
+    <string name="delete_reminder_confirm">Удалить выбранные напоминания?</string>
+    <string name="export_reminder_label">Экспорт напоминаний</string>
+    <string name="export_reminder_confirm">Экспортировать выбранные напоминания?</string>
+    <string name="import_reminder_label">Импорт напоминаний</string>
+    <string name="import_reminder_confirm">Импортировать выбранные напоминания?</string>
+    <string name="n_selected">Выбрано: %d</string>
+    <string name="export">Экспорт</string>
+    <string name="str_import_reminder_success">Успешный импорт напоминаний</string>
+    <string name="str_import_reminder_fail">Сбой импорта напоминаний</string>
+    <string name="str_export_reminder_success">Успешный экспорт напоминаний</string>
+    <string name="str_export_reminder_fail">Сбой экспорта напоминаний</string>
+    <string name="str_delete_reminder_success">Успешное удаление напоминаний</string>
+    <string name="str_delete_reminder_fail">Сбой удаления напоминаний</string>
+    <string name="backup_restore">Архивация и восстановление</string>
+    <string name="preferences_backup_summary">Архивация событий, напоминаний и дней рождения на SD-карту</string>
+    <string name="preferences_backup_title">Архивация на SD-карту</string>
+    <string name="backup_succeed">Успешная архивация!</string>
+    <string name="backup_failed">Сбой архивации!</string>
+    <string name="preferences_restore_summary">Восстановить последнюю архивную копию</string>
+    <string name="preferences_restore_title">Восстановление</string>
+    <string name="restore_succeed">Успешное восстановление!</string>
+    <string name="restore_failed">Сбой восстановления!</string>
+    <string name="select_backup_file">Выбор архива</string>
+    <string name="select_restore_title">Восстановить</string>
+    <string name="select_restore_summary">Восстановление из выбранной архивной копии</string>
+    <string name="restore_confirm">Восстановить из этого архива?</string>
+    <string name="delete_backup_file_confirm">Удалить этот архив?</string>
+    <string name="doing_backup">Выполняется архивация...</string>
+    <string name="doing_restoring">Выполняется восстановление...</string>
+    <string name="no_need_to_backup">Нет данных для архивации</string>
+    <string name="select_file_from_other_directory">Импорт из других каталогов</string>
+    <string name="event_reminder">Напоминание о событии</string>
+    <string name="slide_up_to_close_alarm">Сдвиньте вверх</string>
+    <string name="give_feedback">Отправить отзыв</string>
+    <string name="received_sms_but_no_reminders">Полученны SMS без напоминаний.</string>
+    <string name="sms_template_title">Отправить SMS шаблон</string>
+    <string name="will_read_sms">Позволить Календарю читать SMS?</string>
+    <string name="sms_template_hint">SMS шаблон</string>
+    <string name="select_sms">Выбрать SMS</string>
+    <string name="submit_feedback">Отправить</string>
+    <string name="no_sms">нет сообщений</string>
+    <string name="post_success">Успех</string>
+    <string name="post_failed">Ошибка</string>
+    <string name="import_to">Импорт в</string>
+    <string name="import_button">Импорт</string>
+    <string name="no_access_toast">Учетная запись не найдена. Сначала добавьте учетную запись.</string>
+    <string name="null_name">Нет</string>
+    <string name="calendar_lable">Календарь:</string>
+    <string name="date_lable">Дата:</string>
+    <string name="import_title">Импорт событий</string>
+    <string name="importing">Выполняется импорт...</string>
+    <string name="import_complete">Импорт выполнен</string>
+    <string name="open">Открыть</string>
+    <string name="progresszero">0%</string>
+    <string name="progresshundred">100%</string>
+    <string name="import_vcs_failed">Не удалось импортировать событие.</string>
+    <string name="title_lable">"Заголовок: "</string>
+    <string name="no_syncable_calendars">Нет календарей</string>
+    <string name="no_calendars_found">Добавить событие в календарь можно только, если создан аккаунт Goolge. Нажмите \"Добавить аккаунт\" или, если аккаунт уже добавлен, дождитесь окончания синхронизации и повторите попытку. Либо нажмите \"Отмена\" и сделайте видимым хотя бы один календарь.</string>
+    <string name="retry">Повтор</string>
+    <string name="give_up">Прервать</string>
+    <string name="open_calendar_failed">Календарь недоступен.</string>
+    <string name="loading">Загрузка…</string>
+    <string name="confirm_delete_birthday">Удалить день рождения</string>
+    <string name="confirm_dialog_title">Удалить</string>
+    <string name="birthday_list_title">"День рожде-
+ния"</string>
+    <string name="send_message">Отправить сообщение</string>
+    <string name="call">Вызов</string>
+    <string name="str_have">Осталось</string>
+    <string name="str_tommorow">Завтра</string>
+    <string name="str_day_after_tommorow">Через 2 дня</string>
+    <string name="edit_name_hint">Введите имя</string>
+    <string name="str_birthday_alert_content">День рождения: %s. Отправьте пожелания!</string>
+    <string name="send_wishes">Отправить пожелания</string>
+    <string name="birthday_indication">Сегодня день рождения вашего друга</string>
+    <string name="birthday_count_indication">Сегодня у %1$d день рождения</string>
+    <string name="birthday_detial_title">День рождения</string>
+    <string name="str_to_age_today_birth">Сегодня %1$d-летие</string>
+    <string name="str_to_age">"До %1$d-летия "</string>
+    <string name="str_day_left">Осталось %1$d дн.</string>
+    <string name="str_current_day">В тот же день</string>
+    <string name="str_1_day_ahead">За 1 день</string>
+    <string name="str_3_days_ahead">За 3 дня</string>
+    <string name="str_1_week_ahead">За 7 дней</string>
+    <string name="str_15_days_ahead">За 15 дней</string>
+    <string name="str_1_month_ahead">За 1 месяц</string>
+    <string name="no_alert">Не напоминать</string>
+    <string name="add_birthday_title">Добавить день рождения</string>
+    <string name="more_settings">Другие параметры</string>
+    <string name="str_more_settings_hide">Скрыть</string>
+    <string name="save">Сохранить</string>
+    <string name="str_please_input_name">Введите имя</string>
+    <string name="str_notes">Заметка</string>
+    <string name="str_mobile_number">Телефон</string>
+    <string name="str_send_wishes_hint">Для поздравления</string>
+    <string name="str_alert">"Напомнить"</string>
+    <string name="str_today_birth_indication_single">Сегодня день рождения у друзей: %1$s</string>
+    <string name="str_today_birth_indication_multiple">Сегодня день рождения у друзей: %1$s</string>
+    <string name="str_no_today_birth_ind">Сегодня нет событий</string>
+    <string name="str_year">Год</string>
+    <string name="str_month">Месяц</string>
+    <string name="str_birth_now">Родился</string>
+    <string name="str_birthdate_wrong_ind">Нельзя вводить будущие даты!</string>
+    <string name="str_has_year">Не указывать год</string>
+    <string name="str_to_birthday">До его/ее дня рождения</string>
+    <string name="delete_birthday_label">Удалить день рождения</string>
+    <string name="confirm_delete_all_birthday">Удалить выбранные дни рождения</string>
+    <string name="str_birthday_alarm">Дни рождения</string>
+    <string name="choose_phone_number">Введите номер</string>
+    <string name="contact_edit_photo_camera">Камера</string>
+    <string name="contact_edit_photo_file">Фото</string>
+    <string name="photoPickerNotFoundText">На телефоне нет изображений.</string>
+    <string name="birthday_import_title">Импорт дней рождений из контактов</string>
+    <string name="str_unknown">Без имени</string>
+    <string name="confirm_import_all_contact">Импорт выбранных контактов</string>
+    <string name="import_contact_ind">Импорт дней рождений...</string>
+    <string name="import_finish">Импортировано</string>
+    <string name="import_contact_with_birthday">Импорт дня рождения</string>
+    <string name="date_picker_settings">Задать дату</string>
+    <string name="time_picker_settings">Задать время</string>
+    <string name="please_input_birthdate">Выбрать дату</string>
+    <string name="str_alert_time">Время сигнала</string>
+    <string name="str_alert_day">Повтор сигнала</string>
+    <string name="notify_birthday_import_ind">Дни рождения импортированы. Нажмите для просмотра</string>
+    <string name="day_left_ind">" дн."</string>
+    <string name="age">%1$d-летие</string>
+    <string name="no_birthday">Вы не добавили день рождения</string>
+    <string name="str_birthday_constellation">Козерог,Водолей,Рыбы,Овен,Телец,Близнецы,Рак,Лев,Дева,Весы,Скорпион,Стрелец,Козерог</string>
+    <string name="str_please_input_birthday">Введите день рождения</string>
+    <string name="str_alert_age_birth_ind">"%1$s's%2$d летний День Рождения"</string>
+    <string name="preferences_birthday_alerts_title">Уведомление о дне рождения</string>
+    <string name="str_alert_birth_ind">%1$s: день рождения</string>
+    <string name="str_birthday_today_without_age_ind">Сегодня день рождения</string>
+    <string name="load">загрузка</string>
+    <string name="export_birthday_label">экспорт дня рождения</string>
+    <string name="export_birthday_detail">экспорт дня рождения на SD-карту</string>
+    <string name="import_birthday_label">импорт дня рождения</string>
+    <string name="import_birthday_detail">импорт дня рождения с SD-карты</string>
+    <string name="str_export_birthday_success">успешный экспорт дня рождения</string>
+    <string name="str_export_birthday_fail">сбой экспорта дня рождения</string>
+    <string name="str_import_birthday_success">успешный импорт дня рождения</string>
+    <string name="str_import_birthday_fail">сбой импорта дня рождения</string>
+    <string name="import_birthday_confirm">импорт выбранного дня рождения</string>
+    <string name="user_feedback">User feeedback</string>
+    <string name="menu_plugin">Ещё</string>
+    <string name="plugin_get_download_fail_no_update">Новая версия недоступна!</string>
+    <string name="plugin_get_download_url_fail">Сбой получения URL загрузки!</string>
+    <string name="plugin_download_notification_title">Загрузка</string>
+    <string name="plugin_download_btn_cancel">Отмена</string>
+    <string name="plugin_download_btn_uninstall">Удаление</string>
+    <string name="plugin_download_btn_update">Обновить</string>
+    <string name="plugin_download_btn_install">Установка</string>
+    <string name="plugin_installed_title">Удалить или обновить?</string>
+    <string name="plugin_update_dialog_title">Обновить?</string>
+    <string name="plugin_not_installed_title">Установить?</string>
+    <string name="plugin_download">Загрузка</string>
+    <string name="plugin_uninstall">Удалено</string>
+    <string name="plugin_install">Установлено</string>
+    <string name="plugin_uninstall_fail">Невозможно удалить системное приложение.</string>
+    <string name="plugin_weather">Погода Lenovo</string>
+    <string name="plugin_almanac">Альманах</string>
+    <string name="no_titleyi_label">Всё хорошо</string>
+    <string name="no_titleji_label" />
+    <string name="unknown_city">[нет данных о погоде]</string>
+    <string name="birthday_delete_disable_indication">Не удается удалить дни рождения, импортированные из контактов. Удалите их из контактов</string>
+    <string name="empty_list_birthday_delete_disable">Не удается удалить импортированные дни рождения</string>
+    <string name="auto_import_indication_str">Не забывайте про дни рождения друзей. Выберите Параметры > Читать контакты и сообщения, и будете получать напоминания о днях рождениях</string>
+    <string name="preferences_cta_indication">Читать контакты и сообщения</string>
+    <string name="preferences_cta_indication_summary">Чтение дней рождений, сообщений об платежах по кредитной карте и рейсах самолета и выдача напоминаний</string>
+    <string name="preferences_auto_sync_birthday_title">Автоматический импорт дней рождений из контактов</string>
+    <string name="user_authroty_title">"В календаре будут считываться контакты и сообщения:
+ 1. Для напоминаний о днях рождения
+ 2. Для напоминаний о платежах по кредитной карте
+ 3. Для напоминаний о рейсах"</string>
+    <string name="user_authroty_text">Позже можно выбрать Параметры > Читать контакты и сообщения</string>
+    <string name="data_authroty_checkbox">Разрешаю подключаться к интеренту для обновления информации о выходных</string>
+    <string name="user_authroty_checkbox">Разрешаю чтение контактов и сообщений</string>
+    <string name="ampty_card_text">Вы постоянно забываете перевести деньги на кредитную карту? Выберите Параметры > Читать контакты и сообщения, и будете получать напоминания</string>
+    <string name="ampty_fly_text">Опять пропустили свой рейс? Выберите Параметры > Читать контакты и сообщения, и будете получать напоминания</string>
+    <string name="try_now">Испытать</string>
+    <string name="cta_dialog_title">Дружеское напоминание</string>
+    <string name="select_from_contact">Выберите контакт</string>
+    <string name="imported">Импортировано</string>
+    <string name="preferences_splash_pic_dialog">Экранная заставка</string>
+    <string name="widget_config_tag1">Светлый</string>
+    <string name="widget_config_tag2">Темный</string>
+    <string name="widget_config_tag3">Прозрачный</string>
+    <string name="widget_config_tag1_disc">Подходит для темного фона рабочего стола</string>
+    <string name="widget_config_tag2_disc">Подходит для светлого фона рабочего стола</string>
+    <string name="widget_config_tag3_disc">Подходит для сплошного цветного фона рабочего стола</string>
+    <string name="timeweather_widget_label">Календарь</string>
+    <string name="todoweather_widget_label">Календарь</string>
+    <string name="monthweather_widget_label">Календарь</string>
+    <string name="no_invalid_email">Нет нужных писем, добавьте в ручную.</string>
+    <string name="hour_minute_24" formatted="false">%H:%M</string>
+    <string name="hour_minute_ampm" formatted="false">%-l:%M%p</string>
+    <string name="preferences_birthday_remind_time_title">" Время напоминания о дне рождения по умолчанию"</string>
+    <string name="male_disc">мужчина</string>
+    <string name="female_disc">женщина</string>
+    <string name="top_button_menu_disc">меню</string>
+    <string name="sdCardFull">Не осталось места на телефоне</string>
+    <string name="image_disc">фото</string>
+    <string name="import_contact_disc">контакт</string>
+    <string name="edit_event_disc">редактировать событие</string>
+    <string name="event_detail_disc">детали события</string>
+    <string name="action_message_disc">sms</string>
+    <string name="action_call_disc">тел.</string>
+    <string name="home_as_up_disc">назад</string>
+    <string name="search_disc">поиск</string>
+    <string name="new_event_disc">добавить</string>
+    <string name="select_sms_disc">выбрать sms</string>
+    <string name="lenovo_cta_alert">Читать контакты и SMS для этой операчии</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="app_label">Календарь</string>
+    <string name="what_label">Что</string>
+    <string name="where_label">Где</string>
+    <string name="when_label">Когда</string>
+    <string name="timezone_label">Часовой пояс</string>
+    <string name="attendees_label">Гости</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="today_at_time_fmt">Сегодня, %s</string>
+    <string name="tomorrow_at_time_fmt">Завтра, %s</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
+    <string name="repeats_label">Повторять</string>
+    <string name="no_title_label">(Нет заголовка)</string>
+    <string name="calendar_refresh">Обновить</string>
+    <string name="show_day_view">Показать день</string>
+    <string name="agenda_view">Повестка дня</string>
+    <string name="day_view">День</string>
+    <string name="week_view">Неделя</string>
+    <string name="month_view">Месяц</string>
+    <string name="event_view">Просмотр мероприятия</string>
+    <string name="event_create">Новое мероприятие</string>
+    <string name="event_edit">Изменить мероприятие</string>
+    <string name="event_delete">Удалить мероприятие</string>
+    <string name="goto_today">Сегодня</string>
+    <string name="menu_preferences">Настройки</string>
+    <string name="menu_select_visible_calendars">Календари</string>
+    <string name="search">Поиск</string>
+    <string name="hide_controls">Скрыть боковую панель</string>
+    <string name="show_controls">Показать боковую панель</string>
+    <string name="select_visible_calendars_title">Календари</string>
+    <string name="synced">синхронизирован</string>
+    <string name="not_synced">не синхронизирован</string>
+    <string name="acct_not_synced">Аккаунт не синхронизируется, календари не обновляются</string>
+    <string name="accounts">Аккаунты</string>
+    <string name="select_synced_calendars_title">Выбор календарей</string>
+    <string name="select_synced_calendars_button">Выбор календарей</string>
+    <string name="hint_what">Название события</string>
+    <string name="hint_where">Место</string>
+    <string name="hint_description">Описание</string>
+    <string name="hint_attendees">Гости</string>
+    <string name="creating_event">Мероприятие создано</string>
+    <string name="saving_event">Мероприятие сохранено</string>
+    <string name="empty_event">Нельзя создать мероприятие без данных</string>
+    <string name="creating_event_with_guest">Приглашения отправлены</string>
+    <string name="saving_event_with_guest">Обновления отправлены</string>
+    <string name="alert_title">Событие</string>
+    <string name="event_info_title">Просмотр события</string>
+    <string name="event_info_title_invite">Приглашение на встречу</string>
+    <string name="edit_event_to_label">До</string>
+    <string name="edit_event_from_label">С</string>
+    <string name="edit_event_all_day_label">Весь день</string>
+    <string name="edit_event_calendar_label">Календарь</string>
+    <string name="edit_event_show_all">Показать все</string>
+    <string name="description_label">Описание</string>
+    <string name="presence_label">Мой статус</string>
+    <string name="privacy_label">Приватность</string>
+    <string name="reminders_label">Добавить напоминание</string>
+    <string name="create_an_account_desc">Подключите календарь к Google-аккаунту, чтобы всегда иметь доступ к событиям календаря на любом устройстве</string>
+ 
+
+
+    <string name="add_account">Добавить аккаунт</string>
+    <string name="view_event_calendar_label">Календарь</string>
+    <string name="view_event_organizer_label">Организатор</string>
+    <string name="view_event_response_label">Принять приглашение?</string>
+    <string name="response_yes">Да</string>
+    <string name="response_maybe">Может быть</string>
+    <string name="response_no">Нет</string>
+    <string name="email_guests_label">Уведомить по эл. почте</string>
+    <string name="email_organizer_label">Ответить организатору</string>
+    <string name="email_picker_label">Отправить из</string>
+    <string name="email_subject_prefix">"Re: "</string>
+    <string name="event_not_found">Мероприятие не найдено</string>
+    <string name="quick_response_settings">Быстрые ответы</string>
+    <string name="quick_response_settings_summary">Изменить ответы</string>
+    <string name="quick_response_settings_title">Изменить ответы</string>
+    <string name="quick_response_settings_edit_title">Быстрый ответ</string>
+    <string name="quick_response_dialog_title">Выбор быстрого ответа</string>
+    <string name="quick_response_email_failed">Не удалось найти почтовый клиент</string>
+    <string name="quick_response_custom_msg">Ввести сообщение</string>
+    <string name="event_info_organizer">Организатор</string>
+    <string name="event_info_reminders_label">Напоминание</string>
+    <string name="agenda_today">Сегодня, %1$s</string>
+    <string name="agenda_yesterday">Вчера, %1$s</string>
+    <string name="agenda_tomorrow">Завтра, %1$s</string>
+    <string name="show_older_events">Нажмите, чтобы увидеть события до %1$s</string>
+    <string name="show_newer_events">Нажмите, чтобы увидеть события после %1$s</string>
+    <string name="search_title">Поиск в моих календарях</string>
+    <string name="edit_event_label">Подробно</string>
+    <string name="edit_label">Изменить</string>
+    <string name="delete_label">Удалить</string>
+    <string name="save_label">ОК</string>
+    <string name="discard_label">Отмена</string>
+    <string name="snooze_all_label">Напомнить</string>
+    <string name="dismiss_all_label">Удалить все</string>
+    <string name="snooze_label">Отложить</string>
+    <string name="does_not_repeat">Однократно</string>
+    <string name="daily">Ежедневно</string>
+    <string name="every_weekday">Каждый будний день (пн–пт)</string>
+    <string name="weekly">Еженедельно (кажд. %s)</string>
+    <string name="monthly_on_day_count">Ежемесячно (кажд. %1$s %2$s)</string>
+    <string name="monthly">Ежемесячно</string>
+    <string name="yearly_plain">Ежегодно</string>
+    <string name="monthly_on_day">Ежемесячно (%s числа)</string>
+    <string name="yearly">Ежегодно (%s)</string>
+    <string name="custom">Особое… (настраивается только на сайте)</string>
+    <string name="modify_event">Изменить только это событие</string>
+    <string name="modify_all">Изменить все события</string>
+    <string name="modify_all_following">Изменить это и будущие события</string>
+    <string name="new_event_dialog_label">Новое событие</string>
+    <string name="new_event_dialog_option">Новое событие</string>
+    <string name="delete_this_event_title">Удалить событие?</string>
+    <string name="delete_recurring_event_title">Удалить \"%s\"?</string>
+    <string name="change_response_title">Изменить ответ</string>
+    <string name="menu_general_preferences">Общие настройки</string>
+    <string name="menu_about_preferences">О календаре</string>
+    <string name="preferences_title">Настройки</string>
+    <string name="preferences_general_title">Мероприятия</string>
+    <string name="preferences_reminder_title">Настройки напоминаний</string>
+    <string name="preferences_hide_declined_title">Скрыть отклоненные</string>
+    <string name="preferences_week_start_day_title">Начало недели</string>
+    <string name="preferences_week_start_day_dialog">Начало недели</string>
+
+    <string name="preferences_clear_search_history_title">Очистить историю поиска</string>
+    <string name="preferences_clear_search_history_summary">Удалить всю историю поиска?</string>
+    <string name="search_history_cleared">История поиска удалена</string>
+    <string name="preferences_alerts_title">Оповещения</string>
+    <string name="preferences_alerts_vibrateWhen_title">Вибросигнал</string>
+    <string name="preferences_alerts_ringtone_title">Мелодия</string>
+    <string name="preferences_alerts_popup_title">Всплывающее уведомление</string>
+    <string name="preferences_default_reminder_title">Время напоминания</string>
+    <string name="preferences_default_reminder_dialog">Напомнить</string>
+    <string name="preferences_default_reminder_default">10</string>
+    <string name="preferences_use_home_tz_title">Фикс. часовой пояс</string>
+    <string name="preferences_use_home_tz_descrip">Всегда показывать в календаре время в заданном часовом поясе</string>
+    <string name="preferences_home_tz_title">Мой часовой пояс</string>
+
+    <string name="preferences_show_week_num_title">Показать номер недели</string>
+    <string name="preferences_about_title">О программе</string>
+    <string name="preferences_build_version">Версия сборки</string>
+    <string name="prefDefault_alerts_vibrateWhen">never</string>
+    <string name="prefDefault_alerts_vibrate_true">always</string>
+    <string name="prefDefault_alerts_vibrate_false">never</string>
+    <string name="prefDialogTitle_vibrateWhen">Вибросигнал</string>
+    <string name="gadget_title">Календарь</string>
+    <string name="gadget_no_events">Нет предстоящих событий</string>
+    <string name="tardis">TARDIS</string>
+    <string name="copy_db">Отправить базу данных</string>
+    <string name="directory_searching_fmt">Поиск в %s…</string>
+    <string name="accessibility_remove_attendee">Удалить участника</string>
+    <string name="accessibility_pick_start_date">Дата начала</string>
+    <string name="accessibility_pick_start_time">Время начала</string>
+    <string name="accessibility_pick_end_date">Дата окончания</string>
+    <string name="accessibility_pick_end_time">Время окончания</string>
+    <string name="accessibility_pick_time_zone">Часовой пояс</string>
+    <string name="accessibility_add_reminder">Добавить напоминание</string>
+    <string name="accessibility_remove_reminder">Удалить напоминание</string>
+    <string name="accessibility_add_attendee">Добавить участника</string>
+    <string name="accessibility_sync_cal">Синхронизировать календарь</string>
+    <string name="accessibility_all_day">Весь день</string>
+    <string name="accessibility_repeats">Повтор</string>
+    <string name="accessibility_reminder_time">Время напоминания</string>
+    <string name="accessibility_reminder_type">Тип напоминания</string>
+    <string name="accessibility_reminder_showmeas">Мой статус</string>
+    <string name="accessibility_reminder_privacy">Приватность</string>
+    <string name="acessibility_cal_notification">Уведомления</string>
+    <string name="acessibility_snooze_notification">Напомнить позже</string>
+    <string name="accessibility_email_notification">Уведомить по эл. почте</string>
+    <string name="day_view_new_event_hint">Создать событие</string>
+    <string name="template_announce_item_index">Событие %1$s из %2$s</string>
+    <string name="acessibility_selected_marker_description">Выбранное событие</string>
+    <string name="do_not_check">НЕ устанавливайте флажок ></string>
+    <string name="valid_date_range">Ативно с января 1970 г. по декабрь 2036 г.</string>
+    <string name="delete_certain">ОК</string>
+    <string name="go_to">Перейти</string>
+    <string name="cancel">Отмена</string>
+    <string name="week">Неделя</string>
+    <string name="check_update">Проверка обновления</string>
+    <string name="weekday">Ежедневно</string>
+    <string name="import_export">Импорт/Экспорт</string>
+    <string name="str_title">Заголовок</string>
+    <string name="delete">ОК</string>
+    <string name="no">Отмена</string>
+    <string name="str_birthday_indication_today">Сегодня</string>
+    <string name="str_birthday_indication_friend">Сегодня день рождения друга!</string>
+    <string name="str_alert_age_today_birth">Сегодня у %1$s%2$d-летие</string>
+    <string name="plugin_delete">Удалить</string>
+    <string name="plugin_pause">Пауза</string>
+    <string name="plugin_continue">Продолжить</string>
+    <string name="plugin_installed">Установлено</string>
+    <string name="plugin_open">Открыть</string>
+    <string name="plugin_delete_fail">Сбой удаления!</string>
+    <string name="plugin_download_fail">Сбой загрузки!</string>
+    <string name="plugin_downloading_info">Загрузка остановлена</string>
+</resources>

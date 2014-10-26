@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SleeplogViewerActivity!</string>
+    <string name="app_name">SleeplogViewer</string>
+    <string name="powerstatus">PowerStatus</string>
+    <string name="power_status">PowerStatus Output</string>
+    <string name="powerstatus_hello">Hello</string>
+    <string name="powerstatus_show">show powerstatus information</string>
+    <string name="powerstatus_top_processes">show top processes</string>
+    <string name="powerstatus_top_threads">show top threads</string>
+    <string name="powerstatus_test_summary">display powermanagerment info</string>
+    <string name="powerstatus_test">powerstatus test</string>
+    <string name="LogFileBrowser">sleeplog</string>
+    <string name="sleeplog">sleeplog:</string>
+    <string name="statistics">View statistics</string>
+    <string name="sleepTimes">Sleep times:</string>
+    <string name="sleepTime">Sleep Time:</string>
+    <string name="awakeTime">Wakeup time:</string>
+    <string name="selectlog">Select sleeplog</string>
+    <string name="logformat_err">sleeplog incorrect format</string>
+    <string name="menu_previous">Previous</string>
+    <string name="menu_next">Next</string>
+    <string name="firstOne">First one</string>
+    <string name="lastOne">Last One</string>
+    <string name="mydialog_title">Please wait a moment ...</string>
+    <string name="mydialog_body">Operation is being performed in the ...</string>
+    <string name="Open">Open</string>
+    <string name="Delete">Delete</string>
+</resources>
