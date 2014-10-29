@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips_array">
+        <item>"Copycat apps are dangeous
+Scan your phone with Sabre Tulong"</item>
+        <item>"Set Smart update in WLAN
+ to keep apps most updated"</item>
+        <item>"Connect the USB cable
+ to manage your phone on PC"</item>
+        <item>"Updating apps in data-saving mode 
+can save 92% data traffic"</item>
+        <item>"You can ignore the updates for 
+apps that you don't want to update"</item>
+        <item>"LenovoStore games zone
+ Numerous gifts for you to pick up"</item>
+    </string-array>
+    <array name="comment_array1" />
+    <array name="comment_array2" />
+    <array name="comment_array3" />
+    <array name="comment_array4" />
+    <array name="comment_array5" />
+</resources>

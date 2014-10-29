@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RomFeatureGuide</string>
+    <string name="change_theme_title">Новые возможности</string>
+    <string name="change_theme_content_hj">Наслаждайтесь новой темой MIRAGE!</string>
+    <string name="change_theme_content_hj_paopao">Наслаждайтесь новыми темой MIRAGE и локскрином BUBBLE!</string>
+    <string name="change_theme_content_paopao">Наслаждайтесь новым локскрином BUBBLE!</string>
+    <string name="btn_ok">OK</string>
+    <string name="rf_btn_cancel">Отмена</string>
+    <string name="btn_wait">Пожалуйста, подождите...</string>
+</resources>

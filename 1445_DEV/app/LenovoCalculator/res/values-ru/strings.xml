@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="error">Ошибка</string>
+    <string name="advanced">Инженерный вид</string>
+    <string name="clear_history">Очистить журнал</string>
+    <string name="copy">Копировать</string>
+    <string name="paste">Вставить</string>
+    <string name="only_digit">Можно только вставить номера</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="del">DEL</string>
+    <string name="clear">C</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="e">e</string>
+    <string name="ln">ln</string>
+    <string name="lg">log</string>
+    <string name="leftParen">(</string>
+    <string name="rightParen">)</string>
+
+
+
+    <string name="basic">Стандартный вид</string>
+    <string name="radian_mod">Рад</string>
+    <string name="angle_mod">Град</string>
+    <string name="copy_success">Скопировано</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="sliding_drawble">Сдвинуть</string>
+    <string name="change_oritation">Повернуть экран</string>
+    <string name="clear_text">Очистить</string>
+    <string name="leftParen_text">Левый интервал</string>
+    <string name="rightParen_text">Правый интервал</string>
+    <string name="del_text">Удалить</string>
+    <string name="div_text">Знак деления</string>
+    <string name="mul_text">Знак умножения</string>
+    <string name="minus_text">Знак минус</string>
+    <string name="dot_text">Десятичная точка</string>
+    <string name="plus_text">Знак плюс</string>
+    <string name="percent_text">Процент</string>
+    <string name="divd_text">Дробь</string>
+    <string name="sqrt_text">Знак корня</string>
+    <string name="exp_text">Экспонента</string>
+    <string name="square_text">Квадрат</string>
+    <string name="power_text">Степень</string>
+    <string name="factorial_text">Факториал</string>
+    <string name="abs_text">Абсолютное значение</string>
+    <string name="pi_text">Пи</string>
+    <string name="pull_down">Расширенная история</string>
+    <string name="pack_up">Свернуть историю</string>
+    <string name="change_radian_mod">Перевести в радианы</string>
+    <string name="change_angle_mod">Перевести в углы</string>
+    <string name="ln_text">Логарифм</string>
+    <string name="log_text">Десятичный логирифм</string>
+    <string name="e_text">Число Эйлера</string>
+    <string name="full_input">Введено максимальное значение</string>
+</resources>

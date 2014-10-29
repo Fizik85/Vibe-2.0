@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="english_ime_debug_settings">Клавиатура Android Настройки отладки</string>
+    <string name="prefs_debug_mode">Режим Отладки</string>
+    <string name="prefs_force_non_distinct_multitouch">Включен режим без мультитач</string>
+
+
+
+
+
+
+
+
+
+
+    <string name="settings_warning_researcher_mode">Внимание! Вы используете специальную клавиатуру для разработчиков.</string>
+
+
+
+    <string name="research_feedback_menu_option">Отправить отзыв</string>
+    <string name="research_feedback_dialog_title">Отправка отзыва.</string>
+    <string name="research_feedback_hint">Введите свой отзыв.</string>
+    <string name="research_feedback_empty_feedback_error_message">Поле для отзыва не может быть пустым.</string>
+    <string name="english_ime_name">Клавиатура Android (AOSP)</string>
+    <string name="spell_checker_service_name">Проверка правописания Android (AOSP)</string>
+    <string name="english_ime_settings">Настройки клавиатуры Android (AOSP)</string>
+    <string name="android_spell_checker_settings">Настройки проверки правописания Android (AOSP)</string>
+    <string name="english_ime_input_options">Настройки</string>
+    <string name="english_ime_research_log">Все команды</string>
+    <string name="use_contacts_for_spellchecking_option_title">Поиск контактов</string>
+    <string name="use_contacts_for_spellchecking_option_summary">Обращаться к списку контактов при проверке правописания</string>
+    <string name="vibrate_on_keypress">Виброотклик клавиш</string>
+    <string name="sound_on_keypress">Звук клавиш</string>
+    <string name="popup_on_keypress">Увеличение нажатых</string>
+    <string name="general_category">Общие</string>
+    <string name="correction_category">Исправление текста</string>
+    <string name="gesture_typing_category">Непрерывный ввод</string>
+    <string name="misc_category">Другие варианты</string>
+    <string name="advanced_settings">Расширенные настройки</string>
+    <string name="advanced_settings_summary">Для опытных пользователей</string>
+    <string name="include_other_imes_in_language_switch_list">Смена способов ввода</string>
+    <string name="include_other_imes_in_language_switch_list_summary">Клавиша переключения языков также служит для смены способа ввода</string>
+    <string name="show_language_switch_key">Клавиша смены языка</string>
+    <string name="show_language_switch_key_summary">Показывать, когда включено несколько раскладок</string>
+    <string name="sliding_key_input_preview">След от переключателя режима</string>
+    <string name="sliding_key_input_preview_summary">Показывать след при проведении пальцем от кнопок Shift и \"Символы\"</string>
+    <string name="key_preview_popup_dismiss_delay">Задержка закрытия</string>
+    <string name="key_preview_popup_dismiss_no_delay">Без задержки</string>
+    <string name="key_preview_popup_dismiss_default_delay">По умолчанию</string>
+    <string name="abbreviation_unit_milliseconds">%s мс</string>
+    <string name="settings_system_default">По умолчанию</string>
+    <string name="use_contacts_dict">Подсказывать имена</string>
+    <string name="use_contacts_dict_summary">Подсказывать исправления на основе имен из списка контактов</string>
+    <string name="use_double_space_period">Ставить точки автоматически</string>
+    <string name="use_double_space_period_summary">Вводить точку с пробелом двойным нажатием кнопки \"Пробел\".</string>
+    <string name="auto_cap">Заглавные автоматически</string>
+    <string name="auto_cap_summary">Писать первое слово предложения с прописной буквы</string>
+    <string name="edit_personal_dictionary">Пользовательский словарь</string>
+    <string name="configure_dictionaries_title">Дополнительные словари</string>
+    <string name="main_dictionary">Основной словарь</string>
+    <string name="prefs_show_suggestions">Варианты исправлений</string>
+    <string name="prefs_show_suggestions_summary">Предлагать варианты слов во время ввода</string>
+    <string name="prefs_suggestion_visibility_show_name">Всегда предлагать</string>
+    <string name="prefs_suggestion_visibility_show_only_portrait_name">Только в вертикальном режиме</string>
+    <string name="prefs_suggestion_visibility_hide_name">Никогда не предлагать</string>
+    <string name="prefs_block_potentially_offensive_title">Блокировка нецензурных слов</string>
+    <string name="prefs_block_potentially_offensive_summary">Не предлагать слова, которые могут быть сочтены оскорбительными</string>
+    <string name="auto_correction">Автоисправление</string>
+    <string name="auto_correction_summary">Автоматическое исправление опечаток при вводе знака препинания или пробела</string>
+    <string name="auto_correction_threshold_mode_off">Откл.</string>
+    <string name="auto_correction_threshold_mode_modest">Умеренное</string>
+    <string name="auto_correction_threshold_mode_aggressive">Активно</string>
+    <string name="auto_correction_threshold_mode_very_aggressive">Очень активно</string>
+    <string name="bigram_prediction">Подсказывать слова</string>
+    <string name="bigram_prediction_summary">Предлагать подсказки на основе предыдущего слова</string>
+    <string name="gesture_input">Включить функцию</string>
+    <string name="gesture_input_summary">Вводите слова, не отрывая пальца от клавиатуры</string>
+    <string name="gesture_preview_trail">Рисовать линию</string>
+    <string name="gesture_floating_preview_text">Показывать подсказки</string>
+    <string name="gesture_floating_preview_text_summary">Показывать подсказки при вводе текста</string>
+    <string name="added_word">%s: сохранено</string>
+    <string name="label_go_key">Поиск</string>
+    <string name="label_next_key">Далее</string>
+    <string name="label_previous_key">Пред.</string>
+    <string name="label_done_key">Готово</string>
+    <string name="label_send_key">Отправить</string>
+    <string name="label_pause_key">Пауза</string>
+    <string name="label_wait_key">Ждать</string>
+    <string name="spoken_use_headphones">Подключите гарнитуру, чтобы услышать пароль.</string>
+    <string name="spoken_current_text_is">Введенный текст: %s.</string>
+    <string name="spoken_no_text_entered">Текст не введен</string>
+    <string name="spoken_auto_correct">При нажатии клавиши \"%1$s\" слово \"%2$s\" будет исправлено на \"%3$s\"</string>
+    <string name="spoken_auto_correct_obscured">Для клавиши \"%1$s\" назначена функция автоисправления</string>
+    <string name="spoken_description_unknown">Код клавиши:%d</string>
+    <string name="spoken_description_shift">Клавиша верхнего регистра</string>
+    <string name="spoken_description_shift_shifted">Верхний регистр включен (нажмите, чтобы отключить)</string>
+    <string name="spoken_description_caps_lock">Caps Lock включен (нажмите, чтобы отключить)</string>
+    <string name="spoken_description_delete">Клавиша удаления</string>
+    <string name="spoken_description_to_symbol">Клавиша символов</string>
+    <string name="spoken_description_to_alpha">Буквы</string>
+    <string name="spoken_description_to_numeric">Цифры</string>
+    <string name="spoken_description_settings">Настройки</string>
+    <string name="spoken_description_tab">Клавиша табуляции</string>
+    <string name="spoken_description_space">Пробел</string>
+    <string name="spoken_description_mic">Голосовой ввод</string>
+    <string name="spoken_description_smiley">Смайлик</string>
+    <string name="spoken_description_return">Клавиша \"Ввод\"</string>
+    <string name="spoken_description_search">Поиск</string>
+    <string name="spoken_description_dot">Точка</string>
+    <string name="spoken_description_language_switch">Сменить язык</string>
+    <string name="spoken_description_action_next">Далее</string>
+    <string name="spoken_description_action_previous">Назад</string>
+    <string name="spoken_description_shiftmode_on">Верхний регистр включен</string>
+    <string name="spoken_description_shiftmode_locked">Caps Lock включен</string>
+    <string name="spoken_description_shiftmode_off">Верхний регистр отключен</string>
+    <string name="spoken_description_mode_symbol">Режим добавления символов</string>
+    <string name="spoken_description_mode_alpha">Режим ввода текста</string>
+    <string name="spoken_description_mode_phone">Режим набора номера</string>
+    <string name="spoken_description_mode_phone_shift">Режим телефонных символов</string>
+    <string name="announce_keyboard_hidden">Клавиатура скрыта</string>
+    <string name="announce_keyboard_mode">Включен режим %s</string>
+    <string name="keyboard_mode_date">ввода даты</string>
+    <string name="keyboard_mode_date_time">ввода даты и времени</string>
+    <string name="keyboard_mode_email">ввода адреса электронной почты</string>
+    <string name="keyboard_mode_im">ввода сообщения</string>
+    <string name="keyboard_mode_number">ввода цифр</string>
+    <string name="keyboard_mode_phone">набора номера</string>
+    <string name="keyboard_mode_text">ввода текста</string>
+    <string name="keyboard_mode_time">ввода времени</string>
+    <string name="keyboard_mode_url">ввода URL</string>
+    <string name="voice_input">Кнопка голосового ввода</string>
+    <string name="voice_input_modes_main_keyboard">Значок на основной клавиатуре</string>
+    <string name="voice_input_modes_symbols_keyboard">Значок на клавиатуре символов</string>
+    <string name="voice_input_modes_off">Выкл.</string>
+    <string name="voice_input_modes_summary_main_keyboard">Значок на основной клавиатуре</string>
+    <string name="voice_input_modes_summary_symbols_keyboard">Значок на клавиатуре символов</string>
+    <string name="voice_input_modes_summary_off">Голосовой ввод откл.</string>
+    <string name="configure_input_method">Настройка способов ввода</string>
+    <string name="language_selection_title">Языки ввода</string>
+    <string name="research_do_not_log_this_session">Ведение журнала выключено</string>
+    <string name="research_enable_session_logging">Включено ведение журнала</string>
+    <string name="research_notify_session_log_deleting">Удаление последнего журнала</string>
+    <string name="research_notify_logging_suspended">Ведение журнала временно выключено. Для полной остановки, перейдите в Настройки Android клавиатуры</string>
+    <string name="research_notify_session_log_not_deleted">Последний жернал НЕ был удален</string>
+    <string name="research_notify_session_logging_enabled">Включено ведение журнала</string>
+    <string name="research_feedback_include_history_label">Добавить историю журналов</string>
+    <string name="research_feedback_include_account_name_label">Добавить имя аккаунта</string>
+    <string name="research_feedback_include_recording_label">Добавить записанную демонстрацию</string>
+    <string name="research_feedback_send">Отправить</string>
+    <string name="research_feedback_cancel">Отмена</string>
+    <string name="research_feedback_demonstration_instructions">"Продемонстрируйте ошибку, о которой писали.
+
+По окончании нажмите кнопку \"Ошибка?\" ещё раз."</string>
+    <string name="send_feedback">Отправить отзыв</string>
+    <string name="research_feedback_recording_failure">Запись завершена по истечению времени</string>
+    <string name="research_please_exit_feedback_form">Выйделте из отзыва для доступа к жерналу</string>
+    <string name="research_splash_title">Предупреждение</string>
+    <string name="research_logging_disabled">Журнал выключен</string>
+    <string name="research_log_uploader_name">Имя отправителя</string>
+    <string name="research_log_replayer_name">Имя владельца записи</string>
+    <string name="select_language">Языки ввода</string>
+    <string name="hint_add_to_dictionary">Нажмите, чтобы сохранить</string>
+    <string name="has_dictionary">Доступен словарь</string>
+    <string name="prefs_enable_log">Включить отправку сведений</string>
+    <string name="prefs_description_log">Помогите усовершенствовать редактор способа ввода, разрешив отправку статистики и отчетов о сбоях</string>
+    <string name="keyboard_layout">Тема клавиатуры</string>
+    <string name="subtype_en_GB">английский (Великобритания)</string>
+    <string name="subtype_en_US">английский (США)</string>
+    <string name="subtype_es_US">Испанский (США)</string>
+    <string name="subtype_with_layout_en_GB">Английская (Великобр.) (%s)</string>
+    <string name="subtype_with_layout_en_US">Английская (США) (%s)</string>
+    <string name="subtype_with_layout_es_US">Испанский (США): %s</string>
+    <string name="subtype_nepali_traditional">%s (традиционный)</string>
+    <string name="subtype_no_language">Язык не определен (латиница)</string>
+    <string name="subtype_no_language_qwerty">Латиница (QWERTY)</string>
+    <string name="subtype_no_language_qwertz">Латиница (QWERTZ)</string>
+    <string name="subtype_no_language_azerty">Латиница (AZERTY)</string>
+    <string name="subtype_no_language_dvorak">Латиница (Dvorak)</string>
+    <string name="subtype_no_language_colemak">Латиница (Colemak)</string>
+    <string name="subtype_no_language_pcqwerty">Латиница (ПК)</string>
+    <string name="subtype_emoji">Эмодзи</string>
+    <string name="custom_input_styles_title">Персонализированные стили</string>
+    <string name="add_style">Добавить стиль</string>
+    <string name="add">Добавить</string>
+    <string name="remove">Удалить</string>
+    <string name="save">Сохранить</string>
+    <string name="subtype_locale">Язык</string>
+    <string name="keyboard_layout_set">Раскладка</string>
+    <string name="custom_input_style_note_message">Необходимо включить персонализированный стиль ввода.</string>
+    <string name="enable">Включить</string>
+    <string name="not_now">Не сейчас</string>
+    <string name="custom_input_style_already_exists">Такой стиль ввода уже существует: %s</string>
+    <string name="prefs_usability_study_mode">Режим проверки удобства использования</string>
+    <string name="prefs_key_longpress_timeout_settings">Долгое нажатие</string>
+    <string name="prefs_keypress_vibration_duration_settings">Вибросигнал при нажатии клавиш</string>
+    <string name="prefs_keypress_sound_volume_settings">Звук при нажатии клавиш</string>
+    <string name="prefs_read_external_dictionary">Загрузить словарь из файла</string>
+    <string name="prefs_use_only_personalization_dictionary">Использовать только персональный словарь</string>
+    <string name="prefs_boost_personalization_dictionary">Улучшить персональный словарь</string>
+    <string name="read_external_dictionary_no_files_message">В папке \"Загрузки\" нет словарей</string>
+    <string name="read_external_dictionary_multiple_files_title">Выберите файл словаря</string>
+    <string name="read_external_dictionary_confirm_install_message">Установить этот файл для следующего языка: %s?</string>
+    <string name="error">Ошибка</string>
+    <string name="button_default">По умолчанию</string>
+    <string name="setup_welcome_title">Представляем приложение \"%s\"</string>
+    <string name="setup_welcome_additional_description">с непрерывным вводом</string>
+    <string name="setup_start_action">Начать работу</string>
+    <string name="setup_next_action">Далее</string>
+    <string name="setup_steps_title">%s: настройка</string>
+
+    <string name="setup_step1_title">%s: включение</string>
+    <string name="setup_step1_instruction">Установите флажок %s в меню \"Язык и ввод\", чтобы использовать этот способ ввода на устройстве.</string>
+    <string name="setup_step1_finished_instruction">Приложение %s уже включено в настройках языка и ввода, поэтому можно перейти к следующему шагу.</string>
+    <string name="setup_step1_action">Включить в настройках</string>
+
+    <string name="setup_step2_title">%s: активация</string>
+    <string name="setup_step2_instruction">Выберите приложение \"%s\" как текущий способ ввода.</string>
+    <string name="setup_step2_action">Другой способ ввода</string>
+
+    <string name="setup_step3_title">Настройте дополнительные языки.</string>
+    <string name="setup_step3_instruction">Теперь вы можете использовать приложение \"%s\" для набора текста.</string>
+    <string name="setup_step3_action">Настроить дополнительные языки</string>
+    <string name="setup_finish_action">Готово</string>
+    <string name="show_setup_wizard_icon">Показывать значок приложения</string>
+    <string name="show_setup_wizard_icon_summary">Отображать значок приложения на панели запуска</string>
+    <string name="app_name">Поставщик словарей</string>
+    <string name="dictionary_provider_name">Поставщик словарей</string>
+    <string name="dictionary_service_name">Служба словарей</string>
+    <string name="download_description">Обновления словаря</string>
+    <string name="dictionary_settings_title">Дополнительные словари</string>
+    <string name="dictionary_install_over_metered_network_prompt">Словарь доступен</string>
+    <string name="dictionary_settings_summary">Настройки словарей</string>
+    <string name="user_dictionaries">Пользовательские словари</string>
+    <string name="default_user_dict_pref_name">Пользовательский словарь</string>
+    <string name="dictionary_available">Доступен словарь</string>
+    <string name="dictionary_downloading">Загрузка…</string>
+    <string name="dictionary_installed">Установлен</string>
+    <string name="dictionary_disabled">Установлен, отключен</string>
+    <string name="cannot_connect_to_dict_service">Сбой подключения</string>
+    <string name="no_dictionaries_available">Словарей нет</string>
+    <string name="check_for_updates_now">Обновить</string>
+    <string name="last_update">Последнее обновление</string>
+    <string name="message_updating">Проверка обновлений…</string>
+    <string name="message_loading">Загрузка...</string>
+    <string name="main_dict_description">Основной словарь</string>
+    <string name="cancel">Отмена</string>
+    <string name="install_dict">Установить</string>
+    <string name="cancel_download_dict">Отмена</string>
+    <string name="delete_dict">Удалить</string>
+    <string name="should_download_over_metered_prompt">Доступен %1$s словарь для проверки правописания.&lt;br/>Рекомендуем &lt;b>установить&lt;/b> его, чтобы быстрее вводить текст.&lt;br/>&lt;br/>Если вашим тарифом предусмотрена &lt;b>безлимитная передача данных&lt;/b>, словарь можно загрузить через сеть 3G (это займет всего пару минут).&lt;br/>Если вы не помните подробностей своего тарифного плана, лучше подключитесь к сети Wi-Fi (загрузка начнется автоматически).&lt;br/>&lt;br/>Совет. Чтобы добавить, удалить или настроить словарь, откройте раздел &lt;b>Язык и ввод&lt;/b> в настройках своего устройства.</string>
+    <string name="download_over_metered">Загрузить (%1$.1f МБ)</string>
+    <string name="do_not_download_over_metered">Загрузить через Wi-Fi</string>
+    <string name="dict_available_notification_title">Доступен словарь: %1$s</string>
+    <string name="dict_available_notification_description">Нажмите, чтобы просмотреть и загрузить</string>
+    <string name="toast_downloading_suggestions">Загрузка словаря: %1$s…</string>
+    <string name="version_text">Версия %1$s</string>
+
+    <string name="user_dict_settings_add_menu_title">Добавить</string>
+    <string name="user_dict_settings_add_dialog_title">Добавление в словарь</string>
+    <string name="user_dict_settings_add_screen_title">Фраза</string>
+    <string name="user_dict_settings_add_dialog_more_options">Больше настроек</string>
+    <string name="user_dict_settings_add_dialog_less_options">Меньше настроек</string>
+    <string name="user_dict_settings_add_dialog_confirm">ОК</string>
+    <string name="user_dict_settings_add_word_option_name">Слово:</string>
+    <string name="user_dict_settings_add_shortcut_option_name">Быстрые клавиши:</string>
+    <string name="user_dict_settings_add_locale_option_name">Язык:</string>
+    <string name="user_dict_settings_add_word_hint">Введите слово</string>
+    <string name="user_dict_settings_add_shortcut_hint">Ярлык для фразы (необязательно)</string>
+    <string name="user_dict_settings_edit_dialog_title">Изменение слова</string>
+    <string name="user_dict_settings_context_menu_edit_title">Изменить</string>
+    <string name="user_dict_settings_context_menu_delete_title">Удалить</string>
+    <string name="user_dict_settings_empty_text">В словаре пользователя пока ничего нет. Добавлять слова можно с помощью кнопки \"Добавить ( + )\".</string>
+    <string name="user_dict_settings_all_languages">Для всех языков</string>
+    <string name="user_dict_settings_more_languages">Другой язык</string>
+    <string name="user_dict_settings_delete">Удалить</string>
+    <string name="user_dict_fast_scroll_alphabet">" АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"</string>
+</resources>

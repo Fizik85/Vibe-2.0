@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Служба ANT HAL</string>
+    <string name="permdesc_antradio">Разрешать приложению прямую настройку ANT радио. Вредоносные приложения могут запретить функциональность службы ANT для других приложений.</string>
+    <string name="permlab_antradio">Использовать оборудование ANT</string>
+    <string name="permdesc_ant">Разрешать приложению соединение с устройствами ANT, использующими службу прокси. Вредоносные приложения могут получать или передавать информацию на устройства, использующие ANT без Вашего ведома.</string>
+    <string name="permlab_ant">Использовать радиоинтерфейс ANT</string>
+    <string name="permdesc_antAdmin">Разрешать приложению прямую настройку ANT радио через прокси-сервис. Вредоносные приложения могут запретить подключение других приложений к устройствам ANT.</string>
+    <string name="permlab_antAdmin">Управление конфигурацией ANT радио</string>
+</resources>

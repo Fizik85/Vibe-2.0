@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_pwd_question">
+        <item>В какой школе Вы учились?</item>
+        <item>Какой Ваш любимый фрукт?</item>
+        <item>Когда День рождения Вашего отца?</item>
+        <item>Какая Ваша любимая песня?</item>
+        <item>Как зовут Вашего питомца?</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Настройки</item>
+        <item>Обновление</item>
+        <item>Отзыв</item>
+        <item>Справка</item>
+        <item>О программе</item>
+        <item>Порекомендовать</item>
+    </string-array>
+    <string-array name="menu_items_cmcc">
+        <item>Настройки</item>
+        <item>Обновление</item>
+        <item>Отзыв</item>
+        <item>Помощь</item>
+    </string-array>
+    <string-array name="traffic_notification_display_mode">
+        <item>Показать подключенную SIM</item>
+        <item>Показать SIM1</item>
+        <item>Показать SIM2</item>
+    </string-array>
+    <string-array name="traffic_correct_cycle_time">
+        <item>Каждый день</item>
+        <item>Каждые 3 дня</item>
+        <item>Каждую неделю</item>
+        <item>Выключено</item>
+    </string-array>
+    <string-array name="ipcustomer">
+        <item>12593</item>
+        <item>17951</item>
+        <item>Определено пользователем</item>
+    </string-array>
+    <string-array name="antispamadd_whitephone">
+        <item>Импорт из журнала вызовов</item>
+        <item>Импорт из журнала SMS</item>
+        <item>Импорт из контактов</item>
+        <item>Доб. вручную</item>
+    </string-array>
+    <string-array name="antispamhandup_mode">
+        <item>Умная блокировка</item>
+        <item>Блокировать только черный список</item>
+        <item>Разрешать только контакты</item>
+        <item>Разрешать только белый список</item>
+    </string-array>
+    <string-array name="block_list_entries">
+        <item>Отправить сигнал \"Занято\"</item>
+        <item>Отправить сигнал \"Абонент недоступен\"</item>
+        <item>Завершить вызов</item>
+        <item>Ничего не отправлять</item>
+    </string-array>
+    <string-array name="nightcall_harsset">
+        <item>Только контакты</item>
+        <item>Только белый список</item>
+    </string-array>
+    <string-array name="quick_add">
+        <item>Импорт из журнала вызовов</item>
+        <item>Импорт из журнала SMS</item>
+        <item>Импорт из контактов</item>
+        <item>Добавить вручную</item>
+    </string-array>
+    <string-array name="call_mode">
+        <item>Ответить</item>
+        <item>Отклонить</item>
+        <item>Отклонить вызов с SMS</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Блокировка при выключении экрана</item>
+        <item>Блокировка при выходе из этого приложения</item>
+        <item>Блокировка на 5 мин. после выключения экрана</item>
+    </string-array>
+    <string-array name="private_quick_add">
+        <item>Импорт из журнала вызовов</item>
+        <item>Импорт из журнала SMS</item>
+        <item>Импорт из контактов</item>
+        <item>Добавить вручную</item>
+    </string-array>
+    <string-array name="sms_mode">
+        <item>Не оповещать</item>
+        <item>Оповещение в панели уведомлений</item>
+        <item>Оповещение + звуковой сигнал</item>
+        <item>Оповещение + вибрация</item>
+    </string-array>
+</resources>

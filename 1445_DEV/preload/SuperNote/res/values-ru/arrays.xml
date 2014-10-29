@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="box_type_titles">
+        <item>Все заметки</item>
+        <item>Категории</item>
+        <item>Избранное</item>
+        <item>Вложения</item>
+        <item>Метки</item>
+        <item>Настройки</item>
+        <item>Поиск</item>
+    </string-array>
+    <string-array name="note_detail_title">
+        <item>Категория</item>
+        <item>Метки</item>
+        <item>Место</item>
+        <item>Размер</item>
+    </string-array>
+    <string-array name="note_time_title">
+        <item>Синхронизация</item>
+        <item>Обновить</item>
+        <item>Создать</item>
+    </string-array>
+    <string-array name="default_category_name">
+        <item>Мои заметки</item>
+        <item>Работа и учеба</item>
+        <item>Вдохновение</item>
+        <item>Путевые заметки</item>
+        <item>Список покупок</item>
+    </string-array>
+    <string-array name="default_category_flag">
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="search_notes_array">
+        <item>По дате обновления</item>
+        <item>По времени просмотра</item>
+        <item>По дате создания</item>
+    </string-array>
+    <string-array name="introdution_titles">
+        <item>Мы так хотим…</item>
+        <item>… сохранить яркие воспоминания, минуты вдохновения, незабываемые моменты жизни. Воспользуйтесь этим Блокнотом!</item>
+        <item>С помощью функций добавления звука и фотографий Вы не пропустите важную информацию на встрече или на лекции.</item>
+        <item>Перед поездкой составьте подробный план: список багажа, расписание рейсов, туристические маршруты… Все это можно хранить в Блокноте!</item>
+    </string-array>
+    <string-array name="default_note">
+        <item>Нажмите на аудиозапись и прослушайте вступление</item>
+        <item>Блонкот Lenovo - мы рады Вам!</item>
+    </string-array>
+    <string-array name="introdution_content_menu">
+        <item>Создавайте заметки и записывайте важную информацию</item>
+        <item>Создавайте заметки и систематизируйте их по категориям</item>
+        <item>Синхронизируйте заметки с ПК, планшетом и т.д. одним нажатием - и они будут доступны в любое время в любом месте</item>
+    </string-array>
+    <string-array name="introdution_content_edit">
+        <item>Сохранение заметок</item>
+        <item>Войдите в категорию, нажмите на заметку, выберите \"Изменить заметку\" и измените категорию на нужную</item>
+        <item>Вы можете поместить важные заметки в Избранное</item>
+        <item>Вы можете добавить в заметки геометки, метки и др. вложения</item>
+    </string-array>
+    <string-array name="introdution_content_mix">
+        <item>Записывайте звук и добавляйте текст во время съемки</item>
+    </string-array>
+    <string-array name="live_notify_messages">
+        <item>"{title:'Блокнот',content:'Простой и удобный блокнот с воззможностью облачной синхронизации',code:1}"</item>
+    </string-array>
+    <string-array name="settingsynctimeinterval_item_array">
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>4 часа</item>
+    </string-array>
+    <string-array name="notepad_longdialog_array">
+        <item>Изменить категорию</item>
+        <item>Удалить категорию</item>
+        <item>Сведения</item>
+    </string-array>
+    <string-array name="allnote_longdialog_array">
+        <item>Изменить заметку</item>
+        <item>Удалить заметку</item>
+        <item>Сведения</item>
+    </string-array>
+    <string-array name="notebrowse_more_array">
+        <item>Вложения</item>
+        <item>Сведения</item>
+    </string-array>
+</resources>

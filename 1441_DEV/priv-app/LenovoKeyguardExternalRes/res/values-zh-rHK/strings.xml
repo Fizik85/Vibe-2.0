@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">鎖定螢幕失敗。螢幕將重新進入安全模式。請等待鎖定螢幕重新開機...</string>
+</resources>

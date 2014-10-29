@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" coreApp="true" package="com.android.keyguard.external_res">
+    <application android:allowBackup="true">
+        <meta-data android:name="lenovo_app_suskey" android:value="full"/>
+    </application>
+</manifest>

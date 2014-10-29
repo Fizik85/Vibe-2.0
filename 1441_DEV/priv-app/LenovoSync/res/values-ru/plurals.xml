@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="contact_sim_list_count">
+        <item quantity="other">Всего %d контактов</item>
+        <item quantity="one">Всего %d контакт</item>
+    </plurals>
+</resources>

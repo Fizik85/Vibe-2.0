@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Хот-спот</string>
+    <string name="wifi_tether_configure_ap_text">Настройки точки доступа Wi-Fi</string>
+    <string name="wifi_tether_configure_subtext">"SSID:%1$s
+Безопасность:%2$s"</string>
+    <string name="wifi_tether_ssid_too_long">Длина идентификатора SSID не должна превышать 32 символа.</string>
+    <string name="wifi_tether_configure_subtext_new">"SSID: %1$s
+Безопасность: %2$s
+Пароль: %3$s"</string>
+    <string name="wifi_cancel">Отмена</string>
+    <string name="wifi_save">Сохранить</string>
+    <string name="wifi_ssid">Сетевой идентификатор SSID</string>
+    <string name="wifi_security">Безопасность</string>
+    <string name="wifi_password">Пароль</string>
+    <string name="wifi_show_password">Показать пароль</string>
+    <string name="credentials_password_too_short">Пароль должен содержать не менее 8 символов.</string>
+    <string name="wifi_channel">Preferred Channel</string>
+    <string name="wifi_channel_width">Channel Width</string>
+    <string name="wifi_tether_auto_channel_text">Auto</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="tethered_notification_title">Персональная точки доступа включена</string>
+    <string name="tethered_notification_message">Коснитесь для настройки</string>
+    <string name="tether_about_title">Описание</string>
+    <string name="wlan_connection_title">Точки доступа Wi-Fi</string>
+    <string name="wlan_tab_title">Wi-Fi</string>
+    <string name="bluetooth_tab_title">Bluetooth</string>
+    <string name="user_tab_title">USB</string>
+    <string name="bluetooth_share_title">Точки доступа Bluetooth</string>
+    <string name="usb_share_title">Интернет через USB</string>
+    <string name="about_wlan">Точки доступа Wi-Fi позволяет другим устройствам Wi-Fi получить доступ к сети Интернет через мобильную сеть смартфона</string>
+    <string name="about_usb">Подключение через USB позволяет подключенному по USB персональному компьютеру получить доступ к сети Интернет через мобильную сеть смартфона</string>
+    <string name="about_bt">Точки доступа Bluetooth позволяет другим устройствам Bluetooth получить доступ к сети Интернет через мобильную сеть смартфона</string>
+    <string name="about_usb_other">"Прочие примечания. 
+ 1.При активированном общем доступе к мобильной сети через USB невозможно получить доступ к памяти телефона на ПК
+ 2.Предназначено для ПК с операционными системами Windows Vista/7/8 и Linux"</string>
+    <string name="wifi_tether_settings_title">Информация о конфигурации Wi-Fi</string>
+    <string name="wifi_ap_client_block_title">Заблокировать</string>
+    <string name="wifi_ap_client_unblock_title">Деблокировать</string>
+    <string name="wifi_ap_connected_title">Подключенные пользователи</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d подключено, %2$d заблокировано</string>
+    <string name="open_title">Рекомендация</string>
+    <string name="open_mess">Для использования %1$s необходимо включить мобильный Интернет</string>
+    <string name="open_mess_all">Для использования %1$s необходимо включить Wi-Fi с доступом к Интернету или мобильный Интернет</string>
+    <string name="cancel">Отмена</string>
+    <string name="go_settings">В настройки</string>
+
+
+    <string name="open_mess_alert">Мобильная сеть включена. Использование функции %1$s может привести к возрастанию трафика и платы за передачу данных. Хотите включить ее?</string>
+    <string name="open">Включить</string>
+</resources>

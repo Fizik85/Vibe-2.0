@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_reboot_hint">锁屏失效，屏幕进入安全保护状态，请等待锁屏启动…</string>
+</resources>
