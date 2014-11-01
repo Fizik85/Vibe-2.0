@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-
-
+    <string name="flashlight_notification_title">Вспышка выключена</string>
+    <string name="flashlight_notification_text">Щелкните для выключения вспышки</string>
     <string name="app_notification_manager_title">Запрет/активация уведомлений</string>
     <string name="app_notification_optimized_title">Приоритеты уведомлений</string>
     <string name="lenovo_app_closed_notifications_manager_title">Уведомления запрещены</string>
@@ -20,4 +19,10 @@
     <string name="lenovo_no_app_nofitication">Нет выбранных приложений</string>
     <string name="app_del_optimized_notifications_dlg_title">Изменить приоритет?</string>
     <string name="app_del_optimized_notifications_dlg_text">Изменив приоритет приложения, вы можете пропустить важные оповещения.</string>
+    <string name="lenovo_app_delete_optimized_notification_toast_text">" Уведомлений без приоритета: \"\"%1$s\""</string>
+    <string name="lenovo_app_delete_notification_toast_text">" Выключенные уведомления для \"\"%1$s\""</string>
+    <string name="lenovo_flashlight_error_notification_title">Невозможно включить вспышку</string>
+    <string name="lenovo_flashlight_error_camera_in_use">Камера используется, невозможно включить вспышку</string>
+    <string name="lenovo_flashlight_error_psensor_blocked">Для предотвращения случайного использования вспышку нельзя включить, когда верхний край экрана закрыт</string>
+    <string name="lenovo_flashlight_error_low_power">Низкий заряд! Невозможно использовать вспышку</string>
 </resources>

@@ -131,4 +131,6 @@
     <string name="power_setting_menu_smart4">Смарт-экономия для экрана и графического процессора</string>
     <string name="power_setting_menu_smart5">Энергосбережение экрана и ЦП</string>
     <string name="power_setting_current_battery" formatted="false">Заряд: %s%s</string>
+    <string name="classicmode_lable_clock">Часы</string>
+    <string name="battery_remain_time">Ост. время работы:</string>
 </resources>

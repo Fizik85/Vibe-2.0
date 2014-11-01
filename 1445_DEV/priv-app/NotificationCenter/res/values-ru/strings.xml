@@ -331,7 +331,7 @@
     <string name="icon_type_sim2">SIM2</string>
     <string name="icon_type_time">Время</string>
     <string name="icon_type_silence">Выключение звука</string>
-    <string name="icon_type_vibrate">Вибрация</string>
+    <string name="icon_type_vibrate">Вибро</string>
     <string name="battery_state_charging">Зарядка</string>
     <string name="battery_state_no_charge">Не заряжается</string>
     <string name="battery_left_charge_time">Приблизительное время до полной зарядки:</string>
@@ -343,7 +343,7 @@
     <string name="minutes">Мин</string>
     <string name="hours">Час</string>
     <string name="less_one_minute">Менее 1 мин</string>
-    <string name="left_time">Осталось:</string>
+    <string name="left_time">Оставшееся время:</string>
     <string name="data_connect_open">Передача данных: вкл.</string>
     <string name="data_connect_close">Передача данных: выкл.</string>
     <string name="battery_percent">Уровень заряда:</string>
@@ -516,7 +516,7 @@
     <string name="usb_storage_error_message">При подключении SD-карты произошла ошибка.</string>
     <string name="dlg_confirm_kill_storage_users_title">Включение USB-накопителя</string>
     <string name="ext_media_nofs_notification_message">%s пуст или его формат не поддерживается.</string>
-    <string name="ext_media_unmountable_notification_title">Повреждение %s</string>
+    <string name="ext_media_unmountable_notification_title">Повреждение: %s</string>
     <string name="ext_media_unmountable_notification_message">Раздел на %s поврежден. Попробуйте его отформатировать.</string>
     <string name="ext_media_safe_unmount_notification_title">%s можно удалить</string>
     <string name="description_direction_left">Для повторения сигнала передвиньте влево</string>
@@ -530,7 +530,7 @@
     <string name="app_notification_manager">Менеджер уведомлений</string>
     <string name="lenovo_app_notification_use_manager_sumarry">Выбор разрешенных приложений</string>
     <string name="app_notification_optimized_title">Приоритеты уведомлений</string>
-    <string name="lenovo_app_notification_optimized_sumarry">Нажмите для смены приоритета уведомлений</string>
+    <string name="lenovo_app_notification_optimized_sumarry">Выбор приложений с высоким приоритетом уведомлений</string>
     <string name="app_del_optimized_notifications_dlg_title">Изменить приоритет?</string>
     <string name="app_del_optimized_notifications_dlg_text">Изменив приоритет приложения, вы можете пропустить важные оповещения.</string>
     <string name="app_add_optimized_notifications_title">Все приложения</string>
@@ -624,14 +624,14 @@
     <string name="status_bar_notification_inspect_item_forbidden_title">Отключить уведомления</string>
     <string name="forbidden_notification_message">Для этого приложения можно отключить уведомление в строке состояния.</string>
     <string name="str_enter_notifycenter_setting">Параметры центра уведомлений</string>
-    <string name="str_custom_switch_pos_text">Иконки, показанные в панели переключателей</string>
+    <string name="str_custom_switch_pos_text">Кнопки отображаются в строке переключателей</string>
     <string name="screenshot_flie_name_template">Screenshot_%s.jpeg</string>
     <string name="screenshot_tip">Выберите область</string>
-    <string name="widget_text_user_feedback">Отзыв</string>
+    <string name="widget_text_user_feedback">Обратная связь</string>
     <string name="remind_next_time">Напомнить в следующий раз</string>
     <string name="confirm_radio_msg">%1$sсейчас выключена. Включить эту SIM-карту?</string>
     <string name="dlg_batteryWarehouse_bcheck_warning">Не показывать предупреждения в следующий раз</string>
-    <string name="ext_media_nofs_notification_title">%s:формат накопителя не поддерживается</string>
+    <string name="ext_media_nofs_notification_title">Формат накопителя не поддерживается: %s</string>
     <string name="ext_media_nomedia_notification_title">Извлечено: %s</string>
     <string name="description_direction_up">Для отмены передвиньте вверх</string>
     <string name="description_direction_down">Для повторения сигнала передвиньте вниз</string>

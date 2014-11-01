@@ -406,10 +406,13 @@
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Сеть не выбрана</item>
-        <item>720 x 480 пикс. (mdpi)</item>
-        <item>1280 x 720 пикс. (tvdpi)</item>
-        <item>1920 x 1080 пикс. (xhdpi)</item>
-        <item>1280x720 (tvdpi)/1920x1080 (xhdpi)</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (secure)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (secure)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (secure)</item>
+        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Сеть не выбрана</item>
@@ -485,6 +488,11 @@
         <item>Включен во время зарядки</item>
         <item>Выключен (увеличивается трафик моб.сети)</item>
         <item>Смарт Wi-Fi(Включается автоматически при обмене данными)</item>
+    <string-array name="entries_volume_up_option">
+        <item>Включение экрана(Нажмите кнопку громкости для включения экрана)</item>
+        <item>Мгновенное фото(При выключенном экране,дважды нажатие кнопку уменьшения громкости для съёмки)</item>
+        <item>Стандартные</item>
+    </string-array>
     </string-array>
     <string-array name="entryvalues_smart_rotation">
         <item>0</item>

@@ -106,7 +106,7 @@
     <string name="cp_usb_port">Переключатель выхода</string>
     <string name="enable_direct_log">MiniTT Режим</string>
     <string name="enable_direct_log_summary">Журнал выхода CP по USB</string>
-    <string name="enable_e_log">ELog режим</string>
+    <string name="enable_e_log">Elog режим</string>
     <string name="elog_save_summary">Сохранить ELog в sdcard/log/elog</string>
     <string name="elog_save_title">Сохранить Elog</string>
     <string name="ata_log">Журнал ATA</string>
@@ -127,4 +127,6 @@
     <string name="warning_content1">1. Расширенные функции основаны на открытом исходном коде FFMPEG и используются только для тестирования. Если хотите использовать их, помните, Вы несёте ответственность при разногласиях в авторском праве.</string>
     <string name="warning_content2">2. При включении этой опции, Вам сразу же становится доступна функция проигрывания дополнительных форматов файлов в файловом менеджере. Если хотите, чтобы новые форматы расширения отображались в списках видео, необходимо перезагрузить телефон, а затем перезаписать файлы на телефона.</string>
     <string name="show_system_version_title">Версия системы</string>
+    <string name="debug_enable_mass_storage_title">Включение UMS</string>
+    <string name="debug_enable_mass_storage_summary">Конфигурировать sys.usb.config на mass_storage для отладки. Режим используется только для отладки.</string>
 </resources>

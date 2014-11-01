@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LenovoLogger</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_help">Помощь</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="switch_settings">Переключатели</string>
+    <string name="system_switch">Основной журнал</string>
+    <string name="kernel_switch">Журнал ядра</string>
+    <string name="other_switch">Журнал Tcp, радио и др.</string>
+    <string name="ramdump_switch">Включить Ramdump</string>
+    <string name="qxdm_switch">Включить Qxdm</string>
+    <string name="log_size">Предел размера журнала (Мб)</string>
+    <string name="log_path">Настройка папки журнала</string>
+    <string name="summary">Папка журнала: /storage/sdcard0/log/</string>
+    <string name="warnning">Предупреджение</string>
+    <string name="comfirm">ОК</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete_msg">Are you sure to clear log and log_out folder?</string>
+    <string name="select_cfg">Are you sure to get qxdm log? Remember to deselect this option after the test and reboot the phone, otherwise it will comsume 20mA standby current. And be careful of the large flash memory comsume under the log folder. Confirm to select the *.cfg file at first!</string>
+    <string name="enable_ramdump">(Recommend do not use in customer end!)Are you sure to enable ramdump option? You need to use QPST Configuration software to dump it when system Crash!</string>
+    <string name="start_toast">Включено ведение журнала</string>
+    <string name="start_hint">Log is not running. You can click the start button on left-up corner.</string>
+    <string name="stop_toast">Ведение журнала остановлено</string>
+    <string name="log_limit">The logging is stoped. The log size over limit. Need to backup log to PC and clear log at first!</string>
+    <string name="out_of_storage">The logging is stoped. The storage is not enough(less than 512MB). Need to backup log to PC and clear log at first! Log folder size:</string>
+    <string name="compress_msg">It will compress log folder to log_out foler!</string>
+    <string name="compress_done_msg">Compress done! Result under at log_out folder.</string>
+    <string name="diag_msg">It will check the crash issue on the log folder. It will take a few minutes to get the result. I will show dialog when it is done!</string>
+    <string name="diag_msg_done">Diagnose log completely.</string>
+    <string name="log_need_stop">Need to stop the logging at first!</string>
+    <string name="logger_help_msg">"1:function button：start/stop,delete,compress,crash check
+2:log normal options：main, kernel,other. Recommend setting on.
+3:Qxdm option: capture modem log, detailed on option check guide
+4:Ramdump option：end customer please do not set. With strictly test condition, it will trigger more crash. Crash into ramdump mode, and we can capture ramdump log. It will restart when it is done. Otherwise, you need to long press powerkey to restart.
+5:log size limit：Over limit, it will hint you cannot start the loggering.Please backup and clear the log."</string>
+    <string name="crash_test_btn_txt">Запустить тест</string>
+    <string name="crash_test_btn_limit_txt">Краткие результаты</string>
+    <string name="crash_test_btn_detail_txt">Подробные результаты</string>
+    <string name="crash_test_report_txt">[Точка остановки]</string>
+    <string name="crash_test_report_kernel_txt">Ядро:</string>
+    <string name="crash_test_report_android_txt">Андроид:</string>
+</resources>

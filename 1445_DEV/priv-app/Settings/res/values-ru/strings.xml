@@ -60,6 +60,9 @@
     <string name="category_single_hand">Режим одной руки</string>
     <string name="category_gesture">Жест</string>
     <string name="category_smart">Смарт</string>
+    <string name="gesture_topspeed_snap_title">Мгновенная съёмка</string>
+    <string name="gesture_topspeed_snap_summary">Нажмите дважды кнопку Домой для получения снимка</string>
+    <string name="volume_up_option">Функции кнопок громкости</string>
     <string name="com_lenovo_lsf_app_name">UserFramework</string>
     <string name="com_lenovo_lsf_lenovouser_app_name">Аккаунт Lenovo</string>
     <string name="com_lenovo_lsf_lenovouser_btn_ok">ОК</string>
@@ -648,27 +651,27 @@
     <string name="night_mode_tip_secure_button">Чтобы пользоваться кнопкой, выключите Защиту глаз</string>
     <string name="format_data">Формат. внутренней SD карты</string>
     <string name="format_data_description">"Удалить все данные с SD карты: музыку, фотографии, данные резервного копирования, расположенные на внутренней SD. "</string>
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <string name="disturb_settings_title">Не беспокоить</string>
+    <string name="disturb_settings">Режим Не беспокоить</string>
+    <string name="disturb_enable">Включить режим Не беспокоить</string>
+    <string name="disturb_summary">После включения телефон не будет звонить или вибрировать при входящих вызовах или SMS</string>
+    <string name="disturb_call_settings">Настройки Входящих вызовов</string>
+    <string name="disturb_white_list">Включить Белый список вызовов</string>
+    <string name="disturb_white_list_summary">Безлимитные вызовы с номеров Белого списка</string>
+    <string name="disturb_repeat_call">Безлимитные повторные вызовы</string>
+    <string name="disturb_repeat_call_summary">Безлимитные повторы вызовов в течение 3 минут с одного номера</string>
+    <string name="disturb_mode_enable">Включение режима Не беспокоить</string>
+    <string name="click_to_set">Коснитесь, чтобы открыть Настройки</string>
+    <string name="disturb_enabling">Включение...</string>
+    <string name="disturb_settings_title_closed">Режим Не беспокоить выключен</string>
+    <string name="add_whitename">Добавить контакт в Белый список</string>
+    <string name="phone_white_list">Вызов из Белого списка</string>
+    <string name="remove_whitename">Удалить</string>
+    <string name="remove_whitename_prompt">Хотите удалить этот номер?</string>
+    <string name="remove_from_whitelist">Этот номер будет удалён из Белого списка</string>
+    <string name="exist_user">Номер уже есть в Белом списке!</string>
+    <string name="disturb_white_title">Белый список</string>
+    <string name="lenovo_cloud">SYNCit</string>
     <string name="power_settings">Управление Питанием</string>
     <string name="memory_image_usage">Изображения</string>
     <string name="memory_video_usage">Видео</string>
