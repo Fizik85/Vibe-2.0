@@ -28,13 +28,13 @@
     <string name="smart_rotete_cbox_summary">Интеллектуальный</string>
     <string name="header_category_shortcut_key">КЛАВИША БЫСТРОГО ВЫЗОВА</string>
     <string name="wide_touch_float_button">Смарт-меню</string>
-    <string name="wide_touch_float_button_summary">"Нажмите на плавающую кнопку | Нажмите для справки"</string>
-    <string name="lockscreen_volume_key_lock_unlock_ctrl">Включение кнопками громкости</string>
-    <string name="lockscreen_volume_key_lock_unlock_ctrl_summary">"Разблокировка экрана нажатием кнопки громкости | Нажмите для справки"</string>
+    <string name="wide_touch_float_button_summary">"Для взаимодействия с объектом приложите к нему палец | Нажмите для справки"</string>
+    <string name="lockscreen_volume_key_lock_unlock_ctrl">Включение громкостью</string>
+    <string name="lockscreen_volume_key_lock_unlock_ctrl_summary">"Использовать клавиши громкости для включения экрана | Нажмите для справки"</string>
     <string name="double_click_home_enabled_title">"Дважды щелкните клавишу HOME для активации голосового управления "</string>
-    <string name="double_click_home_enabled_description">Нажмите и удерживайте клавишу МЕНЮ для активизации голосовой связи</string>
-    <string name="double_click_menu_enabled_title">Нажмите и удерживайте клавишу меню, чтобы включить голосовую связь</string>
-    <string name="double_click_menu_enabled_description">Нажмите и удерживайте клавишу МЕНЮ для активизации голосовой связи</string>
+    <string name="double_click_home_enabled_description">Нажмите и удерживайте клавишу МЕНЮ для активизации голосового управления</string>
+    <string name="double_click_menu_enabled_title">Голосовое управление</string>
+    <string name="double_click_menu_enabled_description">Нажмите и удерживайте клавишу МЕНЮ для активизации голосового управления</string>
     <string name="double_click_muti_window_title">Многооконность</string>
     <string name="muti_window_summary">Многооконный режим для избранных приложений</string>
     <string name="voice_call_way_title">Направление голосового вызова</string>
@@ -380,7 +380,7 @@
     <string name="colorLight_settings">Настройки Цвета-Яркости</string>
     <string name="color_light">Индикатор событий</string>
     <string name="color_light_demo">Демонстрация индикации</string>
-    <string name="color_light_call">Позвонить</string>
+    <string name="color_light_call">Звонок</string>
     <string name="color_light_missed_call">Пропущенные вызовы</string>
     <string name="color_light_unread_mms">Непрочитанные SMS/MMS</string>
     <string name="color_light_battery">Батарея</string>
@@ -406,12 +406,12 @@
     <string name="simple_settings">Руководство новичка</string>
     <string name="device_info">Информация о версиях</string>
     <string name="ota_title">Обновление системы</string>
-    <string name="products_version">Номер модели</string>
+    <string name="products_version">Модель</string>
     <string name="hardware_version">Аппаратная версия</string>
     <string name="software_version">Номер сборки</string>
-    <string name="framework_version">Номер версии Android</string>
-    <string name="os_version">Номер версии системы</string>
-    <string name="internal_version">Номер внутренней версии</string>
+    <string name="framework_version">Версия Android</string>
+    <string name="os_version">Версия системы</string>
+    <string name="internal_version">Внутренняя версия</string>
     <string name="backup_data_section_title">Резервное копирование</string>
     <string name="backup_data_to_sdcard_title">Резервное копирование на SD</string>
     <string name="backup_data_to_sdcard_summary">Резервное копирование телефона на SD-карту</string>
@@ -501,7 +501,7 @@
     <string name="enable_traces_summary_all">Все трассировки включены</string>
     <string name="playertutorial_title">Руководство пользователя</string>
     <string name="safety_information_content">Данная система сильно изменена от оригинальной. Поэтому во избежание выхода из строя устройства и предотвращения каких либо изменений и неполадок, возможность обновления была отключена. В случае ручного обновления и возникшие по этой причине неполадки, ответственность лежит только на вас.</string>
-    <string name="safety_information">информация о безопасности</string>
+    <string name="safety_information">Информация о безопасности</string>
     <string name="keyboard_lights_title">Подсветка кнопок</string>
     <string name="summary_keyboard_lights">Интеллектуальное управление</string>
     <string name="unlock_proximity_ctrl">Защита отслучайных нажатий</string>
@@ -541,7 +541,7 @@
     <string name="header_category_personalcustom">Персонализация</string>
     <string name="font_settings_title">Параметры шрифта</string>
     <string name="roaming_settings_title">Параметры роуминга</string>
-    <string name="sim_settings_title">Параметры работы с двумя картами</string>
+    <string name="sim_settings_title">Управление SIM-картами</string>
     <string name="data_usage_enable_mobile_statistics">Статистика обмена данными</string>
     <string name="data_usage_enable_mobile_statistics_dialog">Включение этой функции приводит к повышению энергопотребления в сетях с высокой скоростью передачи данных, например LTE...</string>
     <string name="apn_call_number">Номер телефона PPP</string>
@@ -587,7 +587,7 @@
     <string name="preference_status_close">Выкл</string>
     <string name="header_category_personalcustom_k7">Персонально</string>
     <string name="settings_header_ringtone_k7">Параметры мелодии</string>
-    <string name="wifi_switch_settings_title">Местоположение по сети Wi-Fi</string>
+    <string name="wifi_switch_settings_title">Привязка Wi-Fi</string>
     <string name="wifi_popup_0">Привязка и напоминание подключения</string>
     <string name="wifi_popup_1">Привязка и автоподключение</string>
     <string name="wifi_popup_2">Не привязывать</string>
@@ -634,13 +634,13 @@
     <string name="wifi_restore_failed">Восстановление не выполнено.</string>
     <string name="app_privacy_settings">Менеджер прав доступа приложений</string>
     <string name="ringtone_settings">Мелодии и громкость</string>
-    <string name="notification_sound_title_lenovo">Уведомления по-умолчанию</string>
-    <string name="notification_sound_summary">Выбрать мелодию уведомлений по-умолчанию</string>
+    <string name="notification_sound_title_lenovo">Уведомления по умолчанию</string>
+    <string name="notification_sound_summary">Установка мелодии по умолчанию для сообщений</string>
     <string name="audio_switch">Звук вкл./откл. устройства</string>
     <string name="control_audio">Подавать сигнал при включении/выключении питания</string>
     <string name="voice_video_call_summary">Установка мелодии по умолчанию для вызовов</string>
     <string name="sms_notification_sound_title">Мелодия SMS</string>
-    <string name="sms_notification_sound_summary">Установка мелодии при поступлении сообщений по умолчанию</string>
+    <string name="sms_notification_sound_summary">Установка мелодии по умолчанию для сообщений</string>
     <string name="night_mode">Ночная защита глаз</string>
     <string name="night_mode_summary">Данный режим удобен для пользования телефоном в ночное время. В редких случаях, некоторые кнопки в приложениях выключены.</string>
     <string name="night_mode_notification_title">Запуск Ночной защиты глаз</string>
@@ -670,7 +670,7 @@
 
 
     <string name="power_settings">Управление Питанием</string>
-    <string name="memory_image_usage">Изображение</string>
+    <string name="memory_image_usage">Изображения</string>
     <string name="memory_video_usage">Видео</string>
     <string name="memory_os_size">Занято ОС</string>
     <string name="dlg_ums_storage_checking_title">Проверка карты памяти</string>
@@ -1446,7 +1446,7 @@
     <string name="config_list_label">Настроенные сети</string>
     <string name="home_settings">Выбор лаунчера</string>
     <string name="display_settings_title">Экран</string>
-    <string name="sound_settings">Звук</string>
+    <string name="sound_settings">Настройка громкости</string>
     <string name="ringtone_title">Рингтон</string>
     <string name="ringtone_summary" />
     <string name="all_volume_title">Громкость</string>
@@ -1468,14 +1468,14 @@
     <string name="lock_sounds_enable_title">Звук блокировки экрана</string>
     <string name="haptic_feedback_enable_title">Виброотклик</string>
     <string name="audio_record_proc_title">Подавление шума</string>
-    <string name="volume_media_description">Музыка, видео, игры и другие медиафайлы</string>
-    <string name="volume_ring_description">Рингтон и уведомления</string>
-    <string name="volume_notification_description">Оповещения</string>
+    <string name="volume_media_description">Мультимедиа (музыка/видео/игры)</string>
+    <string name="volume_ring_description">Мелодии звонка и сообщений</string>
+    <string name="volume_notification_description">Уведомления</string>
     <string name="volume_alarm_description">Будильник</string>
     <string name="volume_ring_mute">Отключить рингтон и другие уведомления</string>
     <string name="volume_media_mute">Отключить звук</string>
     <string name="volume_notification_mute">Скрыть уведомления</string>
-    <string name="volume_alarm_mute">Скрыть оповещения</string>
+    <string name="volume_alarm_mute">Скрыть уведомления</string>
     <string name="vibrate_when_ringing_title">Вибросигнал и рингтон</string>
     <string name="dock_settings">Док-станция</string>
     <string name="dock_settings_title">Настройки док-станции</string>

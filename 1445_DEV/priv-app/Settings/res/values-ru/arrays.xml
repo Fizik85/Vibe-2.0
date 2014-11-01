@@ -241,7 +241,7 @@
         <item>изменение списка вызовов</item>
         <item>считывать данные календаря</item>
         <item>изменение календаря</item>
-        <item>поиск WLAN</item>
+        <item>поиск Wi-Fi</item>
         <item>уведомление</item>
         <item>поиск мобильных сетей</item>
         <item>позвонить</item>
@@ -426,7 +426,7 @@
         <item>Отключить</item>
         <item>На экране в виде полос</item>
         <item>На экране в виде линий</item>
-        <item>В adb shell dumpsys gfxinfo</item>
+        <item>В adb оболочке dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>ВЫКЛ</item>
@@ -477,14 +477,14 @@
         <item>очень низкий</item>
     </string-array>
     <string-array name="multi_sim_entries">
-        <item>Подписка 1</item>
-        <item>Подписка 2</item>
+        <item>SIM 1</item>
+        <item>SIM 2</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_smart">
-        <item>Всегда</item>
-        <item>Только при подключении</item>
-        <item>Никогда (даже при обмене данными)</item>
-        <item>Умный(Включается автоматически при обмене данными)</item>
+        <item>Всегда включен</item>
+        <item>Включен во время зарядки</item>
+        <item>Выключен (увеличивается трафик моб.сети)</item>
+        <item>Смарт Wi-Fi(Включается автоматически при обмене данными)</item>
     </string-array>
     <string-array name="entryvalues_smart_rotation">
         <item>0</item>
@@ -503,8 +503,8 @@
         <item>Закрыть</item>
     </string-array>
     <string-array name="multi_sim_entries_voice">
-        <item>Подписка 1</item>
-        <item>Подписка 2</item>
+        <item>SIM 1</item>
+        <item>SIM 2</item>
         <item>Подсказка</item>
     </string-array>
     <string-array name="saturation">

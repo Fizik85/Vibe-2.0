@@ -391,7 +391,7 @@
     <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью PUK-кода</string>
     <string name="lockscreen_sim_locked_message">SIM-карта заблокирована</string>
     <string name="state_open">Вкл.</string>
-    <string name="widget_text_notification_setting">Сообщения</string>
+    <string name="widget_text_notification_setting">Настройка уведомлений</string>
     <string name="lenovo_charge_quick_change_to_normal">быстрая смена тарифа на обычный</string>
     <string name="widget_text_free_call">Бесплатный звонок</string>
     <string name="lenovo_recent_page_title">Недавние</string>
@@ -525,12 +525,12 @@
 Доступно %2$s МБ памяти"</string>
     <string name="lenovo_recents_no_app_toast_test">Память освобождена</string>
 
-    <string name="notification_quick_switch_settings">Панель уведомлений</string>
+    <string name="notification_quick_switch_settings">Переключатель строки уведомлений</string>
     <string name="show_battery_power_percentage_title">Показывать индикатор аккумулятора</string>
     <string name="app_notification_manager">Менеджер уведомлений</string>
     <string name="lenovo_app_notification_use_manager_sumarry">Выбор разрешенных приложений</string>
     <string name="app_notification_optimized_title">Приоритеты уведомлений</string>
-    <string name="lenovo_app_notification_optimized_sumarry">Выбор приложений с высоким приоритетом уведомлений</string>
+    <string name="lenovo_app_notification_optimized_sumarry">Нажмите для смены приоритета уведомлений</string>
     <string name="app_del_optimized_notifications_dlg_title">Изменить приоритет?</string>
     <string name="app_del_optimized_notifications_dlg_text">Изменив приоритет приложения, вы можете пропустить важные оповещения.</string>
     <string name="app_add_optimized_notifications_title">Все приложения</string>
@@ -608,7 +608,7 @@
     <string name="widget_text_rotate_off">Поворот</string>
     <string name="widget_text_multWindow">Мультиокна</string>
     <string name="widget_text_apn_net">Несколько окон</string>
-    <string name="custom_switch_position_title">Настройки переключателей</string>
+    <string name="custom_switch_position_title">Положения переключателей</string>
     <string name="custom_switch_position_title_summary">Настройка положения ярлыков в строке уведомлений</string>
     <string name="custom_switch_position_description">Нажмите и тащите для настройки положения</string>
     <string name="notification_switch_title">Переключатель строки уведомлений</string>

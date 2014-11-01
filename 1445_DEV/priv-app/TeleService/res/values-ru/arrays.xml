@@ -11,14 +11,9 @@
         <item>Показывать номер</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>LTE/CDMA</item>
-        <item>Только EvDo</item>
-        <item>CDMA без EvDo</item>
-        <item>CDMA/EvDo (авторежим)</item>
-        <item>GSM/WCDMA (авторежим)</item>
         <item>Только WCDMA</item>
         <item>Только GSM</item>
-        <item>GSM/WCDMA (предпочтение)</item>
+        <item>GSM/WCDMA (авторежим)</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>английский</item>

@@ -39,7 +39,7 @@
     <string name="hall_tip_ringing">Проведите по нижней части панели, чтобы ответить или отклонить вызов.</string>
     <string name="hall_tip_offhook">Щелкните нижнюю часть панели, чтобы завершить вызов.</string>
     <string name="hall_tip_offhook_muti_call">При открытии панели вызовы могут переключаться.</string>
-    <string name="dialing_settings">Параметры набора номера</string>
+    <string name="dialing_settings">Настройки набора номера</string>
     <string name="accessibility_settings">Настройки доступности</string>
     <string name="cdma_endcall_redial">Повторный набор</string>
     <string name="cdma_endcall_sendmms">Отправить SMS</string>
@@ -53,7 +53,7 @@
     <string name="error">Ошибка</string>
     <string name="voice_call_settings">Настройки голосовых вызовов</string>
     <string name="voice_call_settings_title">Голосовой вызов</string>
-    <string name="voice_call_settings_summary">Параметры, относящиеся к голосовому вызову</string>
+    <string name="voice_call_settings_summary">Настройка голосовых вызовов</string>
     <string name="voicemail_summary">Настройки службы голосовой почты</string>
     <string name="CF_summary">Настройки переадресации вызовов</string>
     <string name="ip_dialing_title">IP-набор</string>
@@ -70,11 +70,11 @@
     <string name="proximity_sensor_summary_on">Во время звонка подсветка экрана автоматически отключается</string>
     <string name="proximity_sensor_summary_off">Датчик приближения закрыт</string>
     <string name="flip_silent">Датчик переворота</string>
-    <string name="flip_silent_summary">Переверните телефон экраном вниз для отключения мелодии входящего вызова</string>
+    <string name="flip_silent_summary">Переверните телефон для отключения звука входящего вызова</string>
     <string name="smart_call_answer">Смарт-ответ</string>
-    <string name="smart_call_answer_summary">При входящем вызове поднесите аппарат к уху для ответа</string>
-    <string name="unknown_number_save_to_contacts_title">Сохранять в контактах</string>
-    <string name="unknown_number_save_to_contacts_summary">Сохранять неизвестные номера в контактах после завершения вызова</string>
+    <string name="smart_call_answer_summary">При входящем вызове просто поднесите аппарат к уху</string>
+    <string name="unknown_number_save_to_contacts_title">Сохранить в контактах</string>
+    <string name="unknown_number_save_to_contacts_summary">Добавить неизвестный номер к контактам после завершения вызова</string>
     <string name="headset_answer_title">Режим наушников</string>
     <string name="headset_answer_summary">Настройка режима наушников</string>
     <string name="ip_dial_sub_title">" Параметры IP-набора"</string>
@@ -514,10 +514,10 @@
     <string name="gsm_umts_options">Параметры GSM/UMTS</string>
     <string name="cdma_options">Параметры CDMA</string>
     <string name="mobile_network_setting">Параметры сети мобильной связи</string>
-    <string name="network_settings_sel_sub">Выберите SIM</string>
+    <string name="network_settings_sel_sub">Управление SIM-картами</string>
     <string name="network_manage_settings">Параметры сети</string>
     <string name="title_data_settings">Параметры данных</string>
-    <string name="summary_manage_subscriptions">Управление параметрами сети для каждой подписки</string>
+    <string name="summary_manage_subscriptions">Управление параметрами сети для каждой SIM-карты</string>
     <string name="throttle_data_usage">Контроль трафика</string>
     <string name="throttle_current_usage">Передача данных в текущем периоде</string>
     <string name="throttle_time_frame">Время передачи данных</string>
