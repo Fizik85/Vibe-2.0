@@ -18,12 +18,12 @@
     <string name="ring_volume_summary">Установка громкости для мелодий вызова, сообщений и уведомлений</string>
     <string name="vibrate_in_silent_summary">Разрешить уведомления путем вибрации при отключенном звуке</string>
     <string name="vibrate_summary">Оповещать вибрацией при получении вызова или уведомления</string>
-    <string name="notification_sound_title">Системное уведомление</string>
+    <string name="notification_sound_title">Системные уведомления</string>
     <string name="notification_pulse_title">Индикатор мигает при получении уведомления</string>
     <string name="incoming_call_volume_title">Мелодия звонка</string>
-    <string name="notification_volume_title">Уведомление</string>
+    <string name="notification_volume_title">Системные уведомления</string>
     <string name="checkbox_notification_same_as_incoming_call">Использовать громкость входящих вызовов как громкость уведомлений</string>
-    <string name="notification_sound_summary">Выбрана мелодия по-умолчанию для системных уведомлений</string>
+    <string name="notification_sound_summary">Выброр мелодии по-умолчанию для системных уведомлений</string>
     <string name="notification_pulse_summary">При получени нового уведомления, индикатор шарового манипулятора постоянно мигает</string>
     <string name="notification_sound_dialog_title">Выбрать мелодию звонка уведомления</string>
     <string name="media_volume_title">Мультимедиа</string>
@@ -91,7 +91,7 @@
     <string name="progress_message">Подождите...</string>
     <string name="volume">Громкость</string>
     <string name="ringtone_settings_title">Входящие вызовы</string>
-    <string name="feedback_title">Системные уведомления</string>
+    <string name="feedback_title">Уведомления</string>
     <string name="threeg_call_sound_title">Мелодия звонка</string>
     <string name="threeg_message_sound_title">Звук оповещения о сообщении</string>
     <string name="twog_call_sound_title">Мелодия звонка</string>
@@ -101,8 +101,8 @@
     <string name="convention">Общие настройки</string>
     <string name="cate_call_ringtone">Настройка мелодии вызовов</string>
     <string name="cate_message_ringtone">Настройка мелодии сообщений</string>
-    <string name="sim_call_one">Мелодия вызова</string>
-    <string name="sim_call_two">Мелодия SIM-карты 2</string>
+    <string name="sim_call_one">Мелодия вызова SIM 1</string>
+    <string name="sim_call_two">Мелодия вызова SIM 2</string>
     <string name="sim_message_one">Мелодия SMS</string>
     <string name="set_default_phone_ringtone">Установить мелодию по умолчанию</string>
     <string name="set_default_message_ringtone">Установить мелодию по умолчанию</string>

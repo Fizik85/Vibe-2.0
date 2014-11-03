@@ -11,9 +11,10 @@
         <item>Показывать номер</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
+        <item>GSM/WCDMA (авторежим)</item>
         <item>Только WCDMA</item>
         <item>Только GSM</item>
-        <item>GSM/WCDMA (авторежим)</item>
+        <item>Предпочитать WCDMA</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>английский</item>
@@ -54,11 +55,5 @@
     <string-array name="dtmf_tone_entries">
         <item>Обычные</item>
         <item>Длинные</item>
-    </string-array>
-    <string-array name="preferred_network_mode_choices_seoul">
-        <item>Авто LTE/WCDMA/GSM</item>
-        <item>Авто WCDMA/GSM</item>
-        <item>Только WCDMA</item>
-        <item>Только GSM</item>
     </string-array>
 </resources>

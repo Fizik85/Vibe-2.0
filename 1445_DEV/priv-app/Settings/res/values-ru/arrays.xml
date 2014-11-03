@@ -29,7 +29,7 @@
         <item>30 мин.</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
-        <item>Сразу</item>
+        <item>Незамедлительно</item>
         <item>Через 5 сек.</item>
         <item>Через 15 сек.</item>
         <item>Через 30 сек.</item>
@@ -46,15 +46,15 @@
         <item>Огромный</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Очень медленная</item>
-        <item>Медленная</item>
-        <item>Обычная</item>
-        <item>Быстрая</item>
-        <item>Беглая</item>
-        <item>Достаточно быстрая</item>
-        <item>Быстрая</item>
+        <item>Очень медленный</item>
+        <item>Медленный</item>
+        <item>Обычный</item>
+        <item>Беглый</item>
+        <item>Быстрый</item>
+        <item>Достаточно быстрый</item>
+        <item>Скоростной</item>
         <item>Ещё быстрее</item>
-        <item>Очень быстрая</item>
+        <item>Самый быстрый</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Очень низкий</item>
@@ -131,8 +131,9 @@
         <item>Видим всегда</item>
     </string-array>
     <string-array name="wifi_signal">
-        <item>Слабый</item>
-        <item>Хороший</item>
+        <item>Ужасный</item>
+        <item>Плохой</item>
+        <item>Нормальный</item>
         <item>Хороший</item>
         <item>Отличный</item>
     </string-array>
@@ -482,17 +483,23 @@
     <string-array name="multi_sim_entries">
         <item>SIM 1</item>
         <item>SIM 2</item>
+        <item>SIM 3</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Рекомендация системы</item>
+        <item>Установлено на телефон</item>
+        <item>Установлено на SD-карту</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_smart">
         <item>Всегда включен</item>
         <item>Включен во время зарядки</item>
         <item>Выключен (увеличивается трафик моб.сети)</item>
         <item>Смарт Wi-Fi(Включается автоматически при обмене данными)</item>
+    </string-array>
     <string-array name="entries_volume_up_option">
         <item>Включение экрана(Нажмите кнопку громкости для включения экрана)</item>
         <item>Мгновенное фото(При выключенном экране,дважды нажатие кнопку уменьшения громкости для съёмки)</item>
         <item>Стандартные</item>
-    </string-array>
     </string-array>
     <string-array name="entryvalues_smart_rotation">
         <item>0</item>
@@ -532,11 +539,5 @@
     <string-array name="sharpen">
         <item>По умолчанию</item>
         <item>Резко</item>
-    </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>Авто LTE/WCDMA/GSM</item>
-        <item>Авто WCDMA/GSM</item>
-        <item>Только WCDMA</item>
-        <item>Только GSM</item>
     </string-array>
 </resources>
