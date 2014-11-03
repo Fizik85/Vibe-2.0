@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <array name="preview">
-        <item>@drawable/preview1</item>
-        <item>@drawable/preview2</item>
-        <item>@drawable/preview3</item>
-    </array>
-    <array name="previewthumb">
-        <item>@drawable/preview1</item>
-        <item>@drawable/preview2</item>
-        <item>@drawable/preview3</item>
-    </array>
     <string-array name="emoji_smiley_texts">
         <item>\\ud83d\\ude03</item>
         <item>\\ud83d\\ude1e</item>
@@ -546,11 +536,4 @@
         <item>Русский</item>
         <item>Исландский</item>
     </string-array>
-   <string-array name="callog_click_action_value">
-        <item>Позвонить</item>
-        <item>Открыть жернал вызова</item>
-    </string-array>
-    <string-array name="number_match_style_value">
-        <item>11 цифр</item>
-        <item>7 цифр</item>
 </resources>

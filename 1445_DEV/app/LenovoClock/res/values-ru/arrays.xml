@@ -300,23 +300,23 @@
         <item>Кито</item>
     </string-array>
     <string-array name="weekDays">
-        <item>Вс</item>
-        <item>Пн</item>
-        <item>Вт</item>
-        <item>Ср</item>
-        <item>Чт</item>
-        <item>Пт</item>
-        <item>Сб</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
     </string-array>
     <string-array name="alert_time_array">
-        <item>Будильник включится менее, чем через 1 минуту</item>
-        <item>Будильник включится через %1$s</item>
-        <item>Будильник включится через %2$s</item>
-        <item>Будильник включится через %1$s и %2$s</item>
-        <item>Будильник включится через %3$s</item>
-        <item>Будильник включится через %1$s и %3$s</item>
-        <item>Будильник включится через %2$s и %3$s</item>
-        <item>Будильник включится через %1$s %2$s и %3$s</item>
+        <item>Сигнал менее чем через 1 мин</item>
+        <item>Сигнал через %1$s</item>
+        <item>Сигнал через %2$s</item>
+        <item>Сигнал через %1$s %2$s</item>
+        <item>Сигнал через %3$s</item>
+        <item>Сигнал через %1$s %3$s</item>
+        <item>Сигнал через %2$s %3$s</item>
+        <item>Сигнал через %1$s, %2$s %3$s</item>
     </string-array>
     <string-array name="timer_notifications">
         <item>Осталось: меньше минуты</item>

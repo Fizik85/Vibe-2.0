@@ -364,26 +364,27 @@
     <string name="com_lenovo_lsf_unbind_doing">Отмена привязки...</string>
     <string name="keylogin_loading">Выполняется вход...</string>
     <string name="account_manager">Управление уч. записью</string>
-
-    <string name="com_lenovo_lsf_country_area">Страна/регион</string>
+    <string name="com_lenovo_lsf_string_account_setting_password">пароль</string>
+    <string name="com_lenovo_lsf_country_area">Страна/Регион</string>
     <string name="com_lenovo_lsf_country_area_text">США</string>
-
+    <string name="notes">Тестовая версия(только для lefactory)</string>
     <string name="com_lenovo_lsf_lenovo_name">Lenovo</string>
-
-    <string name="com_lenvo_lsf_string_current_email">Текущая эл. почта:</string>
-    <string name="com_lenvo_lsf_string_please_input_new_email">Новая эл. почта:</string>
-    <string name="com_lenovo_lsf_login">Вход</string>
-    <string name="com_lenovo_lsf_sign_up">Регистрация</string>
-    <string name="com_lenovo_lsf_country_select_title">Выберите страну</string>
-
-
-
+    <string name="com_lenovo_lsf_register_string_verifycode_sms">Подтвердить код смс</string>
+    <string name="com_lenvo_lsf_string_current_email">Текущий адрес электронной почты:</string>
+    <string name="com_lenvo_lsf_string_please_input_new_email">Новый адрес электронной почты:</string>
+    <string name="com_lenovo_lsf_login">Войти</string>
+    <string name="com_lenovo_lsf_sign_up">Подписаться</string>
+    <string name="com_lenovo_lsf_country_select_title">Выберете страну</string>
+    <string name="com_lenovo_lsf_lenovouser_userinfo_logouts">Учётная запись отключена.</string>
+    <string name="com_lenovo_lsf_string_account_is_transferring">Изменение учётной записи...</string>
+    <string name="com_lenovo_lsf_get_third_token_fail">Сбой применения сторонних игровых ключей</string>
     <string name="com_lenovo_lsf_string_current_registed_phone_number">Текущий номер:</string>
     <string name="com_lenovo_lsf_string_please_input_your_new_phone_number">Новый номер:</string>
-
-
-
-
+    <string name="com_lenovo_lsf_onekey_connecting_server">подключение к серверу</string>
+    <string name="com_lenovo_lsf_onekey_authorizing">Авторизация</string>
+    <string name="com_lenovo_lsf_onekey_logining">Вход</string>
+    <string name="no_browser">Ошибка открытия браузера. Проверьте корректно ли установлен браузер и не блокируется ли другими приложениями.</string>
+    <string name="com_lenovo_lsf_phone_area_code">+86</string>
     <string name="app_name">Lenovo ID</string>
     <string name="account_settings">Настройки учетной записи</string>
     <string name="myaccount_string_chooseaccount">Выберите учетную запись</string>
@@ -392,20 +393,21 @@
     <string name="unlock_parse_tgt_error">Ошибка возврата значения tgt сервером синтаксического анализа</string>
     <string name="boot_regist_login_error">Сбой автоматической регистрации кода Lenovo ID. Нажмите здесь, чтобы зарегистрироваться вручную.</string>
     <string name="boot_regist_login_notification_msg">Вы ввели код Lenovo ID.</string>
-
+    <string name="boot_wizard_tips"><html>SMS, контакты, фото. Lenovo<font color="#0d74ff">облачный сервис</font>，поможет в<font color="#0d74ff">резервном копировании.</font></html></string>
     <string name="boot_wizard_tips_1">SMS、Контакты、Фото……Lenovo</string>
     <string name="boot_wizard_tips_2">Облачные службы</string>
     <string name="boot_wizard_tips_3">помогут</string>
     <string name="boot_wizard_tips_4">в архивации.</string>
-
-
-
-
-
-
-
-
-    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите WLAN</string>
+    <string name="boot_wizard_registerbythis">Номер телефона зарегистрирован как уч.запись</string>
+    <string name="boot_wizard_iwantregister">Зарегистрироваться</string>
+    <string name="boot_wizard_login_email">Логин эл.почта</string>
+    <string name="boot_wizard_login_phone">Логин номер тел.</string>
+    <string name="boot_wizard_login_onekey">Логин в одно касание(номер тел.)</string>
+    <string name="boot_wizard_login_other">Другие службы</string>
+    <string name="com_lenovo_lsf_string_contact_method">Контакты</string>
+    <string name="com_lenovo_lsf_string_check_update">Проверка обновления</string>
+    <string name="com_lenovo_lsf_string_feedback">Отзыв</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите Wi-Fi</string>
     <string name="SUS_MSG_LATESTVERSION">Самая новая версия</string>
     <string name="SUS_MSG_NOTFOUND">Не найдено</string>
     <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Сеть недоступна</string>
@@ -419,7 +421,7 @@
     <string name="SUS_UPDATEDESC">Описание:</string>
     <string name="SUS_UPDATEVERPROMPT_VERNAME">Имя:</string>
     <string name="SUS_UPDATEVERPROMPT_VERSIZE">Размер:</string>
-    <string name="SUS_UPDATESIZEPROMPT_WLAN">рекомендуется загрузка через WLAN</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">рекомендуется загрузка через Wi-Fi</string>
     <string name="SUS_UPDATE">Обновить</string>
     <string name="SUS_CANCEL">Отмена</string>
     <string name="SUS_DOWNLOAD_TITLE">Загрузка</string>

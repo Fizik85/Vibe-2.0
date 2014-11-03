@@ -272,7 +272,6 @@
     <string name="ab_patch_update">Обновление сокращения трафика</string>
     <string name="action_bar_up_description">Вверх</string>
     <string name="ab_cvaa_show_items">showing items 1 to num of num</string>
-    <string name="ab_background_data_alert">Разрешить фоновую проверку обновлений?</string>
     <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите Wi-Fi!</string>
     <string name="SUS_MSG_LATESTVERSION">Установлена текущая версия!</string>
     <string name="SUS_MSG_NOTFOUND">Нет обновлений!</string>
@@ -306,7 +305,93 @@
     <string name="SUS_FIND_NEW_VERSION">Доступна новая версия для вас</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Теперь установите apk.</string>
     <string name="SUS_BTN_UPDATINGPROMPT">Выполняется обновление...</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="download_title">Загрузки</string>
+
+    <string name="app_name">Игры</string>
+    <string name="download">Загрузить</string>
+    <string name="percentage">%d%%</string>
+    <string name="downloading_game">Загрузка: %s</string>
+    <string name="download_complete">Загружено: %s</string>
+    <string name="download_completed">Загружено</string>
+    <string name="download_failure">Ошибка загрузки</string>
+    <string name="download_failed">Ошибка загрузки: %s</string>
+    <string name="download_failed_network">Ошибка загрузки: сеть недоступна</string>
+    <string name="network_wlan_only_message">Ошибка загрузки: Wi-Fi недоступен.</string>
+    <string name="no_download_url">НЕ могу получить URL для %s</string>
+    <string name="download_failed_storage">Ошибка загрузки: Не могу записать на SD карту</string>
+    <string name="install_failed">Ошибка установки</string>
+    <string name="install_game_failed">%s не установлен</string>
+    <string name="sdcard_space_warning_detail">Проблема записи может быть из-за ошибки в загрузке.</string>
+    <string name="btn_more">Другие игры</string>
+    <string name="recommend_fragment_install">Установить</string>
+    <string name="recommend_dialog_need">Да</string>
+    <string name="recommend_dialog_cancel">Нет</string>
+    <string name="recommend_dialog_not_delete">Нет</string>
+    <string name="recommend_dialog_delete">Удалить</string>
+    <string name="settings_create_folder">Создать папку \"Игры\"</string>
+    <string name="recommend_shake_yes">ОК</string>
+    <string name="recommend_shake_no_more_show">Не показывать</string>
+    <string name="recommend_grid_failed_btn_txt">Перезагрузить</string>
+    <string name="descr_image">Значок приложения</string>
+    <string name="recommend_game_center">Центр игр</string>
+    <string name="defaultwallpaper">Loading picture</string>
     <string name="com_lenovo_lsf_app_name">UserFramework</string>
     <string name="com_lenovo_lsf_lenovouser_app_name">Lenovo ID</string>
     <string name="com_lenovo_lsf_lenovouser_btn_ok">OK</string>
@@ -563,35 +648,11 @@
     <string name="com_lenovo_lsf_account_manager">Управление Аккаунтами</string>
     <string name="com_lenovo_lsf_notification">Пароль Lenovo по-умолчанию:</string>
     <string name="lenovouser_quick_welcome">Добро пожаловать</string>
-    <string name="app_filter_class" />
-    <string name="app_name">Игры</string>
-    <string name="download">Загрузить</string>
-    <string name="percentage">%d%%</string>
-    <string name="downloading_game">Загрузка: %s</string>
-    <string name="download_complete">Загружено: %s</string>
-    <string name="download_completed">Загружено</string>
-    <string name="download_failure">Ошибка загрузки</string>
-    <string name="download_failed">Ошибка загрузки: %s</string>
-    <string name="download_failed_network">Ошибка загрузки: сеть недоступна</string>
-    <string name="network_wlan_only_message">Ошибка загрузки: Wi-Fi недоступен.</string>
-    <string name="no_download_url">НЕ могу получить URL для %s</string>
-    <string name="download_failed_storage">Ошибка загрузки: Не могу записать на SD карту</string>
-    <string name="install_failed">Ошибка установки</string>
-    <string name="install_game_failed">%s не установлен</string>
-    <string name="sdcard_space_warning_detail">Проблема записи может быть из-за ошибки в загрузке.</string>
-    <string name="btn_more">Другие игры</string>
-    <string name="recommend_fragment_install">Установить</string>
-    <string name="recommend_dialog_need">Да</string>
-    <string name="recommend_dialog_cancel">Нет</string>
-    <string name="recommend_dialog_not_delete">Нет</string>
-    <string name="recommend_dialog_delete">Удалить</string>
-    <string name="settings_create_folder">Создать папку \"Игры\"</string>
-    <string name="recommend_shake_yes">ОК</string>
-    <string name="recommend_shake_no_more_show">Не показывать</string>
-    <string name="recommend_grid_failed_btn_txt">Перезагрузить</string>
-    <string name="descr_image">Значок приложения</string>
-    <string name="recommend_game_center">Центр игр</string>
-    <string name="defaultwallpaper">Loading picture</string>
+
+
+
+
+
     <string name="tab_local">Локальные</string>
     <string name="local_restore">Локальное восстановление</string>
     <string name="local_backup">Локальная копия</string>
@@ -850,20 +911,92 @@
     <string name="t9_search_delete_history"><u>Очистить историю</u></string>
     <string name="confirm_delete_folder">Удалить эту папку?</string>
     <string name="chooser_wallpaper">Выберите источник фонового рисунка</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="other_widgets">Другие виджеты</string>
     <string name="lock_label">Блокировка одной клавишей</string>
 	<string name="default_game_folder_title">Игры</string>
+
     <string name="content_game_scan_dialog">Папка \"Игры\" создана. Поместить все установленные игры в эту папку?</string>
+
+
+
+
+
+
+
+
+
     <string name="recommend_install_inprogress">Установка</string>
+
     <string name="content_disable_recommend_app_dialog">Вы отключаете уведомления о рекомендуемых играх. Вы можете повторно включить эту функцию в настройках рабочего стола. Отключить рекомендации?</string>
+
+
     <string name="game_folder_settings_title">Папка \"Игры\"</string>
     <string name="auto_push_recommend_game_settings_title">Рекомендовать новые игры</string>
+
+
+
     <string name="allow_download_use_3g_settings_title">Разрешить использование мобильной передачи данных для загрузки</string>
+
+
+
+
     <string name="install_failed_storage">%s установка прервалась, т.к. не хватате места в телефоне, попытайтесь ещё раз или удалите.</string>
     <string name="title_enable_gamefolder_dialog">Папка с играми</string>
     <string name="content_enable_gamefolder_dialog">Действительно ли включить игровые функции, чтобы всегда знать о появлении новых игр?</string>
+
+
+
+
+
     <string name="dummy_installed_app_ok">ОК</string>
     <string name="dummy_notinstalled_app_cancel">Отмена</string>
+
+
+
     <string name="mobile_data_remind_ok">Продолжить</string>
     <string name="mobile_data_remind_quite">Отмена</string>
     <string name="mobile_data_remind_title">Мобильный трафик, советы</string>
@@ -985,6 +1118,8 @@
     <string name="cloud_restore_cancel">Восстановление из облака отменено</string>
     <string name="cloud_restore_failed">Ошибка восстановления из облака</string>
     <string name="cloud_backup_failed">Ошибка копирования в облако</string>
+
+
     <string name="tab_cloud">Облако</string>
     <string name="cloud_backup">Резервное копирование в облако</string>
     <string name="cloud_restore">Восстановление из облака</string>

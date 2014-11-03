@@ -436,10 +436,15 @@
     <string name="comments_title">All comments</string>
     <string name="comments_reply">New reply</string>
     <string name="auto_updating">Smart updating</string>
+
     <string name="load_auto_success">Data-saving mode enabled</string>
     <string name="load_auto">You are using the 2G/3G/4G network. Click to enable fuckColor1underLine1Data-saving modeunderLine2fuckColor2</string>
     <string name="toast_auto_update_success">Smart update enabled</string>
     <string name="dialog_auto_udpate">Keep your apps up to date? Click fuckColor1underLine1Smart updateunderLine2fuckColor2</string>
+
+
+
+
     <string name="network_flow">Store data usage: %1$d K. Download: %2$d K</string>
     <string name="channel_id">Store channel #: %s</string>
     <string name="download_count">%s download(s)</string>
@@ -488,6 +493,8 @@
     <string name="nospace_remove_fail">Insufficient space. Fail to delete</string>
     <string name="nospace_string_noThanks">No, thanks</string>
     <string name="nospace_string_go">Yes, free up more space</string>
+
+
 
     <string name="api_ok">Allow</string>
     <string name="api_cancel">Do not allow</string>
@@ -924,6 +931,7 @@ Click to login"</string>
     <string name="app_is_latest_version">LenovoStore is the latest version. Thanks for your interest</string>
     <string name="http_request_fail">Network access failed</string>
     <string name="share_le_app">Share LenovoStore</string>
+
     <string name="self_share_fail">Share failed!</string>
     <string name="get_self_share_fail">Fail to obtain share data!</string>
     <string name="help_how_to_download_title">Q: How to download the desired apps?</string>
@@ -1043,6 +1051,8 @@ Click to login"</string>
     <string name="center_newest">Latest version</string>
     <string name="center_downshelf">Unavailable</string>
     <string name="loading">Loading…</string>
+
+
     <string name="refeshing">Refreshing…</string>
     <string name="no_content">No content</string>
     <string name="loading_sumit">Submitting…</string>
@@ -1187,6 +1197,7 @@ Click to login"</string>
     <string name="network_notice_title">Reminder</string>
     <string name="network_notice_detail">"Network failure. Store service halted. 
 You can also install \"Mobile Assistant\" on PC. Connect your phone to the PC and enjoy unlimited downloads with no data traffic fee: sj.lenovo.com"</string>
+
     <string name="network_set">Set network</string>
     <string name="network_retry">Retry</string>
     <string name="network_offline">Run offline</string>
@@ -1229,9 +1240,19 @@ You can also install \"Mobile Assistant\" on PC. Connect your phone to the PC an
     <string name="setting_windown_about">About</string>
     <string name="setting_windown_response">Feedback</string>
     <string name="setting_activity_toptextview">Settings</string>
+
+
+
+
+
+
+
+
+
     <string name="shoppinglist_activity_bottomtv01">You have</string>
     <string name="shoppinglist_activity_bottomtv02">app(s) removed from the shelf</string>
     <string name="setting_download_limit_title">Set 2G/3G/4G download limit</string>
+
     <string name="setting_download_limit_wlan">WLAN only</string>
     <string name="setting_download_limit_10m">10M</string>
     <string name="setting_download_limit_15m">50M</string>

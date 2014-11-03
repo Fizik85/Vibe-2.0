@@ -1,5 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="com_lenovo_lsf_lenovouser_app_name">Аккаунт Lenovo</string>
     <string name="com_lenovo_lsf_lenovouser_btn_ok">ОК</string>
     <string name="com_lenovo_lsf_lenovouser_btn_cancel">Отмена</string>
@@ -653,7 +706,7 @@
     <string name="ab_background_data_alert">Проверять обновления в фоновом режиме?</string>
 
 
-    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите Wi-Fi!</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите WLAN!</string>
     <string name="SUS_MSG_LATESTVERSION">Установлена текущая версия!</string>
     <string name="SUS_MSG_NOTFOUND">Нет обновлений!</string>
     <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Сеть недоступна!</string>
@@ -667,14 +720,14 @@
     <string name="SUS_UPDATEDESC">Описание:</string>
     <string name="SUS_UPDATEVERPROMPT_VERNAME">Имя:</string>
     <string name="SUS_UPDATEVERPROMPT_VERSIZE">Размер:</string>
-    <string name="SUS_UPDATESIZEPROMPT_WLAN">Для загрузки рекомендуется Wi-Fi!</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">Для загрузки рекомендуется WLAN!</string>
     <string name="SUS_UPDATE">Обновить</string>
     <string name="SUS_CANCEL">Позже</string>
     <string name="SUS_DOWNLOAD_TITLE">Идет загрузка IdeaFriend!</string>
     <string name="SUS_CANCELBUTTON">Отмена</string>
     <string name="SUS_NOTIFICATION_TITLE">Подсказка</string>
     <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Обновление... Подождите!</string>
-    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Тайм-аут сети. Ещё раз...</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Тайм-аут сети. Еще раз...</string>
     <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">ОК</string>
     <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Прервать</string>
     <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Это диалоговое окно будет скрыто через</string>
@@ -699,7 +752,7 @@
     <string name="clear_all_selected_events_title">Все события выбранных аккаунтов будут удалены.</string>
     <string name="delete_completed">Удалено</string>
     <string name="wait_deleting_tip">Удаление...</string>
-    <string name="attendees_invalid_tip">Некоторые приглашенные лица не найдены</string>
+    <string name="attendees_invalid_tip">Некоторые приглашенные лица ненайдены</string>
     <string name="unread_reminders">Не просмотрено: %d</string>
     <string name="click_to_view_all">Просмотреть все</string>
     <string name="search_setting_description">События календаря</string>
@@ -818,7 +871,7 @@
     <string name="month_widget_label">Календарь</string>
     <string name="day_widget_label">Calendar(2x2)</string>
     <string name="str_no_title">Без темы</string>
-    <string name="str_widget_todo">Календарь</string>
+    <string name="str_widget_todo">Календарь дел</string>
     <string name="no_reminders">Вы не добавили напоминание</string>
     <string name="no_activited_reminders">Для последних событий не требуются напоминания</string>
     <string name="no_cards">No credit card record</string>
@@ -828,7 +881,7 @@
     <string name="alarm_count">Повтор сигнала</string>
     <string name="weekdayly">Every weekday</string>
     <string name="weekly_on_day">Еженедельно %s</string>
-    <string name="monthly_on_day_count1">Ежемесячно (кажд. %1$s%2$s)</string>
+    <string name="monthly_on_day_count1">Ежемесячно (кажд. %1$s %2$s)</string>
     <string name="monthly_on_day1">Ежемесячно (кажд. %s)</string>
     <string name="yearly1">Ежегодно %s</string>
     <string name="delete_reminder_label">Удаление напоминаний</string>
@@ -865,6 +918,23 @@
     <string name="select_file_from_other_directory">Импорт из других каталогов</string>
     <string name="event_reminder">Напоминание о событии</string>
     <string name="slide_up_to_close_alarm">Сдвиньте вверх</string>
+    <string name="bank_list">Пустой лист</string>
+    <string name="preferences_show_worldcup">Показать расписания чемпиолнатов</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="give_feedback">Отправить отзыв</string>
     <string name="received_sms_but_no_reminders">Полученны SMS без напоминаний.</string>
     <string name="sms_template_title">Отправить SMS шаблон</string>
@@ -897,8 +967,7 @@
     <string name="loading">Загрузка…</string>
     <string name="confirm_delete_birthday">Удалить день рождения</string>
     <string name="confirm_dialog_title">Удалить</string>
-    <string name="birthday_list_title">"День рожде-
-ния"</string>
+    <string name="birthday_list_title">День рождения</string>
     <string name="send_message">Отправить сообщение</string>
     <string name="call">Вызов</string>
     <string name="str_have">Осталось</string>
@@ -977,7 +1046,7 @@
     <string name="str_import_birthday_fail">сбой импорта дня рождения</string>
     <string name="import_birthday_confirm">импорт выбранного дня рождения</string>
     <string name="user_feedback">User feeedback</string>
-    <string name="menu_plugin">Ещё</string>
+    <string name="menu_plugin">Еще</string>
     <string name="plugin_get_download_fail_no_update">Новая версия недоступна!</string>
     <string name="plugin_get_download_url_fail">Сбой получения URL загрузки!</string>
     <string name="plugin_download_notification_title">Загрузка</string>
@@ -993,6 +1062,7 @@
     <string name="plugin_install">Установлено</string>
     <string name="plugin_uninstall_fail">Невозможно удалить системное приложение.</string>
     <string name="plugin_weather">Погода Lenovo</string>
+
     <string name="plugin_almanac">Альманах</string>
     <string name="no_titleyi_label">Всё хорошо</string>
     <string name="no_titleji_label" />
@@ -1000,8 +1070,11 @@
     <string name="birthday_delete_disable_indication">Не удается удалить дни рождения, импортированные из контактов. Удалите их из контактов</string>
     <string name="empty_list_birthday_delete_disable">Не удается удалить импортированные дни рождения</string>
     <string name="auto_import_indication_str">Не забывайте про дни рождения друзей. Выберите Параметры > Читать контакты и сообщения, и будете получать напоминания о днях рождениях</string>
+    <string name="preferences_read_sms">Напоминание полётов, кредиток</string>
+    <string name="preferences_read_sms_summary">Разрешить чтение SMS</string>
     <string name="preferences_cta_indication">Читать контакты и сообщения</string>
     <string name="preferences_cta_indication_summary">Чтение дней рождений, сообщений об платежах по кредитной карте и рейсах самолета и выдача напоминаний</string>
+    <string name="preferences_auto_sync_birthday">Автоимпорт дней рождений</string>
     <string name="preferences_auto_sync_birthday_title">Автоматический импорт дней рождений из контактов</string>
     <string name="user_authroty_title">"В календаре будут считываться контакты и сообщения:
  1. Для напоминаний о днях рождения
@@ -1014,37 +1087,84 @@
     <string name="ampty_fly_text">Опять пропустили свой рейс? Выберите Параметры > Читать контакты и сообщения, и будете получать напоминания</string>
     <string name="try_now">Испытать</string>
     <string name="cta_dialog_title">Дружеское напоминание</string>
+    <string name="user_authority_setting">Разрешения</string>
+    <string name="preferences_new_version_alarm">Автообновление</string>
+    <string name="preferences_new_version_alarm_summary">Автообновление по Wi-Fi</string>
     <string name="select_from_contact">Выберите контакт</string>
     <string name="imported">Импортировано</string>
     <string name="preferences_splash_pic_dialog">Экранная заставка</string>
     <string name="widget_config_tag1">Светлые тона</string>
     <string name="widget_config_tag2">Темные тона</string>
     <string name="widget_config_tag3">Прозрачный</string>
+    <string name="widget_config_tag4">Автоопределение</string>
     <string name="widget_config_tag1_disc">Подходит для темного фона рабочего стола</string>
     <string name="widget_config_tag2_disc">Подходит для светлого фона рабочего стола</string>
     <string name="widget_config_tag3_disc">Подходит для сплошного цветного фона рабочего стола</string>
+    <string name="widget_config_tag4_disc">Использовать свой цвет</string>
     <string name="timeweather_widget_label">Погода/время</string>
     <string name="todoweather_widget_label">Расписание, погода/время</string>
     <string name="monthweather_widget_label">Календарь, погода/время</string>
+
+
+
+
+
+
+
+
+
     <string name="no_invalid_email">Нет нужных писем, добавьте в ручную.</string>
-    <string name="hour_minute_24" formatted="false">%H:%M</string>
-    <string name="hour_minute_ampm" formatted="false">%-l:%M%p</string>
-    <string name="preferences_birthday_remind_time_title">" Время напоминания о дне рождения по умолчанию"</string>
-    <string name="male_disc">мужчина</string>
-    <string name="female_disc">женщина</string>
-    <string name="top_button_menu_disc">меню</string>
-    <string name="sdCardFull">Не осталось места на телефоне</string>
-    <string name="image_disc">фото</string>
-    <string name="import_contact_disc">контакт</string>
-    <string name="edit_event_disc">редактировать событие</string>
-    <string name="event_detail_disc">детали события</string>
-    <string name="action_message_disc">sms</string>
-    <string name="action_call_disc">тел.</string>
-    <string name="home_as_up_disc">назад</string>
-    <string name="search_disc">поиск</string>
-    <string name="new_event_disc">добавить</string>
-    <string name="select_sms_disc">выбрать sms</string>
-    <string name="lenovo_cta_alert">Читать контакты и SMS для этой операчии</string>
+    <string name="plugin_tips1">Pleas check your network</string>
+    <string name="plugin_tips2">Нет данных, попробуйте позже</string>
+    <string name="plugin_tips3">Больше операций</string>
+    <string name="lenovo_cta_alert">Чтение контактов и SMS для выполнения операции</string>
+    <string name="str_main_content_hint">Заголовок</string>
+    <string name="str_remember_content_hint">Заголовок</string>
+    <string name="str_countdown_content_hint">Заголовок</string>
+    <string name="str_pasttime_content_hint">Заголовок</string>
+    <string name="please_input_remember_Time">9：00</string>
+    <string name="remembercustom">Пользовательский</string>
+    <string name="rememberday">Годовщина</string>
+    <string name="countdownday">Обратный сч.</string>
+    <string name="keeptime">Счётчик-дней</string>
+    <string name="str_please_input_remember_titile">Не могу сохранить пустое событие.</string>
+    <string name="str_please_input_countdown_titile">Не могу сохранить пустое событие.</string>
+    <string name="str_please_input_pasttime_titile">Не могу сохранить пустое событие.</string>
+    <string name="add_remember">Новая годовщина</string>
+    <string name="repeatflag">Повтор:One-time event</string>
+    <string name="repeatweek">Еженедельно</string>
+    <string name="repeatmonth">Ежемесячно</string>
+    <string name="repeatyear">Ежегодно</string>
+    <string name="customday">Дни</string>
+    <string name="promp_text">Выберите дни</string>
+    <string name="titlecountdown">Новый обратный сч.</string>
+    <string name="titlepasttime">Новый день отсчёта</string>
+    <string name="pastday">Выберите дни</string>
+    <string name="starttime">Дата начала</string>
+    <string name="rememberfinish">Сохранено</string>
+    <string name="countdownfinish">Сохранено</string>
+    <string name="pasttimefinish">Сохранено</string>
+    <string name="str_countdown_wrong_ind">Нальзя выбирать прошедшую дату.</string>
+    <string name="str_pasttime_wrong_ind">Нельзя выбирать будущую дату.</string>
+    <string name="str_ago">Прошедшие</string>
+    <string name="str_today">Сегодня</string>
+    <string name="str_tomorrow">Завтра</string>
+    <string name="str_later">Позже</string>
+    <string name="remember_yearnum">[%1$d годовщина]</string>
+    <string name="remember_num">%1$d дней</string>
+    <string name="countdown_interval">[осталось %1$d дня(ей)]</string>
+    <string name="pasttime_interval">[прошло %1$d дня(ей)]</string>
+    <string name="mergeagenda_remember">[до %1$d годовщины, осталось %2$d дня(ей)]</string>
+    <string name="pasttimehint">дней</string>
+    <string name="event_info_remember_label">Годовщина</string>
+    <string name="event_info_countdown_label">Осталось：%1$d дня(ей)</string>
+    <string name="event_info_pasttime_label">Прошло: %1$d дня(ей)</string>
+    <string name="special_reminder_setting_title">Настройки напоминания</string>
+    <string name="special_reminder_setting_summary">Дни рождения, выходные, рабочие дни</string>
+    <string name="all_day_reminder">Все события</string>
+    <string name="holiday_reminder">Дни Рождения</string>
+    <string name="holidayorworkday_reminder">Выходные дни</string>
+    <string name="workday_reminder">Рабочие дни</string>
     <string name="sync_tips">результатt</string>
     <string name="sync_local">лькально</string>
     <string name="sync_clound">онлайн</string>
@@ -1057,6 +1177,9 @@
     <string name="sync_ing_already">синхронизация...</string>
     <string name="sync_ing">синхронизация...</string>
     <string name="sync_immediately">синхронизировать</string>
+    <string name="sync_last_sync_time">Last sync time</string>
+    <string name="sync_web_url">Web site</string>
+    <string name="plugin_tip">Please go to Menu and open it</string>
     <string name="lunar_day">日</string>
     <string name="app_label">Календарь</string>
     <string name="what_label">Что</string>
@@ -1237,6 +1360,8 @@
     <string name="check_update">Проверка обновления</string>
     <string name="weekday">Ежедневно</string>
     <string name="delete">ОК</string>
+    <string name="import_export">Импорт/Экспорт</string>
+    <string name="str_title">Заголовок</string>
     <string name="no">Отмена</string>
     <string name="str_birthday_indication_today">Сегодня</string>
     <string name="str_birthday_indication_friend">Сегодня день рождения друга!</string>
@@ -1244,8 +1369,6 @@
     <string name="str_alert_age_today_birth">Сегодня у %1$s%2$d-летие</string>
     <string name="com_lenovo_lsf_lenovouser_change_progess">Изменение пароля. Ожидайте…</string>
     <string name="fb_input_feedback">Пожалуйста, введите отзыв</string>
-    <string name="import_export">Импорт/Экспорт</string>
-    <string name="str_title">Заголовок</string>
     <string name="plugin_delete">Удалить</string>
     <string name="plugin_pause">Пауза</string>
     <string name="plugin_continue">Продолжить</string>

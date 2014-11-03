@@ -12,12 +12,6 @@
         <item>анимация загрузки</item>
         <item>шрифт</item>
     </string-array>
-    <string-array name="emails">
-        <item>\@gmail.com</item>
-        <item>\@hotmail.com</item>
-        <item>\@yahoo.com</item>
-        <item>\@live.com</item>
-    </string-array>
     <string-array name="jazzy_effects">
         <item>Standard</item>
         <item>Tablet</item>
