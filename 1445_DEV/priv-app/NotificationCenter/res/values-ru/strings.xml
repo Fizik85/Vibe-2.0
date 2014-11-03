@@ -440,26 +440,29 @@
     <string name="lenovo_widget_text_smartswitch">Смарт-панель Lenovo</string>
     <string name="lenovo_widget_text_camera">Камера</string>
     <string name="lenovo_widget_text_system_settings">Настройки</string>
-    <string name="dlg_batteryWarehouse_msg_supplying_tablet">батарея работает в режиме источника питания, USB хост</string>
-    <string name="dlg_batteryWarehouse_msg_lowpower_tablet">Низкая мощностью устройства, отключите USB устройство для использования в обычном режиме</string>
+    <string name="dlg_batteryWarehouse_msg_supplying_tablet">Телефон может использоваться для зарядки других устройств. В процессе зарядки уровень заряда аккумулятора телефона будет быстро понижаться. Уровень заряда аккумулятора можно посмотреть в строке уведомлений.</string>
+    <string name="dlg_batteryWarehouse_msg_lowpower_tablet">Низкий заряд аккумулятора. Для использования телефона в обычном режиме рекомендуется отключить кабель зарядки и прекратить заряжать другие устройства.</string>
     <string name="widget_text_mobile_data_choose">Выбор Моб.данных</string>
     <string name="selecte_default_data_card_message">Выберите SIM</string>
     <string name="mobile_data_connecting_message">Подключение…</string>
-    <string name="select_default_data_card_when_calling_message">Активный вызов, попробуйте позже!</string>
+    <string name="select_default_data_card_when_calling_message">Выполняется вызов, повторите позже!</string>
     <string name="accessibility_increase">Увеличить яркость</string>
     <string name="accessibility_decrease">Уменьшить яркость</string>
-    <string name="accessibility_sleep">Сон %1$s секунд</string>
-    <string name="lenovo_app_delete_optimized_notification_toast_text">Unprioritized \"%1$s\" notifications</string>
-    <string name="lenovo_app_delete_notification_toast_text">Оповещения выключены для \"%1$s\"</string>
+    <string name="accessibility_sleep">Время ожидания %1$s с</string>
+    <string name="lenovo_app_delete_optimized_notification_toast_text">" Уведомлений без приоритета: \"\"%1$s\""</string>
+    <string name="lenovo_app_delete_notification_toast_text">" Выключенные уведомления для \"\"%1$s\""</string>
     <string name="accessibility_checked">Проверено</string>
     <string name="accessibility_unchecked">Непроверено</string>
-    <string name="accessibility_colsed">Закрыто</string>
+    <string name="accessibility_colsed">Выключено</string>
     <string name="accessibility_locked">Заблокировано</string>
     <string name="accessibility_unlocked">Разблокировано</string>
     <string name="lenovo_charge_completed_msg_title">Зарядка завершена</string>
-    <string name="lenovo_charge_completed_msg_sub_title">Отключите зарядное устройство</string>
+    <string name="lenovo_charge_completed_msg_sub_title">Отсоедините зарядное устройство</string>
     <string name="lenovo_low_battery_charge_message">жайте его с помощью зарядного устройства, поставляемого в комплекте.</string>
-    <string name="lenovo_unknow_stytle">unknow style</string>
+    <string name="lenovo_unknow_stytle">Неизвестный тип</string>
+    <string name="widget_text_night_mode">Ночной режим</string>
+    <string name="lenovo_screenshot_paint">Каракули</string>
+    <string name="lockscreen_carrier_default">Сеть не найдена</string>
     <string name="lenovo_status_bar_flashlight">Щелкните для закрытия вспышки</string>
     <string name="widget_text_apn_apn">apn</string>
     <string name="widget_text_apn_ctwap">ctwap</string>
@@ -469,6 +472,7 @@
     <string name="widget_text_apn_cmwap">cmwap</string>
     <string name="widget_text_apn_cmnet">cmnet</string>
     <string name="widget_text_apn_ctlte">ctlte</string>
+    <string name="widget_text_power_super">Максимальное энергосбережение</string>
     <string name="sim_switch_business_type_default">Настройка основной SIM-карты</string>
     <string name="sim_switch_business_type_voice_call">Параметры голосового вызова на основной SIM-карте</string>
     <string name="sim_switch_business_type_message">Настройка сообщения для основной SIM-карты</string>
@@ -524,8 +528,7 @@
     <string name="lenovo_recents_clear_memory_toast_text">"Освобождено %1$s МБ памяти
 Доступно %2$s МБ памяти"</string>
     <string name="lenovo_recents_no_app_toast_test">Память освобождена</string>
-
-    <string name="notification_quick_switch_settings">Переключатель строки уведомлений</string>
+    <string name="notification_quick_switch_settings">Панель уведомлений</string>
     <string name="show_battery_power_percentage_title">Показывать индикатор аккумулятора</string>
     <string name="app_notification_manager">Менеджер уведомлений</string>
     <string name="lenovo_app_notification_use_manager_sumarry">Выбор разрешенных приложений</string>
@@ -889,12 +892,12 @@
     <string name="dlg_confirm_kill_storage_users_text">При подключении USB-накопителя некоторые приложения могут прекратить работу и оставаться недоступными до его отключения.</string>
     <string name="dlg_error_title">Ошибка при подключении USB</string>
     <string name="dlg_ok">ОК</string>
-    <string name="ext_media_checking_notification_title">Подготовка: %s</string>
+    <string name="ext_media_checking_notification_title">Подключено: %s</string>
     <string name="ext_media_checking_notification_message">Проверка ошибок накопителя.</string>
     <string name="ext_media_badremoval_notification_title">Извлечено небезопасно:%s</string>
     <string name="ext_media_badremoval_notification_message">Отключайте %s перед извлечением во избежание потери данных.</string>
     <string name="ext_media_safe_unmount_notification_message">Можно безопасно удалить %s.</string>
-    <string name="ext_media_nomedia_notification_message">Можно подключить следующий накопитель:%s</string>
+    <string name="ext_media_nomedia_notification_message">Можно подключить следующий накопитель: %s</string>
     <string name="description_target_search">Поиск</string>
     <string name="statusbar_notification">Строка состояния</string>
     <string name="lenovo_theme">Тема</string>
@@ -928,11 +931,12 @@
     <string name="screenshot_area">Кадрировать</string>
     <string name="screenshot_cancel">Отмена</string>
     <string name="screenshot_share">Послать</string>
-    <string name="lenovo_quickpanel_item_edit_label">Изменить</string>
+    <string name="lenovo_screenshot_cut">Обрезка</string>
     <string name="data_connection_datach_timeout_error_msg">Сбой разрыва соединения для передачи данных</string>
     <string name="lenovo_wifi_top_warning_title_text">Центр уведомлений:</string>
     <string name="lenovo_status_phone_mute">Откл. звук</string>
     <string name="lenovo_status_phone_speakerphone">Динамик</string>
+    <string name="lenovo_quickpanel_item_edit_label">Изменить</string>
     <string name="usb_storage_otg_notification_message">Щелкните для отключения.</string>
     <string name="usb_storage_otg_notification_title">Подключено: OTG-диск</string>
 </resources>

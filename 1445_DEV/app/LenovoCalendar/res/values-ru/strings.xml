@@ -910,7 +910,7 @@
     <string name="birthday_indication">Сегодня день рождения вашего друга</string>
     <string name="birthday_count_indication">Сегодня у %1$d день рождения</string>
     <string name="birthday_detial_title">День рождения</string>
-    <string name="str_to_age_today_birth">Сегодня %1$d-летие</string>
+    <string name="str_to_age_today_birth">Исполняется %1$d</string>
     <string name="str_to_age">"До %1$d-летия "</string>
     <string name="str_day_left">Осталось %1$d дн.</string>
     <string name="str_current_day">В тот же день</string>
@@ -1017,15 +1017,15 @@
     <string name="select_from_contact">Выберите контакт</string>
     <string name="imported">Импортировано</string>
     <string name="preferences_splash_pic_dialog">Экранная заставка</string>
-    <string name="widget_config_tag1">Светлый</string>
-    <string name="widget_config_tag2">Темный</string>
+    <string name="widget_config_tag1">Светлые тона</string>
+    <string name="widget_config_tag2">Темные тона</string>
     <string name="widget_config_tag3">Прозрачный</string>
     <string name="widget_config_tag1_disc">Подходит для темного фона рабочего стола</string>
     <string name="widget_config_tag2_disc">Подходит для светлого фона рабочего стола</string>
     <string name="widget_config_tag3_disc">Подходит для сплошного цветного фона рабочего стола</string>
-    <string name="timeweather_widget_label">Календарь</string>
-    <string name="todoweather_widget_label">Календарь</string>
-    <string name="monthweather_widget_label">Календарь</string>
+    <string name="timeweather_widget_label">Погода/время</string>
+    <string name="todoweather_widget_label">Расписание, погода/время</string>
+    <string name="monthweather_widget_label">Календарь, погода/время</string>
     <string name="no_invalid_email">Нет нужных писем, добавьте в ручную.</string>
     <string name="hour_minute_24" formatted="false">%H:%M</string>
     <string name="hour_minute_ampm" formatted="false">%-l:%M%p</string>

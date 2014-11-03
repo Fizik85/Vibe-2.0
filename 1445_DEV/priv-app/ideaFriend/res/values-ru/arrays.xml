@@ -412,6 +412,11 @@
         <item>Первая буква</item>
         <item>Последняя буква</item>
     </string-array>
+    <string-array name="group_chat_notiy_type">
+        <item>Принять и напоминать</item>
+        <item>Принять и не напоминать</item>
+        <item>Отклонить</item>
+    </string-array>
     <string-array name="callog_display_style_value">
         <item>По дате</item>
         <item>По имени</item>
@@ -541,4 +546,11 @@
         <item>Русский</item>
         <item>Исландский</item>
     </string-array>
+   <string-array name="callog_click_action_value">
+        <item>Позвонить</item>
+        <item>Открыть жернал вызова</item>
+    </string-array>
+    <string-array name="number_match_style_value">
+        <item>11 цифр</item>
+        <item>7 цифр</item>
 </resources>
