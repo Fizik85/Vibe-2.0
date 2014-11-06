@@ -1162,10 +1162,10 @@
     <string name="event_info_pasttime_label">Прошло: %1$d дня(ей)</string>
     <string name="special_reminder_setting_title">Настройки напоминания</string>
     <string name="special_reminder_setting_summary">Дни рождения, выходные, рабочие дни</string>
-    <string name="all_day_reminder">События</string>
-    <string name="holiday_reminder">Напоминание о днях рождения</string>
+    <string name="all_day_reminder">Все события</string>
+    <string name="holiday_reminder">Дни Рождения</string>
     <string name="holidayorworkday_reminder">Выходные дни</string>
-    <string name="workday_reminder">Уведомления о выходных</string>
+    <string name="workday_reminder">Рабочие дни</string>
     <string name="sync_tips">результат</string>
     <string name="sync_local">лькально</string>
     <string name="sync_clound">онлайн</string>

@@ -515,7 +515,7 @@
         <item>Всегда включены</item>
         <item>3-х сек. интервал</item>
         <item>Автоматически</item>
-        <item>Закрыть</item>
+        <item>Нет подсветки</item>
     </string-array>
     <string-array name="multi_sim_entries_voice">
         <item>SIM 1</item>

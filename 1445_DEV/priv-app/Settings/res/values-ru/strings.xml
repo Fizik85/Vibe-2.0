@@ -520,8 +520,8 @@
     <string name="common_setings_title">Общие</string>
     <string name="character_setings_title">Специальные</string>
     <string name="all_setings_title">Системные</string>
-    <string name="smart_scene_title">Смарт сцена</string>
-    <string name="smart_scene_summary">Режим сцены требует Смарт переключения</string>
+    <string name="smart_scene_title">Смарт-сценарий</string>
+    <string name="smart_scene_summary">Режим требует настройки переключения сценариев по расписанию или по привязанной Wi-Fi точке</string>
     <string name="accessibility_script_injection_allowed">Разрешены</string>
     <string name="accessibility_script_injection_disallowed">Запрещены</string>
     <string name="accessibility_service_security_warning_title">Использовать %1$s?</string>
@@ -577,7 +577,7 @@
 
 Все пользовательские данные (включая музыку и изображения) будут удалены из встроенной памяти. Перед сбросом телефона создайте резервную копию данных."</string>
     <string name="fuse_backup_data_description">Перед системным сбросом будет создана резервная копия контактов, изображений, сообщений, приложений и других пользовательских данных</string>
-    <string name="select_subscription">Выбрать SIM-карту</string>
+    <string name="select_subscription">Информация о SIM-картах</string>
     <string name="airplane_open_confirm">Автономный режим</string>
     <string name="airplane_open_confirm_message">В каких случаях следует включать автономный режим?</string>
     <string name="preference_status_open">Вкл</string>
@@ -638,10 +638,10 @@
     <string name="voice_video_call_summary">Установка мелодии по умолчанию для вызовов</string>
     <string name="sms_notification_sound_title">Мелодия SMS</string>
     <string name="sms_notification_sound_summary">Установка мелодии по умолчанию для сообщений</string>
-    <string name="night_mode">Ночная защита глаз</string>
+    <string name="night_mode">Ночной режим</string>
     <string name="night_mode_summary">Данный режим удобен для пользования телефоном в ночное время. В редких случаях, некоторые кнопки в приложениях выключены.</string>
-    <string name="night_mode_notification_title">Запуск Ночной защиты глаз</string>
-    <string name="night_mode_notification_text">Коснитесь, чтобы выключить Ночную защиту глаз</string>
+    <string name="night_mode_notification_title">Запущен ночной режим</string>
+    <string name="night_mode_notification_text">Коснитесь, чтобы выключить ночной режим</string>
     <string name="night_mode_tip_secure_button">Чтобы пользоваться кнопкой, выключите Защиту глаз</string>
     <string name="format_data">Формат. внутренней SD карты</string>
     <string name="format_data_description">"Удалить все данные с SD карты: музыку, фотографии, данные резервного копирования, расположенные на внутренней SD. "</string>
@@ -784,11 +784,11 @@
     <string name="battery_info_awake_plugged">Время работы при зарядке:</string>
     <string name="battery_info_screen_on">Время работы экрана:</string>
     <string name="battery_info_status_unknown">Неизвестно</string>
-    <string name="battery_info_status_charging">Идет зарядка</string>
+    <string name="battery_info_status_charging">Идёт зарядка</string>
     <string name="battery_info_status_charging_ac">от сети</string>
     <string name="battery_info_status_charging_usb">по USB</string>
-    <string name="battery_info_status_charging_wireless">Wi-Fi</string>
-    <string name="battery_info_status_discharging">Не заряжается</string>
+    <string name="battery_info_status_charging_wireless">беспроводная зарядка</string>
+    <string name="battery_info_status_discharging">Используется</string>
     <string name="battery_info_status_not_charging">Не заряжается</string>
     <string name="battery_info_status_full">Батарея заряжена</string>
     <string name="battery_info_power_unplugged">Не подключено</string>

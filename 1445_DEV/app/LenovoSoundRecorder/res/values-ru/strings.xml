@@ -63,9 +63,9 @@
     <string name="trans_by_bluetooth">Отправить по Вluetooth</string>
     <string name="trans_by_mail">Отправить на e-mail</string>
     <string name="trans_by_sms">Отправить MMS</string>
-    <string name="high_quality">Интервью</string>
-    <string name="medium_quality">Беседа</string>
-    <string name="low_quality">Взаимодействие</string>
+    <string name="high_quality">Высокое</string>
+    <string name="medium_quality">Среднее</string>
+    <string name="low_quality">Низкое</string>
     <string name="label_save">Выберите место хранения</string>
     <string name="Internal_sd">Внутренняя память</string>
     <string name="External_sd">SD-карта</string>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="box_type_titles">
+        <item>Все записи</item>
+        <item>Избранное</item>
+        <item>Блокноты</item>
+        <item>Метки</item>
+        <item>Настройки</item>
+    </string-array>
+    <string-array name="note_detail_title">
+        <item>Блокнот</item>
+        <item>Метка</item>
+        <item>Место</item>
+        <item>Размер</item>
+    </string-array>
+    <string-array name="note_time_title">
+        <item>Синхронизация</item>
+        <item>Обновить</item>
+        <item>Создать</item>
+    </string-array>
+    <string-array name="default_category_name">
+        <item>Мои заметки</item>
+    </string-array>
+    <string-array name="default_category_flag">
+        <item>1</item>
+    </string-array>
+    <string-array name="settingsynctimeinterval_item_array">
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>Пол дня</item>
+        <item>День</item>
+        <item>Неделя</item>
+    </string-array>
+    <string-array name="notepad_longdialog_array">
+        <item>Изменить блокнот</item>
+        <item>Удалить блокнот</item>
+        <item>Сведения</item>
+    </string-array>
+    <string-array name="allnote_longdialog_array">
+        <item>Изменить заметка</item>
+        <item>Удалить заметка</item>
+        <item>Сведения</item>
+    </string-array>
+    <string-array name="trash_longdialog_array">
+        <item>Восстановить заметку</item>
+        <item>Удалить заметку</item>
+    </string-array>
+    <string-array name="notebrowse_more_array">
+        <item>Вложения</item>
+        <item>Сведения</item>
+    </string-array>
+    <string-array name="template_audio_longdialog_array">
+        <item>Перезаписать</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="template_photo_longdialog_array">
+        <item>Перезаписать</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="weather_dialog_name">
+        <item>Солнечно</item>
+        <item>Облачно</item>
+        <item>Дождливо</item>
+        <item>Снежно</item>
+        <item>Туманно</item>
+    </string-array>
+    <string-array name="live_notify_messages">
+        <item>"{title:'LENOTE',content:'Your memory-keeper. Keep your business in mind ',code:1}"</item>
+        <item>"{title:'LENOTE',content:'Name cards and certificates, always within your touch',code:2}"</item>
+        <item>"{title:'LENOTE',content:'LENOTE plans your spring outing',code:3}"</item>
+        <item>"{title:'LENOTE',content:'LENOTE helps to note down your plans every day. All from the heart',code:4}"</item>
+    </string-array>
+    <string-array name="flash_icons">
+        <item>drawable/camera_flash_off</item>
+        <item>drawable/camera_flash_auto</item>
+        <item>drawable/camera_flash_on</item>
+    </string-array>
+    <string-array name="flash_values">
+        <item>flash_off</item>
+        <item>flash_auto</item>
+        <item>flash_on</item>
+    </string-array>
+    <string-array name="note_type">
+        <item>Записка</item>
+        <item>Дело</item>
+    </string-array>
+    <string-array name="note_browse_more">
+        <item>Добавить звезду</item>
+        <item>Отправить</item>
+        <item>Ссылка</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="list_note_type">
+        <item>Все</item>
+        <item>Записки</item>
+        <item>Дела</item>
+        <item>Голосовые</item>
+    </string-array>
+    <string-array name="introduction_titles">
+        <item>Всё просто</item>
+        <item>Много шаблонов</item>
+        <item>Облачная cинхронизация</item>
+    </string-array>
+    <string-array name="introduction_contents1">
+        <item>Легко начать</item>
+        <item>Счета, дела, путешествия...</item>
+        <item>Бесплатная мультиплатфоренная синхронизация</item>
+    </string-array>
+    <string-array name="introduction_contents2">
+        <item>Запись по касанию</item>
+        <item>Новые возможности записей</item>
+        <item>Записки больше не потеряются</item>
+    </string-array>
+    <string-array name="other_feedback_way">
+        <item>&lt;a href=\"http://bbs.lenovo.com\">bbs.lenovo.com&lt;/a>&lt;br>A platform to access first-hand product information. A fast lane to Beta versions. Note and join nearby user activities.</item>
+        <item>Official QQ group: 208235210. LENOTE fans and official operation and development. True products, real-time interaction.</item>
+        <item>Weibo: &lt;a href=\"http://weibo.com/u/3936993678\">@Le Yun notebook&lt;/a>&lt;br>The most timely Weibo push platform</item>
+        <item>WeChat: Le Yun notebook&lt;br> The best way to subscribe WeChat contents</item>
+    </string-array>
+    <string-array name="introdution_large_text">
+        <item>Sync for multi platforms</item>
+        <item>Shortcut of desktop widget</item>
+        <item>To-do item, account book template</item>
+        <item>Fresh new design of interface and function</item>
+    </string-array>
+    <string-array name="introdution_small_text">
+        <item>Cloud storage. Auto sync between multi platforms</item>
+        <item>Note and save. Fresh new experience of new notes</item>
+        <item>Daily reminder. Convenient and efficient</item>
+        <item>Neat and clean. Perfect interactive experience</item>
+    </string-array>
+</resources>
