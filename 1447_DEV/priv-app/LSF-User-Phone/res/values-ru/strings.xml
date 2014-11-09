@@ -384,6 +384,8 @@
     <string name="com_lenovo_lsf_onekey_authorizing">Авторизация</string>
     <string name="com_lenovo_lsf_onekey_logining">Вход</string>
     <string name="no_browser">Ошибка открытия браузера. Проверьте корректно ли установлен браузер и не блокируется ли другими приложениями.</string>
+    <string name="com_lenovo_lsf_msg_title">Отправка SMS</string>
+    <string name="com_lenovo_lsf_msg_content">Для продолжения требуется отправить SMS，хотите продолжить?</string>
     <string name="com_lenovo_lsf_phone_area_code">+86</string>
     <string name="app_name">Lenovo ID</string>
     <string name="account_settings">Настройки учетной записи</string>
@@ -406,7 +408,6 @@
     <string name="boot_wizard_login_other">Другие службы</string>
     <string name="com_lenovo_lsf_string_contact_method">Контакты</string>
     <string name="com_lenovo_lsf_string_check_update">Проверка обновления</string>
-    <string name="com_lenovo_lsf_string_feedback">Отзыв</string>
     <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите Wi-Fi</string>
     <string name="SUS_MSG_LATESTVERSION">Самая новая версия</string>
     <string name="SUS_MSG_NOTFOUND">Не найдено</string>

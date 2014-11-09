@@ -78,7 +78,7 @@
     <string name="icon_type_earphone">Гарнитура</string>
     <string name="icon_type_clock">Сигнал</string>
     <string name="icon_type_voice">Громкость</string>
-    <string name="icon_type_wifi">Wifi</string>
+    <string name="icon_type_wifi">Wi-Fi</string>
     <string name="icon_type_signal">Сигнал</string>
     <string name="icon_type_battery">Батарея</string>
     <string name="icon_type_bluetooth">Bluetooth</string>
