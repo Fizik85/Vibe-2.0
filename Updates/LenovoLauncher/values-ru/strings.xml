@@ -1362,7 +1362,7 @@ abcdefghijklmnopqrstuvwxyz
     <string name="btn_ok">ОК</string>
     <string name="btn_cancel">Отмена</string>
     <string name="folder_editor_hint">Введите имя папки</string>
-    <string name="dockview_out_of_space">Полностью</string>
+    <string name="dockview_out_of_space">Заполнено</string>
     <string name="cannot_be_placed_on_dockview_folder">Не удается переместить группу папок</string>
     <string name="cannot_be_placed_on_dockview">Не удается переместить группу виджетов</string>
     <string name="cannot_be_moved_to_dockview">Действие не выполнено</string>
@@ -1376,7 +1376,7 @@ abcdefghijklmnopqrstuvwxyz
     <string name="uninstall_done">Удаление завершено:\"%1$s\".</string>
     <string name="uninstall_failed_own_device_policy_manager">Сбой удаления \"%1$s\". В этом приложении используются службы устройства.</string>
     <string name="uninstall_failed">Сбой удаления \"%1$s\"!</string>
-    <string name="select_item_count">%s пунктов выбрано</string>
+    <string name="select_item_count">%s ярлыков выбрано</string>
     <string name="loading_worksapce">Загрузка...</string>
     <string name="folder_out_of_space">Папка заполнена</string>
     <string name="search_history_title">Выполняется поиск:</string>

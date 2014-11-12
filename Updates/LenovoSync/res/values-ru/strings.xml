@@ -1235,8 +1235,8 @@
     <string name="delete_success">Удалено %1$d</string>
     <string name="delete_error">Ошибка удаления %1$d</string>
     <string name="download_text">Загрузка</string>
-    <string name="setting_freespace_tip_noprized">Поздравляем! Вы получили %1$sМб</string>
-    <string name="setting_freespace_tip_prized">Сегодня у Вас есть %1$sМб.</string>
+    <string name="setting_freespace_tip_noprized">Поздравляем! Вы получили: %1$sМб</string>
+    <string name="setting_freespace_tip_prized">Сегодня уже получено %1$sМб</string>
     <string name="setting_freespace_tip_msg">Занято %1$s|Всего %2$s</string>
     <string name="setting_title">Настройки</string>
     <string name="setting_bonus">Ежедневные лотереи</string>

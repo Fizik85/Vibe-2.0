@@ -621,8 +621,8 @@
     <string name="move_success">Перемещение завершено! Часть приложений не может быть перемещена на SD карту по-умолчанию, %1$s приложение(й) перемещено успешно!</string>
     <string name="move_tomemory_success">Перемещение завершено! %1$s приложение(й) перемещено успешно!</string>
     <string name="internal_storage_app">Внутренняя память</string>
-    <string name="service_background_processes_ram">%1$s приложение(й) свободно</string>
-    <string name="service_foreground_processes_ram">%1$s приложение(й) запущено</string>
+    <string name="service_background_processes_ram">%1$s свободно</string>
+    <string name="service_foreground_processes_ram">%1$s занято</string>
     <string name="move_app_to_where">Переместить в %s</string>
     <string name="wifi_backup">Резервное копирование Wi-Fi</string>
     <string name="wifi_backup_category_title">Резервное копирование Wi-Fi</string>
@@ -1147,7 +1147,7 @@
     <string name="bluetooth_device_context_connect_advanced">Параметры...</string>
     <string name="bluetooth_menu_advanced">Расширенные</string>
     <string name="bluetooth_advanced_titlebar">Расш. настройки Bluetooth</string>
-    <string name="bluetooth_empty_list_bluetooth_off">Чтобы включить поиск устройств, включите Bluetooth.</string>
+    <string name="bluetooth_empty_list_bluetooth_off">Чтобы найти устройства, включите Bluetooth.</string>
     <string name="bluetooth_connect_specific_profiles_title">Подключить к...</string>
     <string name="bluetooth_profile_a2dp">Профиль A2DP</string>
     <string name="bluetooth_profile_headset">Профиль HSP/HFP</string>

@@ -1031,8 +1031,8 @@
     <string name="wallpaper_accusation">Отзыв</string>
     <string name="wallpaper_share_isuploading">Изображение выгружается, ожидайте.</string>
     <string name="wallpaper_share_increase_description">Добавьте описание</string>
-    <string name="ring_load_more">Загрузить</string>
-    <string name="ring_unit">больше мелодий</string>
+    <string name="ring_load_more">Загрузить ещё</string>
+    <string name="ring_unit">мелодии</string>
     <string name="reply_message">Ответить</string>
     <string name="me">Я</string>
     <string name="sus_channel">full_zip</string>

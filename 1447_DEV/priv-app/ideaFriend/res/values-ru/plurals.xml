@@ -41,8 +41,8 @@
         <item quantity="one">Журналов вызовов: 1</item>
     </plurals>
     <plurals name="search_listTotalAllContacts">
-        <item quantity="other">Поиск контактов | Всего контактов: %d</item>
-        <item quantity="one">Поиск контактов | Всего 1 контакт</item>
+        <item quantity="other">Поиск | Всего: %d</item>
+        <item quantity="one">Поиск | Всего: 1</item>
     </plurals>
     <plurals name="group_member_number">
         <item quantity="other">%d участника(ов)</item>

@@ -1685,14 +1685,14 @@
     <string name="more_prefer_settings">"Другие функции и настройки "</string>
     <string name="prefer_show_phonenumber_attribution">Отображать номер телефона и определяемые данные</string>
     <string name="prefer_show_callicon">Значок вызова напротив контактов</string>
-    <string name="prefer_showonly_havenumber_contact">Показывать только контакты с номерами</string>
+    <string name="prefer_showonly_havenumber_contact">Только контакты с номерами</string>
     <string name="prefer_smartcall">Смарт-вызов</string>
     <string name="prefer_account_setting">Параметры учетной записи</string>
     <string name="prefer_account">Учетная запись</string>
     <string name="lenovo_service_hotline">Горячая линия обслуживания Lenovo</string>
     <string name="menu_multi_share">"Передать "</string>
     <string name="menu_multi_copy">Копировать</string>
-    <string name="recent_contact">Последние</string>
+    <string name="recent_contact">Недавние контакты</string>
     <string name="contact_via_sms">SMS</string>
     <string name="calllog_count">Всего записей: %d</string>
     <string name="speed_guide_ok">OK</string>
@@ -2788,7 +2788,7 @@
     <string name="calllog_pullchoice_all_info">Пропущенные вызовы</string>
     <string name="call_log_lesafe">SECUREit</string>
     <string name="dial_input_wait">Вставить символ ожидания</string>
-    <string name="dial_input_pause">Вставить 2сек. символ паузы</string>
+    <string name="dial_input_pause">Вставить символ 2с. паузы</string>
     <string name="dialpad_sendsms_cd">Сообщение</string>
 
     <string name="sms_fcn_normal">Приложение для MMS работает нормально.</string>
@@ -2925,11 +2925,12 @@
     <string name="import_contact_via_qiezi_hint">Импорт контактов из другого телефона через SHAREit</string>
     <string name="export_contact_via_qiezi">Экспорт на другой телефон</string>
     <string name="export_contact_via_qiezi_hint">Экспорт контактов на другой телефон через SHAREit</string>
-    <string name="awaymode_lable">Режим Нет на месте</string>
+    <string name="awaymode_lable">"Режим
+Нет на месте"</string>
     <string name="settings">Настройки</string>
     <string name="minutes">мин.</string>
     <string name="contentDescription">contentDescription</string>
-    <string name="pref_away_mode_settings">Параметры режима Нет на месте</string>
+    <string name="pref_away_mode_settings">Параметры</string>
     <string name="pref_away_mode_reminding">Напоминания о вызовах в режиме Нет на месте</string>
     <string name="pref_away_mode_reminding_setting">Настройка типа напоминания</string>
     <string name="pref_away_mode_reminding_none">Нет</string>
@@ -2941,11 +2942,11 @@
     <string name="pref_away_sms_reply_content_edit">Редактировать содержимое SMS</string>
     <string name="away_mode_sms_content_manager">Управление ответами SMS</string>
     <string name="away_mode_sms_content_existing">SMS уже существует!</string>
-    <string name="pref_away_select_contact">Выбрать контакт</string>
+    <string name="pref_away_select_contact">Выбрать контакты</string>
     <string name="away_mode_sms_content_len_limit">Превышена длинна SMS!</string>
     <string name="away_mode_sms_content_count_limit">Превышено количество SMS!</string>
     <string name="away_mode_effective_call_number_VIP">VIP</string>
-    <string name="away_mode_effective_call_number_contact">Контакты</string>
+    <string name="away_mode_effective_call_number_contact">Только контакты</string>
     <string name="away_mode_effective_call_number_everyone">Все</string>
     <string name="away_mode_effective_call_number_custom">Определённые контакты</string>
     <string name="pref_away_voice_mail">Голосовая почта</string>
