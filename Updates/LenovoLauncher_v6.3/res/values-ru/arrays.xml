@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>Установить как город по-умолчанию</item>
+        <item>Удалить город</item>
+    </string-array>
+    <string-array name="previewname">
+        <item>блок.экран</item>
+        <item>лаунчер</item>
+        <item>иконки</item>
+        <item>обои</item>
+        <item>настройки</item>
+        <item>контакты</item>
+        <item>номеронабиратель</item>
+        <item>виджет</item>
+        <item>лого загрузки</item>
+        <item>шрифт</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Без анимации</item>
+        <item>Поворот</item>
+        <item>Бульдозер</item>
+        <item>Мельница</item>
+        <item>Куб</item>
+        <item>Синусоида</item>
+        <item>Цилиндр</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Нет действия</item>
+        <item>Меню рабочего стола</item>
+        <item>Список запущенных приложений</item>
+        <item>Панель уведомлений</item>
+        <item>Значок поиска</item>
+        <item>Блокировка</item>
+    </string-array>
+</resources>

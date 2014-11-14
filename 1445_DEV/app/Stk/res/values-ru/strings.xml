@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Меню SIM-1</string>
+    <string name="app_name">Меню SIM1</string>
     <string name="uim_name">Набор инструментов UIM</string>
-    <string name="app_name2">Меню SIM-2</string>
+    <string name="app_name2">Меню SIM2</string>
     <string name="sim_name">Набор инструментов SIM</string>
     <string name="menu_end_session">Закончить сеанс</string>
     <string name="help">Справка</string>

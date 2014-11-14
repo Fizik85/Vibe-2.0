@@ -227,11 +227,6 @@
         <item>Съемная SD-карта</item>
         <item>На усмотрение системы</item>
     </string-array>
-    <string-array name="app_install_location_values">
-        <item>телефон</item>
-        <item>SD-карта</item>
-        <item>авто</item>
-    </string-array>
     <string-array name="app_ops_categories">
         <item>Местоположение</item>
         <item>Личные данные</item>
@@ -476,11 +471,6 @@
         <item>Неандерталец</item>
         <item>Шимпанзе</item>
         <item>Обезьяна</item>
-    </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>Спрашивать</item>
-        <item>Не разрешать</item>
-        <item>Разрешать всегда</item>
     </string-array>
     <string-array name="ram_states">
         <item>высокий</item>
