@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Диктофон</string>
+
+
+
+
+
+
+    <string name="left_timer_format" formatted="false">Остаток времени: %02d час. %02d мин.</string>
+    <string name="recording">Запись</string>
+    <string name="label_quality">Выберите качество записи</string>
+    <string name="remain_time">Остаток времени</string>
+    <string name="button_ok">ОК</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="audio_db_artist_name">Исполнитель</string>
+    <string name="audio_db_album_name">Записи</string>
+    <string name="audio_db_playlist_name">Мои записи</string>
+    <string name="exit_tip">Закрыть приложение?</string>
+    <string name="error_zero_audio">Невозможна запись длительностью меньше, чем 0</string>
+    <string name="error_busy_in_call">Ответте на вызов и затем включайте запись!</string>
+    <string name="error_no_space">Нет свободного места, запись невозможна.</string>
+    <string name="error_sdcard_access">Ошибка доступа к SD-карте</string>
+    <string name="error_internal">Запись включена, сначала выключите запись!</string>
+    <string name="error_mediadb_new_record">Ошибка сохранения записи</string>
+    <string name="error_app_unsupported">Формат не поддерживается</string>
+    <string name="error_insert_sd_card">Вставьте SD-карту</string>
+    <string name="error_storage_is_full">Нет свободного места</string>
+    <string name="error_max_length">Достигнута максимальная длина записи</string>
+    <string name="contextmenu_item_delete">Удалить</string>
+    <string name="contextmenu_item_rename">Переименовать</string>
+    <string name="contextmenu_item_send_title">Отправить</string>
+    <string name="contextmenu_item_setasringtone">Мелодия вызова</string>
+    <string name="label_setringtone_success">Запись %1$s установлена мелодией вызова</string>
+    <string name="setringtone_fail">Установка мелодии в беззвучном режиме и в режиме вибрации не требуется</string>
+    <string name="del_selfile_tip">Удалить все файлы записей?</string>
+    <string name="label_delete_success">Удаление завершено!</string>
+    <string name="input_toolong">Слишком длинная строка</string>
+    <string name="file_name_exist">Файл с таким именем уже существует</string>
+    <string name="empty_len">Имя файла не должно быть пустым</string>
+    <string name="namebad">Имя файла содержит недопустимые символы: \\ : ? * > \" | / и т.д.</string>
+    <string name="delete_tip">Удалить запись</string>
+    <string name="not_select">Не выбрано</string>
+
+
+    <string name="selected_number_of">Выбрано: %1$s</string>
+    <string name="saved_file_reminder">Файл сохранён: \"%1$s\"</string>
+    <string name="delete_recorded">Удалить файл записи</string>
+    <string name="delete_muti_msg">Удаление, подождите...</string>
+    <string name="rename_record_file">Переименовать файл записи</string>
+    <string name="soundrecorder_list">Список записей</string>
+    <string name="callrecorder_list">Список записей вызовов</string>
+    <string name="mediarecorder_list">Список медиазаписей</string>
+    <string name="high_quality">Интервью</string>
+    <string name="medium_quality">Беседа</string>
+    <string name="low_quality">Взаимодействие</string>
+    <string name="exit_record_play">Остановите запись перед проигрыванием</string>
+    <string name="exit_play_edit">Остановите воспроизведение после редактирования</string>
+    <string name="exit_playOrRecord_delete">Остановите запись или воспроизведение перед групповым выделением</string>
+    
+    <string name="exit_toast">Нажмите ещё раз для выхода</string>
+    <string name="playlist_text">Список записей</string>
+    <string name="fileDir_not_exist">Папка для записей не существует！</string>
+
+    <string name="cvaa_record">Кнопка \"Запись\"</string>
+    <string name="cvaa_pause">Кнопка \"Пауза\"</string>
+    <string name="cvaa_play">Кнопка \"Воспроизведение\"</string>
+    <string name="cvaa_play_pause">Пауза</string>
+    <string name="cvaa_record_list">Кнопка \"Просмотр записей\"</string>
+    <string name="cvaa_group_dropdown">Group dropdown</string>
+    <string name="cvaa_dropdown">Выпадающий список</string>
+    <string name="cvaa_multi_delete">Удаление</string>
+    <string name="cvaa_multi_select">Выбор</string>
+    <string name="cvaa_record_time_hour">Время записи: %1$s, %2$s, %3$s</string>
+    <string name="cvaa_record_time_minute">Время записи: %1$s, %2$s</string>
+    <string name="cvaa_record_time_second">Время записи: %1$s</string>
+    <string name="cvaa_record_time_zero_second">0 сек.</string>
+    <string name="cvaa_duration_time_second">%1$s сек.</string>
+    <string name="cvaa_start_record">Начать запись</string>
+    <string name="cvaa_pause_record">Пауза</string>
+    <string name="cvaa_play_record">Воспроизведение</string>
+    <string name="cvaa_stop_play_record">Стоп</string>
+    <string name="cvaa_delete_successful">Удаление успешно</string>
+    <string name="cvaa_rename_successful">Переименование успешно</string>
+    <string name="cvaa_quality_selected">%1$s выбрано</string>
+    <string name="cvaa_enter_recording_list">Мои записи</string>
+    <string name="cvaa_back_btn">Назад</string>
+    <string name="cvaa_multi_delete_view">Удалить</string>
+    <string name="cvaa_file_start_play">%1$s файл, чтобы воспроизведения</string>
+    <string name="cvaa_file_stop_play">%1$s файл, чтобы остановки</string>
+</resources>

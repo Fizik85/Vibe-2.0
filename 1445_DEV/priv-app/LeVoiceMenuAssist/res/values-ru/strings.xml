@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Lenovo Голос</string>
+
     <string name="offline_tip">* Вы можете сказать больше, если вы находитесь онлайн</string>
     <string name="offline_use">автономный режим</string>
     <string name="helper_tip">Вы можете говорить на Мандаринском</string>
@@ -8,6 +9,9 @@
     <string name="function_tip">Ваше устройство не поддерживает функцию.</string>
     <string name="levoice_has_open">Голос запущен</string>
     <string name="levoice_is_thinking">Ожидайте…</string>
+
+
+
     <string name="speech_recognizer_error_audio">Устройство для записи недоступно, закройте приложения, использующие функции записи.</string>
     <string name="speech_recognizer_error_client">Ошибка, выйдите и попробуйте позже.</string>
     <string name="speech_recognizer_error_insufficient_permissions">Недостаточно прав для распознования голоса.</string>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Привет Мир, Включаю!</string>
+    <string name="app_name">GPS Тест</string>
+    <string name="information">Информация о спутнииках</string>
+    <string name="ordinate">Азимут</string>
+    <string name="latitude">Широта 23°27′30″</string>
+    <string name="longitude">Долгота 123°27′30″</string>
+    <string name="visiablestar">Количество видимых спутников</string>
+    <string name="connectstar">Подключенные спутники</string>
+    <string name="localtime">Часовой пояс: hh:mm:ss</string>
+    <string name="speed">Скорость: 0~999км/ч</string>
+    <string name="height">Высота над уровнем моря: 0~9999м</string>
+</resources>

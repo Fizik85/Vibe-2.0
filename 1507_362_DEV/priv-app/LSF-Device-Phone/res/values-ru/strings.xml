@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="push_app_name">Служба устройства</string>
+    <string name="download_falied">Ошибка загрузки,нажмите для повтора.</string>
+    <string name="warring_network_mobile">Нет Wi-Fi сети, загрузить через мобильную сеть?</string>
+    <string name="warring_no_network">Сеть недоступна, выберите Wi-Fi сеть.</string>
+    <string name="text_start_task">Начать загрузку</string>
+    <string name="text_set_wifi">Выбор сети Wi-Fi</string>
+    <string name="text_set_later">Позже</string>
+</resources>

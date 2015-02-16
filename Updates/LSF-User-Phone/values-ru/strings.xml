@@ -382,7 +382,6 @@
     <string name="com_lenovo_lsf_onekey_connecting_server">подключение к серверу</string>
     <string name="com_lenovo_lsf_onekey_authorizing">Авторизация</string>
     <string name="com_lenovo_lsf_onekey_logining">Вход</string>
-    <string name="no_browser">Ошибка открытия браузера. Проверьте корректно ли установлен браузер и не блокируется ли другими приложениями.</string>
     <string name="com_lenovo_lsf_active">Активировать сейчас</string>
     <string name="com_lenovo_lsf_active_account">Активация уч.записи</string>
     <string name="com_lenovo_lsf_verifycode">Код активации отправлен на указанный номер телефона:</string>
@@ -426,6 +425,7 @@
     <string name="com_lenovo_lsf_string_associated_phone_description1">Можете войти в уч.запись используя этот номер телефона и сбросить пароль</string>
     <string name="com_lenovo_lsf_modify_password_text">Для обеспечения безопасности данных, необходимо ввести исходный пароль</string>
     <string name="com_lenovo_lsf_my_account">Мой профиль</string>
+    <string name="com_lenovo_lsf_vb_center">Lenovo VB center</string>
     <string name="com_lenovo_lsf_unbind_confirm">Удалить</string>
     <string name="com_lenovo_lsf_unbind_cancel">Отмена</string>
     <string name="com_lenovo_lsf_unbindaccount_title">Отвязать другую уч. запись</string>
@@ -448,7 +448,6 @@
     <string name="unlock_parse_tgt_error">Ошибка возврата значения tgt сервером синтаксического анализа</string>
     <string name="boot_regist_login_error">Сбой автоматической регистрации кода Lenovo ID. Нажмите здесь, чтобы зарегистрироваться вручную.</string>
     <string name="boot_regist_login_notification_msg">Вы ввели код Lenovo ID.</string>
-    <string name="boot_wizard_tips"><html>SMS, контакты, фото. Lenovo<font color="#0d74ff">облачный сервис</font>，поможет в<font color="#0d74ff">резервном копировании.</font></html></string>
     <string name="boot_wizard_tips_1">SMS、Контакты、Фото……Lenovo</string>
     <string name="boot_wizard_tips_2">Облачные службы</string>
     <string name="boot_wizard_tips_3">помогут</string>

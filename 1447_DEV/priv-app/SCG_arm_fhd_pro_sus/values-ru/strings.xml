@@ -1,0 +1,1933 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="liumingexit">Назад</string>
+    <string name="update">NEW</string>
+    <string name="exscene">Расшир.</string>
+    <string name="burst">Серия</string>
+    <string name="fullview">Панорама</string>
+    <string name="night">Ночная</string>
+
+    <string name="lowlight">Сумерки</string>
+    <string name="self">По внутреннему расписанию</string>
+    <string name="smile">Улыбка</string>
+    <string name="macro">Макро</string>
+    <string name="timer">Таймер</string>
+    <string name="remove">Очист. фото</string>
+    <string name="rewind">Груп. фото</string>
+    <string name="gif1">GIF</string>
+    <string name="magicgif">Magic GIF</string>
+    <string name="ercode">Код 2D</string>
+    <string name="speechphotos">С речью</string>
+    <string name="pip">PIP</string>
+    <string name="wide">Решение для широкоугольных объективов</string>
+    <string name="magic_effects">Магич.эффекты</string>
+    <string name="lens_effects">Эффекты линзы</string>
+    <string name="effect_effects">Эффекты цвета</string>
+    <string name="micro_effect">Микро</string>
+    <string name="obscure">Темный</string>
+    <string name="kaleidoscope_effect">Калейдоск</string>
+    <string name="mirror_effect">Зеркало</string>
+    <string name="back_light_effect">Фон</string>
+    <string name="fisheye_effect">Глаз рыбы</string>
+    <string name="glass_effect">Стекло</string>
+    <string name="thermo_effect">Термографический</string>
+    <string name="pencil_effect">Карандаш</string>
+    <string name="startburst_effect">Мерцания</string>
+    <string name="wave_effect">Волна</string>
+    <string name="comic_effect">Комикс</string>
+    <string name="lomo_effect">ЛОМО</string>
+    <string name="country_effect">Сельский</string>
+    <string name="poster_effect">Плакат</string>
+    <string name="popart_effect">Поп-арт</string>
+    <string name="colorfilter_effect">Цвета</string>
+    <string name="infrared_effect">ИК</string>
+    <string name="highcontrast_effect">Контраст</string>
+    <string name="negative_effect">Негатив</string>
+    <string name="sepian_effect">Сепия</string>
+    <string name="nature_effect">Естеств.цвет</string>
+    <string name="select_color_effect">Черно-белое</string>
+    <string name="lighten_effect">Блики</string>
+    <string name="mainspecstring1">Сфотографировать</string>
+    <string name="mainspecstring2">Настройте быстрый доступ удерживая эту кнопку</string>
+    <string name="takephotospecstring">Попробуйте провести влево</string>
+    <string name="clickmodespecstring">Нажмите для входа в расширенные функции</string>
+    <string name="entermodespecstring">Нажми для возврата</string>
+    <string name="burst_hint_text">Для запуска серийной съемки одновременно нажмите кнопки уменьшения громкости и съемки</string>
+    <string name="exitcurrentmode">Выйти из текущего режима</string>
+    <string name="camera_version">версия</string>
+
+
+    <string name="camera_about_hint3">Группа по качеству QQ: 234886333</string>
+    <string name="camera_about_hint4">Другая информация об авторских правах</string>
+    <string name="camera_about_hint41">Другая информация об авторских правах</string>
+    <string name="camera_about_hint5">Copyright© Lenovo, 1998–2014. Все права защищены.</string>
+    <string name="camera_update">Проверить наличие обновлений</string>
+    <string name="updating">Обновление... Подождите!</string>
+    <string name="mode_hint_burst" />
+    <string name="mode_hint_fullview" />
+    <string name="mode_hint_night" />
+    <string name="mode_hint_hdr" />
+    <string name="mode_hint_lowlight">Во время съемки не трясите мобильный телефон</string>
+    <string name="mode_hint_self_camera0">"Переверните устройство и используйте заднюю камеру.
+Съемка будет выполнена, когда вы окажетесь в рамке."</string>
+    <string name="mode_hint_self_camera1">Съемка будет выполнена, когда вы окажетесь в рамке.</string>
+    <string name="mode_hint_smile">Автоматическая съемка при появлении на лице улыбки</string>
+    <string name="mode_hint_macro" />
+    <string name="mode_hint_speechphotos">Допускается до 9 секунд речи после создания фотографии</string>
+    <string name="mode_hint_wide">Исправление искажения для широкоугольных объективов</string>
+    <string name="mode_hint_rewind" />
+    <string name="mode_hint_remove" />
+    <string name="mode_hint_grid" />
+    <string name="mode_hint_gif" />
+    <string name="mode_hint_magicgif" />
+    <string name="mode_hint_ercode" />
+    <string name="mode_hint_hdr_dynamic">Не трясите устройство</string>
+    <string name="camera_error_title">Информация о камере</string>
+    <string name="cannot_connect_camera">Не удается подключиться к камере.</string>
+    <string name="camera_disabled">Камера занята. Закройте приложение, использующее камеру, и повторите попытку.</string>
+    <string name="camera_label">Камера</string>
+    <string name="camera_label_for_special">Камера</string>
+
+    <string name="video_camera_label">Видеокамера</string>
+    <string name="gallery_camera_bucket_name">Изображения камеры</string>
+    <string name="gallery_camera_videos_bucket_name">Видеозаписи камеры</string>
+    <string name="wait">Подождите...</string>
+    <string name="no_storage">Вставьте внешнюю SD-карту перед использованием камеры.</string>
+    <string name="not_enough_space">Недостаточно места на внешней SD-карте, не рекомендуется ее использовать.</string>
+    <string name="usb_no_storage">Подключите SD-карту перед использованием камеры.</string>
+    <string name="usb_not_enough_space">Недостаточно места на SD-карте, не рекомендуется ее использовать.</string>
+    <string name="no_enough_space">Недостаточно памяти на накопителе. Советуем не использовать его.</string>
+    <string name="preparing_sd">Подготовка внешней SD-карты…</string>
+    <string name="access_sd_fail">Не удалось получить доступ к внешней SD-карте.</string>
+    <string name="confirm_restore_title">Восстановить значения по умолчанию</string>
+    <string name="confirm_restore_message">Восстановить параметры камеры по умолчанию?</string>
+    <string name="review_play">Воспроизв.</string>
+    <string name="review_cancel">ОТМЕНА</string>
+    <string name="review_ok">ГОТОВО</string>
+    <string name="review_retake">ПОВТОРИТЬ</string>
+    <string name="camera_gallery_photos_text">Галерея</string>
+    <string name="switch_camera_id">Переключить камеру</string>
+    <string name="time_lapse_title">Запись с интервалом времени</string>
+    <string name="pref_camera_id_title">Выбрать камеру</string>
+
+    <string name="pref_camera_id_entry_back">Задняя</string>
+    <string name="pref_camera_id_entry_front">Передняя</string>
+    <string name="pref_camera_recordlocation_title">Сохранить местоположение</string>
+
+    <string name="pref_camera_recordlocation_entry_off">Откл.</string>
+    <string name="pref_camera_recordlocation_entry_on">Вкл.</string>
+    <string name="pref_video_quality_title">Качество видео</string>
+
+    <string name="pref_video_time_lapse_frame_interval_title">Промежуток времени</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="pref_camera_settings_category">Параметры фотокамеры</string>
+    <string name="pref_camcorder_settings_category">Параметры видеокамеры</string>
+    <string name="pref_camera_picturesize_title">Размер изображения</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="pref_camera_focusmode_title">Режим фокуса</string>
+
+
+    <string name="pref_camera_focusmode_entry_auto">Авто</string>
+    <string name="pref_camera_focusmode_entry_infinity">Бесконечность</string>
+    <string name="pref_camera_focusmode_entry_macro">Макросъемка</string>
+
+
+
+    <string name="pref_camera_flashmode_title">Режим вспышки</string>
+    <string name="pref_camera_flashmode_entry_auto">Авто</string>
+    <string name="pref_camera_flashmode_entry_on">Вкл.</string>
+    <string name="pref_camera_flashmode_entry_off">Откл.</string>
+
+    <string name="pref_camera_whitebalance_title">Баланс белого</string>
+    <string name="pref_camera_whitebalance_entry_auto">Авто</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">Лампа накаливания</string>
+    <string name="pref_camera_whitebalance_entry_daylight">Дневной свет</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">Флуоресцентная лампа</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">Облачно</string>
+
+    <string name="pref_camera_scenemode_title">Сюжет</string>
+    <string name="pref_camera_scenemode_entry_auto">Обычный</string>
+    <string name="pref_camera_scenemode_entry_action">Движение</string>
+    <string name="pref_camera_scenemode_entry_night">Ночной режим</string>
+    <string name="pref_camera_scenemode_entry_sunset">Закат</string>
+    <string name="pref_camera_scenemode_entry_party">Вечеринка</string>
+    <string name="pref_camera_scenemode_entry_portrait">Портрет</string>
+    <string name="pref_camera_scenemode_entry_sports">Спорт</string>
+    <string name="pref_camera_scenemode_entry_beach">Пляж</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Фейерверк</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Свет горящей свечи</string>
+    <string name="pref_camera_scenemode_entry_snow">Снег</string>
+    <string name="pref_camera_scenemode_entry_fall_color">Цвета осени</string>
+    <string name="pref_camera_scenemode_entry_indoor">В помещении</string>
+    <string name="pref_camera_scenemode_entry_dawn">Рассвет</string>
+    <string name="pref_camera_scenemode_entry_backlight">Контровой свет</string>
+    <string name="pref_camera_scenemode_entry_text">Текст</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="pref_camera_scenemode_entry_landscape">Пейзаж</string>
+
+
+
+
+
+
+
+
+    <string name="not_selectable_in_scene_mode">Недоступно для выбора в режиме сюжета.</string>
+    <string name="pref_restore_title">Параметры фотокамеры</string>
+    <string name="pref_restore_detail">Восстановить значения по умолчанию</string>
+
+    <string name="pref_exposure_title">Экспозиция</string>
+    <string name="dialog_ok">ОК</string>
+    <string name="spaceIsLow_content">Недостаточно места на внешней SD-карте. Измените параметры качества либо удалите некоторые фотографии или другие файлы.</string>
+
+
+    <string name="video_reach_size_limit">Достигнут предел размера.</string>
+    <string name="video_soundRecorder_in_background">Диктофон работает в фоновом режиме. Сначала выключите его.</string>
+    <string name="switch_to_camera_label">Переключиться на фотосъемку</string>
+    <string name="switch_to_video_label">Переключиться на видеосъемку</string>
+    <string name="switch_to_panorama_label">Переключиться на панорамную съемку</string>
+    <string name="share_picture_via">Передать изображение через</string>
+    <string name="share_video_via">Передать видео через</string>
+    <string name="no_picture_to_share">Нет изображения для передачи.</string>
+    <string name="no_video_to_share">Нет видео для передачи.</string>
+    <string name="pano_too_fast_prompt">Слиш. быстро</string>
+    <string name="pano_dialog_prepare_preview">Подготовка панорамы</string>
+    <string name="pano_dialog_panorama_failed">Не удалось сохранить панораму.</string>
+    <string name="pano_dialog_title">Панорама</string>
+    <string name="pano_capture_indication">Съемка панорамы</string>
+    <string name="pano_review_saving_indication_str">Сшивка панорамы</string>
+    <string name="tap_to_focus">Коснитесь для фокусировки.</string>
+    <string name="pref_video_effect_title">Эффекты</string>
+
+    <string name="effect_none">Нет</string>
+    <string name="effect_goofy_face_squeeze">Сжатие</string>
+    <string name="effect_goofy_face_big_eyes">Большие глаза</string>
+    <string name="effect_goofy_face_big_mouth">Большой рот</string>
+    <string name="effect_goofy_face_small_mouth">Маленький рот</string>
+    <string name="effect_goofy_face_big_nose">Большой нос</string>
+    <string name="effect_goofy_face_small_eyes">Мален. глаза</string>
+    <string name="effect_backdropper_space">В космосе</string>
+    <string name="effect_backdropper_sunset">Закат</string>
+    <string name="effect_backdropper_disco">Дискотека</string>
+    <string name="effect_backdropper_gallery">Выберите себя</string>
+    <string name="bg_replacement_message">"Поставьте устройство
+Отойдите из обзора на секунду"</string>
+    <string name="not_selectable_in_effect">Недоступно для выбора при включенном эффекте.</string>
+    <string name="video_snapshot_hint">Для фотосъемки при видеозаписи коснитесь экрана предпросмотра.</string>
+    <string name="disable_video_snapshot_hint">Функция стоп-кадра выключена, если используются спецэффекты.</string>
+    <string name="clear_effects">Удалить эффекты</string>
+    <string name="effect_silly_faces">ГЛУПЫЕ ЛИЦА</string>
+    <string name="effect_background">ФОН</string>
+    <string name="accessibility_shutter_button">Кнопка затвора</string>
+    <string name="accessibility_review_thumbnail">Последние фотографии</string>
+    <string name="accessibility_camera_picker">Переключатель передней и задней камеры</string>
+    <string name="accessibility_mode_picker">Выбор фото-, видео- или панорамной съемки</string>
+    <string name="accessibility_second_level_indicators">Дополнительные элементы управления</string>
+    <string name="accessibility_back_to_first_level">Закрыть элементы управления</string>
+    <string name="accessibility_zoom_control">Изменение масштаба</string>
+    <string name="accessibility_decrement">Уменьшить %1$s</string>
+    <string name="accessibility_increment">Увеличить %1$s</string>
+    <string name="accessibility_switch">Переключатель %1$s</string>
+    <string name="not_support_picturesize">Нет поддерживаемых размеров изображений</string>
+    <string name="pref_camera_auxiliaryline_title">Вспомогательная линия</string>
+
+    <string name="pref_camera_auxiliaryline_hide">Скрыть</string>
+    <string name="pref_camera_auxiliaryline_4lattice">4 части</string>
+    <string name="pref_camera_auxiliaryline_9lattice">9 частей</string>
+    <string name="pref_camera_auxiliaryline_golden_cut_lattice">Золотое сечение</string>
+    <string name="pref_camera_metering_title">Экспозамер</string>
+
+    <string name="pref_camera_metering_entry_center">Центральный</string>
+    <string name="pref_camera_metering_entry_spot">Точечный</string>
+    <string name="pref_camera_metering_entry_matrix">Матричный</string>
+    <string name="pref_camera_metering_entry_average">Усредненный</string>
+    <string name="pref_camera_metering_entry_frame_average">Усредненный экспозамер</string>
+    <string name="pref_camera_metering_entry_center_weighted">Центровзвешенный</string>
+    <string name="pref_camera_metering_entry_spot_metering">Точечный экспозамер</string>
+    <string name="pref_camera_metering_entry_smart_metering">Интеллектуальный экспозамер</string>
+    <string name="pref_camera_metering_entry_spot_metering_adv">Расширенный точечный экспозамер</string>
+    <string name="pref_camera_metering_entry_center_weighted_adv">Расширенный центровзвешенный экспозамер</string>
+    <string name="pref_camera_jpeg_qual_title">Качество JPEG</string>
+
+    <string name="pref_camera_jpeg_qual_entry_superfine">Очень высокое</string>
+    <string name="pref_camera_jpeg_qual_entry_fine">Высокое</string>
+    <string name="pref_camera_jpeg_qual_entry_normal">Обычное</string>
+    <string name="pref_camera_antibanding_title">Мерцание</string>
+
+    <string name="pref_camera_asymptote_title">Асимптота</string>
+
+    <string name="pref_camera_asymptote_entry_on">Вкл.</string>
+    <string name="pref_camera_asymptote_entry_off">Откл.</string>
+    <string name="pref_camera_video_hdr_title">Видео HDR</string>
+    <string name="pref_camera_audio_mode_title">Режим звука</string>
+
+    <string name="pref_camera_audio_mode_entry_normal">Обычный</string>
+    <string name="pref_camera_audio_mode_entry_meeting">Встреча</string>
+    <string name="pref_camera_focus_mode_entry_continues">Зависимый</string>
+    <string name="pref_camera_focus_mofe_entry_auto">Автоматический</string>
+    <string name="pref_camera_screen_brightness_entry_default">Системная</string>
+    <string name="pref_camera_screen_brightness_entry_optimal">Оптимальная</string>
+    <string name="pref_camera_antibanding_entry_off">Откл.</string>
+    <string name="pref_camera_antibanding_entry_auto">Авто</string>
+
+
+
+    <string name="pref_camera_timer_shoot_entry_0s">Откл.</string>
+
+
+
+    <string name="pref_camera_anti_shake_entry_on">Вкл.</string>
+    <string name="pref_camera_anti_shake_entry_off">Откл.</string>
+    <string name="pref_camera_anti_shake_entry_on_status">Увеличить стабилизацию</string>
+    <string name="pref_camera_anti_shake_entry_off_status">Экономия энергии</string>
+    <string name="pref_camera_isovalue_entry_auto">Авто</string>
+
+
+
+
+
+
+
+
+
+    <string name="pref_camera_special_effects_title">Спецэффекты</string>
+
+    <string name="pref_camera_blink_detection_title">Распознавание моргания</string>
+
+    <string name="pref_camera_touch_shoot_title">Съемка касанием</string>
+    <string name="pref_camera_meteing_from_touch_title">Точечный замер</string>
+
+
+    <string name="pref_camera_anti_shake_title">Стабилизация</string>
+
+    <string name="pref_camera_storage_title">Хранение</string>
+
+    <string name="pref_camera_storage_entry_sd">Телефон</string>
+    <string name="pref_camera_timer_shoot_title">Съемка по таймеру</string>
+    <string name="pref_camera_shutter_sound_title">Звук затвора</string>
+
+    <string name="pref_camera_shutter_sound_entry_normal">Вкл.</string>
+    <string name="pref_camera_shutter_sound_entry_large">Звук 2</string>
+    <string name="pref_camera_shutter_sound_entry_Mute">Откл.</string>
+    <string name="pref_camera_time_stamp_title">Отметка времени</string>
+    <string name="pref_camera_volume_title">Кнопки громкости</string>
+
+    <string name="pref_camera_volume_sound">Меняют громкость</string>
+    <string name="pref_camera_volume_capture">Снимают</string>
+    <string name="pref_camera_volume_zoom">Масштабируют</string>
+
+    <string name="other_item">Другие элементы</string>
+    <string name="picture_ratio">(W)</string>
+    <string name="pref_camera_animate_capture_1">Анимация 1</string>
+    <string name="pref_camera_animate_capture_2">Анимация 2</string>
+    <string name="pref_camera_animate_capture_off">Откл.</string>
+
+    <string name="pref_camera_videofocus_title">Авто фокус</string>
+
+    <string name="pref_camera_storage_entry_exsd">SD</string>
+    <string name="self_portrait">Активная камера</string>
+    <string name="scene_mode">Режим сюжета</string>
+    <string name="camera_flash">Вспышка</string>
+    <string name="special_effects">Спецэффекты</string>
+    <string name="effects">Эффекты</string>
+    <string name="effects_normal">По умолчанию</string>
+    <string name="effects_status">С настройкой</string>
+    <string name="gps_tag">Метка GPS</string>
+    <string name="pref_camera_smart_light_title">Супер ночной режим пейзажа</string>
+
+    <string name="metering">Экспозамер</string>
+    <string name="metering_from_touch">Точечный замер</string>
+    <string name="blink_detection">Распознавание моргания</string>
+    <string name="touch_capture">Съемка касанием</string>
+    <string name="camera_iso">ISO</string>
+    <string name="resolution">Разрешение</string>
+    <string name="image_quality">Качество изображения</string>
+    <string name="storage">Хранение</string>
+    <string name="reset">Сброс</string>
+    <string name="about">О программе</string>
+    <string name="gif">MeiTuGif</string>
+    <string name="youku">YouKu Paike</string>
+    <string name="tutorial">Обучение</string>
+    <string name="camera_white_balance">Баланс белого</string>
+    <string name="timer_shoot">Съемка по таймеру</string>
+    <string name="shutter_sound">Звук затвора</string>
+    <string name="auxiliaryline">Вспомогательные линии</string>
+    <string name="sound_capture">Съемка по голосу</string>
+    <string name="time_stamp">Отметка времени</string>
+    <string name="wdr">WDR</string>
+    <string name="flicker_reduction">Мерцание</string>
+    <string name="exposure">Экспозиция</string>
+    <string name="video_quality">Качество видео</string>
+    <string name="Asymptote">Асимптота</string>
+    <string name="video_hdr">Видео HDR</string>
+    <string name="audio_mode">Режим звука</string>
+    <string name="anti_shake">Стабилизация</string>
+    <string name="app_tips">Не устанавливать это приложение</string>
+    <string name="pref_camera_sound_capture_title">Съемка по голосу</string>
+    <string name="pref_camera_animate_capture_title">Съемка анимации</string>
+    <string name="pref_camera_focus_mode_title">Режим фокуса</string>
+    <string name="pref_camera_screen_brightness_title">Яркость просмотра</string>
+    <string name="video_tab_title_common">Настр</string>
+    <string name="tab_title_common">Основные</string>
+    <string name="tab_title_extend">Расширенные</string>
+    <string name="tab_title_other">Дополнительные</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="pref_camera_picnum">№ ИЗОБР.:</string>
+    <string name="special_effect_menu_normal">Обычный</string>
+    <string name="special_effect_menu_frame">Рамка</string>
+    <string name="special_effect_menu_magic_mirror">Волшебное зеркало</string>
+    <string name="special_effect_menu_landscape">Пейзаж</string>
+    <string name="special_effect_menu_bg_virtual">Виртуальный фон</string>
+    <string name="special_effect_menu_special_lens">Специальный объектив</string>
+    <string name="switch_to_super_camera_label">Переключиться на суперкамеру</string>
+    <string name="auto_select">Автовыбор</string>
+    <string name="camera_delete">Удалить</string>
+    <string name="auto_delete">Автоудаление</string>
+    <string name="manual_delete">Удаление вручную</string>
+    <string name="camera_select_all">Выбрать все</string>
+    <string name="no_tip_again">Больше не показывать этот совет</string>
+    <string name="auto_delete_tip">Некоторые фотографии будут удаляться автоматически.</string>
+    <string name="delete_tip">Вы уверены?</string>
+    <string name="camera_ok">ОК</string>
+    <string name="camera_save">СОХРАН.</string>
+    <string name="saving_to">Сохранение в</string>
+    <string name="delete_inprogress">Удалить</string>
+    <string name="select_tip">Выберите хотя бы 1 фотографию</string>
+    <string name="rewind_hint">Давайте сделаем групповую фотографию</string>
+    <string name="remove_hint">Удаление движущихся объектов со снятого изображения</string>
+    <string name="loading_title">Загрузка</string>
+    <string name="loading_detecting">Загрузка изображений и распознавание лиц</string>
+    <string name="continuos_delete_tip">Удалить x изобр.?</string>
+    <string name="cancel_camera_select_all">Отменить выбор всех</string>
+
+
+    <string name="normal">Обычный</string>
+    <string name="smartplus">Интелл. Плюс</string>
+    <string name="full">Полный вид</string>
+    <string name="takephoto">Фотосъемка</string>
+    <string name="smallface">Маленькое лицо</string>
+    <string name="backlight">Контровой свет</string>
+    <string name="microlight">Плохое освещение</string>
+    <string name="micro">Микро</string>
+    <string name="clear">Светлый</string>
+    <string name="specila_title">Специальный</string>
+    <string name="specila_normal">Обычный</string>
+    <string name="specila_normal_description">Без эффекта</string>
+    <string name="specila_obscure">Боке</string>
+    <string name="specila_obscure_description">Темный фон</string>
+    <string name="specila_microview">Наклон и сдвиг</string>
+    <string name="specila_microview_description">Эффект наклона и сдвига</string>
+    <string name="specila_haha">Деформация лица</string>
+    <string name="specila_haha_description">Деформация лица</string>
+    <string name="specila_scenecamera">Фотосюжет</string>
+    <string name="specila_scenecamera_description">Фоторамка</string>
+    <string name="specila_special">Спецэффект</string>
+    <string name="specila_special_description">Эффект живого изображения</string>
+    <string name="specila_blackwhite">Моно</string>
+    <string name="specila_brown">Старинный</string>
+    <string name="specila_negative">Негатив</string>
+    <string name="line">Линия</string>
+    <string name="circle">Окружность</string>
+    <string name="shape">Форма</string>
+    <string name="degree">Степень</string>
+    <string name="scope">Охват</string>
+    <string name="microview">Микро</string>
+    <string name="obscureview">Темный</string>
+    <string name="invalid">Недопустимый</string>
+    <string name="not_find_face">Лица_не_найдены</string>
+    <string name="obscure_hint">Посмотрите на камеру</string>
+    <string name="out_of_memory">Недостаточно памяти</string>
+    <string name="doyouknow">Знаете ли вы</string>
+    <string name="drag">Перетащить</string>
+    <string name="continuephoto">Продолжить фотосъемку</string>
+    <string name="scamera">Суперкамера</string>
+    <string name="open_video_failed">Не удалось открыть видео</string>
+    <string name="lowpower">Низкий заряд. Использование камеры невозможно, она будет закрыта</string>
+    <string name="lowpower_closed_flash">Низкий заряд. Камера работает без вспышки</string>
+    <string name="video">Список видео</string>
+    <string name="detail">Сведения</string>
+    <string name="name">Имя:</string>
+    <string name="size">Размер:</string>
+    <string name="camera_time">Время:</string>
+    <string name="tap">Коснитесь экрана для включения камеры</string>
+    <string name="supercamera">Суперкамера</string>
+    <string name="version">Версия:</string>
+    <string name="weibo">Weibo:</string>
+    <string name="popmenu_title">Режим съемки</string>
+    <string name="shooting_mode_nomal">Обычный</string>
+    <string name="shooting_mode_smart_plus">Кожа</string>
+    <string name="shooting_mode_panorama">Панорама</string>
+    <string name="shooting_mode_self_capture">Автопортрет</string>
+    <string name="shooting_mode_smile">Улыбка</string>
+    <string name="shooting_mode_backlight">HDR</string>
+    <string name="shooting_mode_weaklight">Плохое освещение</string>
+    <string name="shooting_mode_minimal_distance">Макросъемка</string>
+    <string name="face_beautification_skin_smooth">Гладкая кожа</string>
+    <string name="face_beautification_skin_toning">Тонирование кожи</string>
+    <string name="face_beautification_eyes_enlarge">Увеличение глаз</string>
+    <string name="face_beautification_eyes_enhance">Выделение глаз</string>
+    <string name="face_beautification_teeth_whiten">Отбеливание зубов</string>
+    <string name="face_beautification_undo">Отменить</string>
+    <string name="face_beautification_go_back">Назад</string>
+    <string name="back_display_button_mms">MMS</string>
+    <string name="back_display_button_email">Эл. почта</string>
+    <string name="back_display_button_bluetooth">Bluetooth</string>
+    <string name="back_display_button_micro_blog">Микроблог</string>
+    <string name="back_display_button_renren">Ren Ren</string>
+    <string name="back_display_button_share">Передать</string>
+    <string name="back_display_button_edit">Правка</string>
+    <string name="back_display_button_delete">Удалить</string>
+    <string name="back_display_button_maps_storage">Галерея</string>
+    <string name="back_display_button_video_storage">Хранение</string>
+    <string name="back_display_dialog_title">Удалить изображение</string>
+    <string name="back_display_dialog_msg">Вы уверены?</string>
+    <string name="back_display_dialog_ok">ОК</string>
+    <string name="back_display_dialog_cancel">назад</string>
+    <string name="smart_plus_process_onekey">FB одной клавишей</string>
+
+    <string name="back_display_app_not_found">Приложение не найдено</string>
+    <string name="back_display_image_not_found">Изображение не найдено</string>
+    <string name="back_display_editor_not_found">Редактор не найден</string>
+    <string name="please_open_gps_first">Сначала откройте GPS.</string>
+    <string name="hdr_lowlight_waiting">Держите неподвижно!</string>
+    <string name="all_shortcuts_title">Установить ярлыки</string>
+    <string name="shortcuts_reset_button">Восстановить значения по умолчанию</string>
+    <string name="exposure_title">E.V</string>
+    <string name="luminance_title">L.T</string>
+    <string name="luminance_min">-2</string>
+    <string name="luminance_cent">0</string>
+    <string name="luminance_max">2</string>
+    <string name="contrast_title">C.T</string>
+    <string name="saturation_title">S.T</string>
+    <string name="acutance_title">A.T</string>
+    <string name="panorama_directionchanged">Направление изменилось. Остановка...</string>
+    <string name="panorama_wrongdirection">Перемещение в неправильном направлении. Остановка...</string>
+    <string name="panorama_quicktutorial_check">Больше не показывать</string>
+    <string name="panorama_quicktutorial_hint">Переключиться на режим съемки</string>
+    <string name="panorama_normalmode">Норм.</string>
+    <string name="panorama_highqualitymode">HD</string>
+    <string name="panorama_pleasekeephorizontal">Держите камеру неподвижно и повторите съемку</string>
+    <string name="panorama_clickthecapturebutton1">Нажмите кнопку съемки, затем плавно перемещайте объектив вправо или влево</string>
+    <string name="panorama_clickthecapturebutton2">Нажмите кнопку съемки и переместите камеру вверх и вниз для получения панорамного снимка</string>
+    <string name="panorama_capturewarning">Держите камеру горизонтально</string>
+    <string name="panorama_capturehint">Перемещайте камеру горизонтально</string>
+    <string name="first_page">Уже первая страница</string>
+    <string name="last_page">Уже последняя страница</string>
+    <string name="user_center">"Персональный центр"</string>
+    <string name="medal_achievement">"Медали"</string>
+    <string name="my_medal">Мои медали</string>
+    <string name="all_medal">Все медали</string>
+    <string name="user_gain_medal">Награжден(а)</string>
+    <string name="user_name">XXX</string>
+    <string name="user_medal_count">XX</string>
+    <string name="medal">медали</string>
+    <string name="attention">Внимание</string>
+    <string name="delete_all">Удалить эту запись Weibo?</string>
+    <string name="camera_cancel">Нет</string>
+    <string name="send">Отправить</string>
+    <string name="sending">Отправка...</string>
+    <string name="camera_close">Закрыть</string>
+    <string name="share_dialog_title">Sina Weibo</string>
+    <string name="please_login">Войдите</string>
+    <string name="send_sucess">Передано успешно!</string>
+    <string name="send_failed">Передано неуспешно!</string>
+    <string name="del_pic">Удалить эту фотографию?</string>
+    <string name="weibo_network_unusable">Нет доступа к сети</string>
+    <string name="weibo_set_network_now">Нет доступных сетей. Настроить?</string>
+    <string name="weibo_set_network_ok">Установить</string>
+    <string name="weibo_set_network_cancel">Отмена</string>
+    <string name="weibo_share_list_name">Sina Weibo</string>
+    <string name="weibo_attention_supercamera">Следить за суперкамерой Lenovo</string>
+    <string name="weibo_at_dialog_title">\@</string>
+    <string name="weibo_jing_dialog_title">\#</string>
+    <string name="weibo_char_count">140</string>
+    <string name="weibo_at_dialog_button_ok">ОК</string>
+    <string name="weibo_get_attention_list_failed">Не удалось получить отслеживаемый список, повторите попытку позже</string>
+    <string name="weibo_attention_list_refresh">Проведите вниз для обновления</string>
+    <string name="weibo_attention_list_update">Последнее обновление:</string>
+    <string name="weibo_attention_list_up_refresh">Отпустите для обновления</string>
+    <string name="weibo_attention_list_refreshing">Обновление...</string>
+    <string name="weibo_btn_recently_at">Недавно упомянутые люди</string>
+    <string name="weibo_btn_attentioned">Отслеживаемые люди</string>
+    <string name="compose_gif">Составить GIF</string>
+    <string name="compose_preview">Предварительный просмотр</string>
+    <string name="compose_reset">Сброс</string>
+    <string name="compose_cancel">Отмена</string>
+    <string name="status_align_failture">Сбой расположения, выход</string>
+    <string name="status_warning_need_to_stop">При обновлении подождите 2 с</string>
+    <string name="status_warning_too_fast">Слишком быстро.</string>
+    <string name="status_warning_too_far">Вернитесь в окно обновления</string>
+    <string name="status_warning_align_failture">Предупреждение: сбой расположения</string>
+    <string name="status_warning_too_far_1">Предупреждение: слишком большое смещение</string>
+    <string name="status_warning_too_far_2">Предупреждение: слишком большое смещение</string>
+    <string name="magic_goback">Назад</string>
+    <string name="magic_draw_save">Сохранить</string>
+    <string name="magic_draw_preview">Предварительный просмотр</string>
+    <string name="magic_pic_size">Разрешение</string>
+    <string name="gif_pic_ways">Способ съемки</string>
+    <string name="gif_pic_time">Время съемки</string>
+    <string name="magic_pic_size_4:3">4 : 3</string>
+    <string name="magic_pic_size_16:9">16 : 9</string>
+    <string name="magic_pic_count">Число фотографий</string>
+    <string name="gif_pic_count_18">18</string>
+    <string name="gif_pic_count_21">21</string>
+    <string name="gif_pic_count_24">24</string>
+    <string name="gif_pic_count_48">48</string>
+    <string name="magic_pic_current_count">18</string>
+    <string name="magic_ok_next">ОК</string>
+    <string name="magic_draw_erase">Стереть</string>
+    <string name="magic_draw_paint">Кисть</string>
+    <string name="magic_draw_paint_size">Размер кисти</string>
+    <string name="magic_cancel">Отмена</string>
+    <string name="magic_compose_fail">Сбой при создании GIF, повторите попытку</string>
+    <string name="gif_time_unit">сек.</string>
+    <string name="gif_pic_common_tip_1">Одно нажатие – один снимок</string>
+    <string name="gif_pic_common_tip_2" />
+    <string name="gif_current_number">X фотографий</string>
+    <string name="gif_select_pic">Выбрать снимки</string>
+    <string name="gif_current_select">Выбрано снимков:</string>
+    <string name="gif_current_select_unit">ф</string>
+    <string name="gif_current_select_least">(Не менее:</string>
+    <string name="gif_current_select_least_count">2</string>
+    <string name="gif_current_select_least_unit">)</string>
+    <string name="gif_preview_chose_pic">Выберите фотографию</string>
+    <string name="gif_preview_merge_gif">Создание GIF</string>
+    <string name="gif_order">Вперед</string>
+    <string name="gif_unorder">Назад</string>
+    <string name="gif_slow">Медленно</string>
+    <string name="gif_fast">Быстро</string>
+    <string name="gif_compose_please">Сначала объедините магический GIF</string>
+    <string name="gif_compose_tips">Выберите по крайней мере 2 фотографии</string>
+    <string name="gif_erase_tip">Сначала раскрасьте</string>
+    <string name="gif_select_retake">Повтор</string>
+    <string name="gif_select_next">рядом</string>
+    <string name="gif_preview_back">Назад</string>
+    <string name="gif_pic_size_low">Низкое</string>
+    <string name="gif_pic_size_middle">Среднее</string>
+    <string name="gif_pic_size_high">Высокое</string>
+    <string name="gif_take_way_auto">Автосъемка</string>
+    <string name="gif_take_way_common">Ручная съемка</string>
+    <string name="magic_course_btn_next">Далее</string>
+    <string name="magic_course_one_tip">Начать запись</string>
+    <string name="magic_course_two_tip">Выделите область, которая будет подвижной</string>
+    <string name="magic_course_three_one_tip">Выделить заново</string>
+    <string name="magic_course_three_two_tip">Размер кисти</string>
+    <string name="magic_course_three_three_tip">Подвижная область</string>
+    <string name="magic_course_btn_finish">Я знаю</string>
+
+
+    <string name="voice_shutter_remine">Для съемки можно произнести \"%1$s\" или \"%2$s\"</string>
+    <string name="panorama_tutorial_text">Для получения наилучшего результата в режиме HD держите телефон вертикально и перемещайте его</string>
+    <string name="panorama_tutorial_cancel">Я знаю</string>
+    <string name="hdr">HDR</string>
+    <string name="grid">Сетка</string>
+    <string name="pip_mode_remind_string">Сделайте фоновой снимок</string>
+    <string name="system_out_of_date">Текущая версия системы является устаревшей, поэтому некоторые функции камеры использовать нельзя. Рекомендуется обновить систему. (Можно использовать приложение обновления Lenovo.)</string>
+    <string name="app_out_of_date">Текущая версия приложения камеры является устаревшей, поэтому некоторые функции камеры использовать нельзя. Рекомендуется обновить камеру. (Для обновления выберите в меню \"О программе\" пункт \"Проверить наличие обновлений\".)</string>
+    <string name="gif_flash_parameter_failed">Не удалось задать параметры вспышки</string>
+    <string name="gif_preview_parameter_failed">Не удалось задать параметры предварительного просмотра</string>
+    <string name="pref_camera_snapshot_switcher_title">Снапшот</string>
+    <string name="pref_camera_snapshot_entry_off">Откл.</string>
+    <string name="pref_camera_snapshot_entry_on">Вкл.</string>
+    <string name="sCloudLogin">Войти</string>
+    <string name="sCloudAlbum">Облачный альбом</string>
+    <string name="loading_text">Загрузка</string>
+    <string name="sCloud_not_login">Извините, вход не удался.</string>
+    <string name="sCloud_network_busy">Извините, сеть занята.</string>
+    <string name="sCloud_illega_argument">Введен неверный аргумент.</string>
+    <string name="sCloud_io_error">Ошибка передачи/загрузкт файла.</string>
+    <string name="sCloud_empty">Нет фотографий в облаке.</string>
+    <string name="sCloud_lcp_error">Отсутствует фото в облаке.</string>
+    <string name="sCloud_malform_error">Неправильный URI.</string>
+    <string name="sCloud_decoder_error">ошибка декодирования фото из облака.</string>
+    <string name="sCloud_out_of_mem_err">ошибка памяти в облаке.</string>
+    <string name="sCloud_unknown_error">неизвестная ошибка в облаке.</string>
+    <string name="sCloud_dlg_tip">Помощь</string>
+    <string name="sCloud_dlg_cancel">Отмена</string>
+    <string name="sCloud_dlg_ok">ОК</string>
+    <string name="sCloud_dlg_title">Создать альбом</string>
+    <string name="sCloud_dlg_share_title">Облачный сервис</string>
+    <string name="sCloud_dlg_share_content">Вы уверены, что хотите отправить эти фотографии с сообщением для \" %1$s \" друзей?</string>
+    <string name="sCloud_SMS_share_content">Привет, в облаке доступны новые фотографии. %1$s</string>
+    <string name="sCloud_SMS_share_ok">успешно отправлен!</string>
+    <string name="sCloud_dlg_rename">Переименовать альбом</string>
+    <string name="sCloud_dlg_rename_msg">Стандартную папку нельзя переименовать.</string>
+    <string name="sCloud_dlg_delete_title">Удалить альбом</string>
+    <string name="sCloud_dlg_del_photo_title">Удалить фотоo</string>
+    <string name="sCloud_dlg_delete_msg">Фотографии в альбоме также будут удалены без возможности восстановления. Продолжить?</string>
+    <string name="sCloud_dlg_del_photo_msg">Фотографии будут удалены без возможности восстановления, продолжить?</string>
+    <string name="sCloud_del_successful">Успешно удалено!</string>
+    <string name="sCloud_del_progress_msg">Удаление</string>
+    <string name="sCloud_rename_progress_msg">Переименование</string>
+    <string name="sCloud_share_progress_msg">Отправка</string>
+    <string name="sCloud_rename_successful">удачное переименование!</string>
+    <string name="sCloud_network_error">Извините, проблемы с сетью.</string>
+    <string name="sCloud_sms_not_exist">Извините, SIM-карта отсутствует.</string>
+    <string name="sCloud_sms_unknown">Извините, статус SIM-катры неивестен.</string>
+    <string name="sCloud_network_not_link">Извините, в сети нет нужных ссылок.</string>
+    <string name="sCloud_server_error">Ошибка создания ссылок для работы с сервером.</string>
+    <string name="cloud_photo_image_descr">Изображение</string>
+    <string name="cloud_dlg_hink">Введите имя альбома.</string>
+    <string name="sCloud_login_error">Извините, ошибка входа.</string>
+    <string name="sCloud_network_loading_err">Ошибка загрузки данных из облака.</string>
+    <string name="sCloud_download_succeed">"Загрузка завершена, файл сохранён：
+"</string>
+    <string name="com_lenovo_lsf_app_name">UserFramework</string>
+    <string name="com_lenovo_lsf_lenovouser_app_name">Аккаунт Lenovo</string>
+    <string name="com_lenovo_lsf_lenovouser_btn_ok">ОК</string>
+    <string name="com_lenovo_lsf_lenovouser_btn_cancel">Отмена</string>
+    <string name="com_lenovo_lsf_lenovouser_btn_retry">Повтор</string>
+    <string name="com_lenovo_lsf_lenovouser_forget_error1">Неверный код авторизации</string>
+    <string name="com_lenovo_lsf_lenovouser_forget_error3">Нет такого пользователя</string>
+    <string name="com_lenovo_lsf_lenovouser_forget_progess">Отправка пароля. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_forget_failuret">Ошибка отправки пароля</string>
+    <string name="com_lenovo_lsf_lenovouser_forget_failure">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_change_error1">Неверный пароль</string>
+    <string name="com_lenovo_lsf_lenovouser_change_error2">Пароли не совпадают</string>
+    <string name="com_lenovo_lsf_lenovouser_change_error3">Введите пароль в правильном формате</string>
+    <string name="com_lenovo_lsf_lenovouser_change_progess">Изменение пароля. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_change_success">Пароль изменен.</string>
+    <string name="com_lenovo_lsf_lenovouser_change_failure">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_text0">Войти в аккаунт Lenovo</string>
+    <string name="com_lenovo_lsf_lenovouser_login_text7">Авторизация завершена</string>
+    <string name="com_lenovo_lsf_lenovouser_login_progess">Вход в систему. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_login_failure">Ошибка входа</string>
+    <string name="com_lenovo_lsf_lenovouser_login_networkfailure">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendfailure">Ваш аккаунт еще не активирован. Отправить повторно письмо с кодом активации на e-mail?</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendfailure1">Ваш аккаунт еще не активирован. Отправить повторно SMS с кодом активации на мобильный телефон?</string>
+    <string name="com_lenovo_lsf_lenovouser_login_rprogess">Отправка письма с кодом активации. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendst">Письмо с кодом активации отправлено</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resends">Новое письмо с кодом активации отправлено на Ваш e-mail. Проверьте.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendft">Ошибка повторной отправки письма с кодом активации</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendf">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_rprogess1">Отправка SMS с кодом активации. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendst1">SMS с кодом активации отправлено</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resends1">Новое SMS с кодом активации отправлена ??на Ваш мобильный телефон. Проверьте.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendft1">Ошибка повторной отправки SMS с кодом активации</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendf1">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error1">Нет такого пользователя</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error2">Неверный пароль.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error3">Прежде, чем войти в аккаунт, активируйте его</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error4">Введите пароль</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error5">Введите имя аккаунта</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error6">Ваш аккаунт был временно заблокирован из-за пяти ошибок входа. Повторите попытку через 10 минут</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error7">Нверный формат имени пользователя</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error8">Аккаунт отключен</string>
+    <string name="com_lenovo_lsf_lenovouser_userinfo_text16">Выйти из аккаунта Lenovo</string>
+    <string name="com_lenovo_lsf_lenovouser_userinfo_text17">Выйти из аккаунта Lenovo?</string>
+    <string name="com_lenovo_lsf_lenovouser_userinfo_logouting">Выход из аакаунта. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_userinfo_logouts">Вы вышли из аккаунта</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error1">Нверный формат имени пользователя</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error2">Такой аккаунт уже существует</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error3">Введите пароль в правильном формате</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error4">Пароли не совпадают</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error5">Неверный код авторизации</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error6">Ошибка получения кода авторизации</string>
+    <string name="com_lenovo_lsf_lenovouser_register_progess">Регистрация. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_register_failuret">Ошибка регистрации аккаунта</string>
+    <string name="com_lenovo_lsf_lenovouser_register_failure">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendprogess">Отправка письма с кодом активации. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendfailuret">Ошибка повторной отправки письма с кодом активации</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendfailure">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendsuccesst">Письмо с кодом активации отправлено</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendsuccess">Новое письмо с кодом активации отправлено на Ваш e-mail. Проверьте.</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendprogess1">Отправка SMS с кодом активации. Ожидайте…</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendfailuret1">Ошибка повторной отправки SMS с кодом активации</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendfailure1">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendsuccesst1">SMS с кодом активации отправлено</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendsuccess1">Новое SMS с кодом активации отправлена ??на Ваш мобильный телефон. Проверьте.</string>
+    <string name="com_lenovo_lsf_lenovouser_userinfo_registerlegalt">Условия предоставления услуг</string>
+    <string name="com_lenovo_lsf_lenovouser_onekey_error_titlt">Ошибка регистрации</string>
+    <string name="com_lenovo_lsf_lenovouser_onekey_imeiinvalid">Номер IMEI является недействительным.</string>
+    <string name="com_lenovo_lsf_psauthen_text15">Следующие одно или несколько приложений запрашивают разрешение на доступ к Вашему аккаунту, сейчас и в будущем.</string>
+    <string name="com_lenovo_lsf_psauthen_text16">Разрешить</string>
+    <string name="com_lenovo_lsf_psauthen_text17">Отклонить</string>
+    <string name="com_lenovo_lsf_psauthen_text18">Разрешить доступ?</string>
+    <string name="com_lenovo_lsf_psauthen_text19">Запрос доступа</string>
+    <string name="com_lenovo_lsf_psauthen_text20">Невозможно войти в два разных аккаунта</string>
+    <string name="com_lenovo_lsf_psauthen_error1">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_psauthen_error2">Ошибка входа в аккаунт</string>
+    <string name="com_lenovo_lsf_psauthen_error3">Пользователь не существует</string>
+    <string name="com_lenovo_lsf_psauthen_error4">Неверный пароль</string>
+    <string name="com_lenovo_lsf_psauthen_error5">Активируйте свой аккаунт</string>
+    <string name="com_lenovo_lsf_psauthen_error6">Аккаунт отключен</string>
+    <string name="com_lenovo_lsf_psauthen_error7">Аккаунт заблокирован</string>
+    <string name="com_lenovo_lsf_psauthen_error8">Ошибка подключения к сети. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_psauthen_error9">Отменено пользователем</string>
+    <string name="com_lenovo_lsf_psauthen_error10">Дубликат аккаунта Lenovo</string>
+    <string name="com_lenovo_lsf_ui_name">Аккаунт Lenovo</string>
+    <string name="com_lenovo_lsf_login_string_login_sina">Войти в Sina</string>
+    <string name="com_lenovo_lsf_login_string_login_qq">Войти в QQ</string>
+    <string name="com_lenovo_lsf_login_string_login">Войти</string>
+    <string name="com_lenovo_lsf_login_string_registration">Регистрация</string>
+    <string name="com_lenovo_lsf_login_string_havenoid" />
+    <string name="com_lenovo_lsf_login_string_forgetpwd"><u>Забыли пароль?</u></string>
+    <string name="com_lenovo_lsf_login_string_account">Аккаунт Lenovo</string>
+    <string name="com_lenovo_lsf_login_string_password">Пароль</string>
+    <string name="com_lenovo_lsf_login_string_accounthint">abc@example.com</string>
+    <string name="com_lenovo_lsf_login_string_pwdhint">Введите пароль</string>
+    <string name="com_lenovo_lsf_login_string_sendrequest">Отправка запроса на вход…</string>
+    <string name="com_lenovo_lsf_login_string_verifing">Авторизация…</string>
+    <string name="com_lenovo_lsf_login_string_agree">Авторизация означает, что Вы принимаете</string>
+    <string name="com_lenovo_lsf_login_string_protocol">Авторизация означает, что Вы принимаете <u>Условия предоставления услуг</u></string>
+    <string name="com_lenovo_lsf_register_string_login">Войти</string>
+    <string name="com_lenovo_lsf_register_string_haveid">Аккаунт уже существует</string>
+    <string name="com_lenovo_lsf_register_string_register">Регистрация</string>
+    <string name="com_lenovo_lsf_register_string_registerinfo">Если у Вас уже есть аккаунт Lenovo, вернитесь и войдите снова</string>
+    <string name="com_lenovo_lsf_register_string_account">Аккаунт Lenovo</string>
+    <string name="com_lenovo_lsf_register_string_setpwd">Пароль</string>
+    <string name="com_lenovo_lsf_register_string_confirmpwd">Пароль</string>
+    <string name="com_lenovo_lsf_register_string_confirmpwd_hint">Введите пароль еще раз</string>
+    <string name="com_lenovo_lsf_register_string_verifycode">Проверочный код</string>
+    <string name="com_lenovo_lsf_register_string_changeanother">Изменить</string>
+    <string name="com_lenovo_lsf_register_string_agree">Я принимаю</string>
+    <string name="com_lenovo_lsf_register_string_protocol">Я принимаю <u>Условия обслуживания</u></string>
+    <string name="com_lenovo_lsf_register_string_accounthint">abc@example.com</string>
+    <string name="com_lenovo_lsf_register_string_setpwdhint">4-20 символов</string>
+    <string name="com_lenovo_lsf_register_string_verifycodehint">Введите проверочный код</string>
+    <string name="com_lenovo_lsf_register_string_countries">Местоположение</string>
+    <string name="com_lenovo_lsf_forget_string_findpassword">Забыли пароль</string>
+    <string name="com_lenovo_lsf_forget_string_findpasswordinfo">Мы отправим Ваш пароль на e-mail или в SMS.</string>
+    <string name="com_lenovo_lsf_forget_string_reset">Отправить</string>
+    <string name="com_lenovo_lsf_change_string_changepassword">Изменить пароль</string>
+    <string name="com_lenovo_lsf_change_string_oldpassword">Текущий пароль</string>
+    <string name="com_lenovo_lsf_change_string_newpassword">Новый пароль</string>
+    <string name="com_lenovo_lsf_change_string_confirmpassword">Подтвердите пароль</string>
+    <string name="com_lenovo_lsf_change_string_confirm">Отправить</string>
+    <string name="com_lenovo_lsf_change_string_confirmset">Отправить</string>
+    <string name="com_lenovo_lsf_change_string_setpassword">Установить пароль</string>
+    <string name="com_lenovo_lsf_change_string_please_input_oldpassword">Введите текущий пароль.</string>
+    <string name="com_lenovo_lsf_change_string_please_input_newpassword">Введите новый пароль.</string>
+    <string name="com_lenovo_lsf_change_string_please_input_newpassword_senced">Повторите новый пароль.</string>
+    <string name="com_lenovo_lsf_myaccount_string_myaccount">Мой аккаунт</string>
+    <string name="com_lenovo_lsf_myaccount_string_account">Аккаунт Lenovo:</string>
+    <string name="com_lenovo_lsf_myaccount_string_accountinfo">abc@example.com</string>
+    <string name="com_lenovo_lsf_myaccount_string_changeaccount">Сменить аккаунт</string>
+    <string name="com_lenovo_lsf_myaccount_string_status">Статус:</string>
+    <string name="com_lenovo_lsf_myaccount_string_statusinfo_not_verify">Не проверен</string>
+    <string name="com_lenovo_lsf_myaccount_string_statusinfo_verified">Проверен</string>
+    <string name="com_lenovo_lsf_myaccount_string_statusinfo_getting">Проверка статуса…</string>
+    <string name="com_lenovo_lsf_myaccount_string_statusinfo_getting_error">Ошибка при проверке статуса.</string>
+    <string name="com_lenovo_lsf_myaccount_string_verify">Проверить</string>
+    <string name="com_lenovo_lsf_myaccount_string_password">Пароль:</string>
+    <string name="com_lenovo_lsf_myaccount_string_passwordno">нет</string>
+    <string name="com_lenovo_lsf_myaccount_string_passwordyes">есть</string>
+    <string name="com_lenovo_lsf_myaccount_string_setpassword">Установить пароль</string>
+    <string name="com_lenovo_lsf_myaccount_string_changepassword">Изменить</string>
+    <string name="com_lenovo_lsf_myaccount_string_time">Время входа:</string>
+    <string name="com_lenovo_lsf_myaccount_string_timeinfo">2010-4-1 10:13:21</string>
+    <string name="com_lenovo_lsf_myaccount_string_logout">Выйти</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_success">Отправлено</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_detail">Новый пароль был отправлен на %1$s:</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_mailbox">почтовый ящик</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_phone">телефон</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_checkmail">Проверьте почту</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_checksms">Проверьте SMS</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_login">Войти</string>
+    <string name="com_lenovo_lsf_forgetfail_string_fail">Ошибка отправки пароля.</string>
+    <string name="com_lenovo_lsf_forgetfail_string_detail">Объяснение</string>
+    <string name="com_lenovo_lsf_forgetfail_string_resend">Повторно отправить пароль</string>
+    <string name="com_lenovo_lsf_forgetfail_string_empty_verify_code">Введите код подтверждения.</string>
+    <string name="com_lenovo_lsf_registersuccess_string_success">Регистрация завершена</string>
+    <string name="com_lenovo_lsf_registersuccess_string_detailmail1">Проверочное письмо было отправлено на Ваш почтовый ящик:</string>
+    <string name="com_lenovo_lsf_registersuccess_string_detailmail2">Нажмите на ссылку в письме, чтобы подтвердить аккаунт!</string>
+    <string name="com_lenovo_lsf_registersuccess_string_detailphone1">Проверочный код был отправлен на Ваш телефон:</string>
+    <string name="com_lenovo_lsf_registersuccess_string_detailphone2">Нажмите на ссылку в SMS, чтобы подтвердить аккаунт.</string>
+    <string name="com_lenovo_lsf_registersuccess_string_login">Войти</string>
+    <string name="com_lenovo_lsf_registersuccess_string_resend">Повторить</string>
+    <string name="com_lenovo_lsf_register_time_out">Время регистрации истекло. Повторите попытку.</string>
+    <string name="com_lenovo_lsf_registersuccess_string_resend_phone">Отправить повторно проверочное SMS</string>
+    <string name="com_lenovo_lsf_registersuccess_string_resend_mail">Отправить повторно проверочное письмо</string>
+    <string name="com_lenovo_lsf_username_not_null">Введите аккаунт Lenovo</string>
+    <string name="com_lenovo_lsf_password_not_null">Введите пароль</string>
+    <string name="com_lenovo_lsf_senced_password_not_null">Повторите пароль</string>
+    <string name="com_lenovo_lsf_click_sixty_min_later">Подождите 60 секунд перед повторным нажатием.</string>
+    <string name="com_lenovo_lsf_account_settings">Настройки аккаунта</string>
+    <string name="com_lenovo_lsf_account_settings_summery">Выйти и изменить пароль</string>
+    <string name="com_lenovo_lsf_login_password_error">Неверный пароль. Введите правильный пароль.</string>
+    <string name="com_lenovo_lsf_forget_password_error">Слишком много операций. Повторите попытку позже</string>
+    <string name="com_lenovo_lsf_app_upgrade_notification">Обновление LenovoServiceFramework</string>
+    <string name="com_lenovo_lsf_binding_string_account">Аккаунт Lenovo:</string>
+    <string name="com_lenovo_lsf_binding_another_account"><u>Связать с другим аккаунтом Lenovo</u></string>
+    <string name="com_lenovo_lsf_account_binding_welcome">Добро пожаловать!</string>
+    <string name="com_lenovo_lsf_account_binding_exists_account_description">Найдите настройки e-mail в %1$s, который уже связан с аккаунтом Lenovo. Введите пароль для привязки микроблога QQ</string>
+    <string name="com_lenovo_lsf_account_binding_description">Нажав кнопку ОК, Вы свяжете аккаунты с Вашим аккаунтом %1$s</string>
+    <string name="com_lenovo_lsf_account_binding_input_description">Зарегистрируйтесь или укажите существующий аккаунт Lenovo для привязки</string>
+    <string name="com_lenovo_lsf_account_binding_progress_description">Отправка запроса…</string>
+    <string name="com_lenovo_lsf_account_link_third_accout_timeout">Истекло время ожидания подключения стороннего аккаунта. Повторите попытку!</string>
+    <string name="com_lenovo_lsf_account_binding_error">Ошибка привязки аккаунта</string>
+    <string name="com_lenovo_lsf_account_has_binding_antheor">Аккаунт Lenovo уже связан со сторонним аккаунтом!</string>
+    <string name="com_lenovo_lsf_thirdaccount_has_binding_antheor_lenovoid">Сторонний аккаунт уже связан с аккаунтом Lenovo!</string>
+    <string name="com_lenovo_lsf_update">Обновить</string>
+    <string name="com_lenovo_lsf_about">О программе</string>
+    <string name="com_lenovo_lsf_third_login">Сторонний аккаунт</string>
+    <string name="com_lenovo_lsf_normal_login">Логин:</string>
+    <string name="com_lenovo_lsf_check_update">Проверка обновления…</string>
+    <string name="com_lenovo_lsf_update_already_last_version">Обновление не требуется</string>
+    <string name="com_lenovo_lsf_app_version">Версия ПО</string>
+    <string name="com_lenovo_lsf_app_web_url_label">Веб-портал</string>
+    <string name="com_lenovo_lsf_app_web_url"><u>http://passport.lenovo.com</u></string>
+    <string name="com_lenovo_lsf_app_copyright">Copyright(C) 1998-2012</string>
+    <string name="com_lenovo_lsf_app_copyright_bottom">Lenovo Inc. Все права защищены</string>
+    <string name="com_lenovo_lsf_webview_refresh">Обновить</string>
+    <string name="com_lenovo_lsf_binding_acitivities_details">Сведения</string>
+    <string name="com_lenovo_lsf_password_cannot_be_blank">Введите пароль в правильном формате</string>
+    <string name="com_lenovo_lsf_binding_account_phone_num">Номер телефона</string>
+    <string name="com_lenovo_lsf_binding_account_name_sina">Skype</string>
+    <string name="com_lenovo_lsf_binding_account_name_qq">ICQ</string>
+    <string name="com_lenovo_lsf_onekey_airplanemode">Вы не можете использовать эту функцию в \"Режиме полета\". Сначала отключите его</string>
+    <string name="com_lenovo_lsf_open_sms_error">Ошибка открытия SMS. Убедитесь, что приложение SMS-сообщений установлено и не заблокировано центром безопасности</string>
+    <string name="com_lenovo_lsf_open_browser_error">Ошибка открытия браузера. Убедитесь, что браузер установлен и не заблокирован центром безопасности</string>
+    <string name="com_lenovo_lsf_get_update_pkginfo_null">Ошибка обновления информации. Проверьте готовность сети</string>
+    <string name="com_lenovo_lsf_tgt_error">Текущий аккаунт просрочен. Войдите в систему снова</string>
+    <string name="com_lenovo_lsf_sim_error">Текущая SIM-карта телефона недоступна</string>
+    <string name="com_lenovo_lsf_auto_oneKeyLogin_times_more_than_limit">Превышен лимит автоматического входа в аккаунт на сегодня. Повторите попытку завтра</string>
+    <string name="com_lenovo_lsf_auto_oneKeyLogin_application_no_permissions">Приложение не имеет доступа для выполнения операции</string>
+    <string name="com_lenovo_lsf_auto_oneKeyLogin_goinig">Ожидайте завершения авторизации</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="photoeditor_name">Фотостудия</string>
+    <string name="loading_failure">Не удалось загрузить фотографию</string>
+    <string name="saving_failure">Не удалось сохранить измененную фотографию</string>
+    <string name="photo_saved">Измененная фотография сохранена в папке %s</string>
+    <string name="discard_unsaved_photo">Отменить несохраненные изменения?</string>
+    <string name="yes">Да</string>
+    <string name="save">СОХРАН.</string>
+    <string name="autofix">Автоисправление</string>
+    <string name="crop">Обрезка</string>
+    <string name="crossprocess">Кросспроцесс</string>
+    <string name="documentary">Документальный</string>
+    <string name="doodle">Каракули</string>
+    <string name="duotone">Два цвета</string>
+    <string name="facelift">Сияние лица</string>
+    <string name="facetan">Загорелое лицо</string>
+    <string name="filllight">Заполн. свет</string>
+    <string name="fisheye">Рыбий глаз</string>
+    <string name="flip">Отражение</string>
+    <string name="grain">Зернистость</string>
+    <string name="grayscale">Черно-белый</string>
+    <string name="highlight">Яркость</string>
+    <string name="lomoish">Lomo</string>
+    <string name="negative">Негатив</string>
+    <string name="posterize">Плакат</string>
+    <string name="redeye">Красные глаза</string>
+    <string name="rotate">Поворот</string>
+    <string name="saturation">Насыщенность</string>
+    <string name="sepia">Сепия</string>
+    <string name="shadow">Тени</string>
+    <string name="sharpen">Резкость</string>
+    <string name="straighten">Выпрямление</string>
+    <string name="temperature">Теплые тона</string>
+    <string name="tint">Оттенок</string>
+    <string name="vignette">Виньетка</string>
+    <string name="crop_tooltip">Перетащите маркеры для обрезки фото</string>
+    <string name="doodle_tooltip">Нарисуйте каракули на фотографии</string>
+    <string name="flip_tooltip">Перетащите фотографию для ее отражения</string>
+    <string name="redeye_tooltip">Коснитесь красных глаз для их удаления</string>
+    <string name="rotate_tooltip">Перетащите фотографию для ее поворота</string>
+    <string name="straighten_tooltip">Перетащите фотографию для ее выпрямления</string>
+    <string name="scgcommon_app_name">Камера и Галерея Lenovo</string>
+    <string name="app_name">Галерея</string>
+    <string name="app_name_for_special">Галерея</string>
+
+    <string name="gadget_title">Фоторамка</string>
+    <string name="details_ms">%1$02d:%2$02d</string>
+    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
+    <string name="movie_view_label">Видеопроигрыватель</string>
+    <string name="loading_video">Загрузка видео…</string>
+    <string name="loading_image">Загрузка изображения…</string>
+    <string name="loading_account">Загрузка учетной записи…</string>
+    <string name="resume_playing_title">Возобновить видео</string>
+    <string name="resume_playing_message">Возобновить воспроизведение с %s?</string>
+    <string name="resume_playing_resume">Возобновить воспроизведение</string>
+    <string name="loading">Загрузка…</string>
+    <string name="fail_to_load">Не удалось загрузить</string>
+    <string name="fail_to_load_image">Не удалось загрузить изображение</string>
+    <string name="no_thumbnail">Нет эскиза</string>
+    <string name="resume_playing_restart">Начать заново</string>
+    <string name="crop_save_text">ОК</string>
+    <string name="ok">ОК</string>
+    <string name="multiface_crop_help">Коснитесь лица для начала.</string>
+    <string name="saving_image">Сохранение изображения…</string>
+    <string name="save_error">Не удалось сохранить обрезанное изображение.</string>
+    <string name="crop_label">Обрезка</string>
+    <string name="select_image">Выберите фотографию</string>
+    <string name="select_video">Выберите видео</string>
+    <string name="select_item">Выберите элемент</string>
+    <string name="select_album">Выбрать альбом</string>
+    <string name="select_group">Выберите группу</string>
+    <string name="set_image">Установить изображение как</string>
+    <string name="set_wallpaper">Установить</string>
+    <string name="wallpaper">Установка фонового рисунка…</string>
+    <string name="camera_setas_wallpaper">Фоновый рисунок</string>
+    <string name="delete">Удалить</string>
+    <string name="confirm">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="share">Передать</string>
+    <string name="deleted">Удалено</string>
+    <string name="undo">ОТМЕНИТЬ</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="deselect_all">Отменить все</string>
+    <string name="slideshow">Слайд-шоу</string>
+    <string name="details">Сведения</string>
+    <string name="details_title">%1$d из %2$d элем.:</string>
+    <string name="close">Закрыть</string>
+    <string name="switch_to_camera">Переключиться на фотосъемку</string>
+    <string name="show_on_map">Показать на карте</string>
+    <string name="rotate_left">Поворот влево</string>
+    <string name="rotate_right">Поворот вправо</string>
+    <string name="no_such_item">Не удается найти элемент.</string>
+    <string name="edit">Правка</string>
+    <string name="process_caching_requests">Обработка запросов кэширования</string>
+    <string name="caching_label">Кэширование…</string>
+    <string name="crop_action">Обрезка</string>
+    <string name="set_as">Установить как</string>
+    <string name="video_err">Не удается воспроизвести видео.</string>
+    <string name="group_by_location">По местоположению</string>
+    <string name="group_by_time">По времени</string>
+    <string name="group_by_tags">По меткам</string>
+    <string name="group_by_faces">По людям</string>
+    <string name="group_by_album">По альбомам</string>
+    <string name="group_by_size">По размеру</string>
+    <string name="untagged">Без меток</string>
+    <string name="no_location">Нет местоположения</string>
+    <string name="no_connectivity">Не удалось идентифицировать некоторые местоположения из-за проблем сети.</string>
+    <string name="sync_album_error">Не удалось загрузить фотографии в этом альбоме. Повторите попытку позже.</string>
+    <string name="show_images_only">Только изображения</string>
+    <string name="show_videos_only">Только видео</string>
+    <string name="show_all">Изображения и видео</string>
+    <string name="appwidget_title">Галерея</string>
+    <string name="appwidget_empty_text">Нет фотографий.</string>
+    <string name="crop_saved">Обрезанное изображение сохранено в %s.</string>
+    <string name="no_albums_alert">Нет доступных альбомов.</string>
+    <string name="empty_album">Доступно 0 изображений/видео.</string>
+    <string name="picasa_posts">Публикации</string>
+
+
+    <string name="make_available_offline">Доступ в автономном режиме</string>
+    <string name="sync_picasa_albums">Обновить</string>
+    <string name="done">Готово</string>
+    <string name="sequence_in_set">%1$d из %2$d элем.:</string>
+    <string name="title">Заголовок</string>
+    <string name="description">Описание</string>
+    <string name="time">Время</string>
+    <string name="location">Местоположение</string>
+    <string name="path">Путь</string>
+    <string name="width">Ширина</string>
+    <string name="height">Высота</string>
+    <string name="orientation">Ориентация</string>
+    <string name="duration">Длительность</string>
+    <string name="mimetype">Тип MIME</string>
+    <string name="file_size">Размер файла</string>
+    <string name="maker">Изготовитель</string>
+    <string name="model">Модель</string>
+    <string name="flash">Вспышка</string>
+    <string name="aperture">Апертура</string>
+    <string name="focal_length">Фокусн. расст.</string>
+    <string name="white_balance">Баланс белого</string>
+    <string name="exposure_time">Время экспоз.</string>
+    <string name="iso">ISO</string>
+    <string name="unit_mm">мм</string>
+    <string name="manual">Вручную</string>
+    <string name="auto">Авто</string>
+    <string name="flash_on">Со вспышкой</string>
+    <string name="flash_off">Без вспышки</string>
+    <string name="try_to_set_local_album_available_offline">Этот элемент хранится локально и доступен в автономном режиме.</string>
+    <string name="set_label_all_albums">Все альбомы</string>
+    <string name="set_label_local_albums">Локальные альбомы</string>
+    <string name="set_label_mtp_devices">Устройства MTP</string>
+    <string name="set_label_picasa_albums">Альбомы Picasa</string>
+    <string name="free_space_format">Свободно: %s</string>
+    <string name="size_below">%1$s или менее</string>
+    <string name="size_above">%1$s или более</string>
+    <string name="size_between">От %1$s до %2$s</string>
+    <string name="Import">Импорт</string>
+    <string name="import_complete">Импорт завершен</string>
+    <string name="import_fail">Сбой импорта</string>
+    <string name="camera_connected">Камера подключена.</string>
+    <string name="camera_disconnected">Камера отключена.</string>
+    <string name="click_import">Коснитесь для импорта</string>
+    <string name="widget_type_album">Выбрать альбом</string>
+    <string name="widget_type_shuffle">Перемешать все изображения</string>
+    <string name="widget_type_photo">Выберите снимки</string>
+    <string name="widget_type">Выбор изображений</string>
+    <string name="slideshow_dream_name">Слайд-шоу</string>
+    <string name="albums">Альбомы</string>
+    <string name="times">Время</string>
+    <string name="locations">Места</string>
+    <string name="people">Люди</string>
+    <string name="tags">Метки</string>
+    <string name="group_by">Группировать по</string>
+    <string name="settings">Параметры</string>
+    <string name="add_account">Добавить учетную запись</string>
+    <string name="folder_camera">Камера</string>
+    <string name="folder_download">Загрузить</string>
+    <string name="folder_imported">Импортировано</string>
+    <string name="folder_screenshot">Снимок экрана</string>
+    <string name="help">Справка</string>
+
+    <string name="sLocal">Плитки</string>
+    <string name="sWeibo">Weibo</string>
+    <string name="sGalleryWall">Стена галереи</string>
+    <string name="sCamera">Камера</string>
+    <string name="sLeftMenu">Левое меню</string>
+    <string name="sRightMenu">Правое меню</string>
+    <string name="sFolder">Альбом</string>
+    <string name="sPeople">Люди</string>
+    <string name="sLandscape">Пейзаж</string>
+    <string name="sAll">Все</string>
+    <string name="sNearby">Поблизости</string>
+    <string name="sStaff">Сотрудники</string>
+    <string name="sFriend">Друг</string>
+    <string name="sHot">Популярный</string>
+    <string name="sFondof">Нравится</string>
+    <string name="sFavorite">Избранное</string>
+    <string name="sDynamic">Динамический</string>
+    <string name="sAutoFaceDetect">Автораспознавание лиц</string>
+    <string name="sToday">Сегодня</string>
+    <string name="sYestoday">Вчера</string>
+    <string name="sSaturday">Суббота</string>
+    <string name="sFriday">Пятница</string>
+    <string name="sThursday">Четверг</string>
+    <string name="sWednesday">Среда</string>
+    <string name="sTuesday">Вторник</string>
+    <string name="sMonday">Понедельник</string>
+    <string name="sLastWeek">Прошлая неделя</string>
+    <string name="sTwoWeeksAgo">Две недели назад</string>
+    <string name="sThreeWeeksAgo">Три недели назад</string>
+    <string name="sFourWeeksAgo">Четыре недели назад</string>
+    <string name="sYear">Год</string>
+    <string name="sMonth">Месяц</string>
+    <string name="sDay">День</string>
+    <string name="sCurrentWeek">Неделя</string>
+    <string name="sCenterPintu">Пазл</string>
+    <string name="sCenterSetting">Параметры</string>
+    <string name="sCenterGif">GIF</string>
+    <string name="sCenterAbout">О программе</string>
+    <string name="sCenterWeibo">Учетная запись Weibo</string>
+    <string name="sFaceDetectInfo">"Найдено (cur)
+ всего (total) 
+ процент (per)%"</string>
+    <string name="sSetName">добавить имя</string>
+    <string name="sTouxiang">Основное изображение</string>
+    <string name="sQuantu">Полностью</string>
+    <string name="sContactor">Контакт</string>
+    <string name="sContactorChange">Изменить контакт</string>
+    <string name="sPhone">Телефон</string>
+    <string name="sSms">SMS</string>
+    <string name="sNoName">Неизвестно</string>
+    <string name="sAddName">Добав. имя</string>
+    <string name="sUpdateName">Обновить</string>
+    <string name="sInputName">введите свое имя</string>
+    <string name="sInputNameHint">имя</string>
+    <string name="sFavoriteOK">добавлено в избранное</string>
+    <string name="sFavoriteCancel">отменено избранное</string>
+    <string name="sAddAlreadyGroup">добавить в существующую группу</string>
+    <string name="sFaceSelector" formatted="false">подтвердите лицо %s на %s фото</string>
+    <string name="sFaceNotHim">Не он/она</string>
+    <string name="sNotFace">Не лицо</string>
+    <string name="sSetAs">Установ. как обложку</string>
+    <string name="sMergeHint">Объединено со следующими группами</string>
+    <string name="sNotMerge">Не объединять</string>
+    <string name="sRelateHint">Связано со следующими контактами</string>
+    <string name="sNotRelate">Не связано</string>
+    <string name="sPhotosCount">фото</string>
+    <string name="sExitCounterText">Нажмите еще раз для выхода из галереи</string>
+    <string name="sFaceDetectProgress">Распознавание изображения: %d</string>
+    <string name="sDataSaveProgress">Сохранение данных: %d</string>
+    <string name="sRegroupHint">Коснитесь или потрясите для группировки по лицам</string>
+    <string name="sFavoriteHint">Избранное</string>
+    <string name="sFavoriteShowAll">Показать все</string>
+    <string name="sFaceAllHint">Все друзья</string>
+    <string name="sMyFriend">Избранное</string>
+    <string name="message_regroup">Выполняется перегруппировка. Подождите...</string>
+    <string name="sFaceCount">%dфото</string>
+    <string name="sMessageWait">Обработка... Подождите</string>
+    <string name="sNewWeiboCount">Новых Weibo: %s</string>
+
+
+    <string name="localtime_items">Ф</string>
+    <string name="get_access_success">Доступ успешно получен</string>
+    <string name="get_access_failed">Сбой аутентификации</string>
+    <string name="end_sesstion">Завершить сеанс</string>
+    <string name="comments_create">Комментарии</string>
+    <string name="send_success">Успешно отправлено!</string>
+    <string name="send_fail">Сбой отправки!</string>
+    <string name="comments_create_default">Хорошо!</string>
+    <string name="comments_create_input_hint">Скажите что-нибудь~</string>
+    <string name="send_comments">Отправить комментарии</string>
+    <string name="send_repost">Отправить перепубликацию</string>
+    <string name="repost">Перепубликация</string>
+    <string name="new_statuses">Новые состояния</string>
+    <string name="no_more_images">Новых фотографий нет, посмотрите на фотостену~</string>
+    <string name="image_more">Еще</string>
+    <string name="wb_return">Назад</string>
+    <string name="wb_save">Сохранить</string>
+    <string name="wb_save_success">Изображение успешно сохранено!</string>
+    <string name="wb_statuses_count">Статусы: %1$s</string>
+    <string name="wb_followers_count">Читатели: %1$s</string>
+    <string name="wb_friends_count">Друзья: %1$s</string>
+    <string name="wb_update_release">Отпустите для обновления</string>
+    <string name="wb_update_dragbelow">Перетащите вниз для обновления</string>
+    <string name="wb_updating">Обновление...</string>
+    <string name="wb_update_time">Время обновления: %1$s</string>
+    <string name="wb_update_time_hint">Время последнего обновления</string>
+    <string name="wb_load_more_hint">Загрузить еще</string>
+    <string name="wb_repost_count">Перепубликация: %1$s</string>
+    <string name="wb_comment_count">Комментарий: %1$s</string>
+    <string name="wb_switch_people">Люди</string>
+    <string name="wb_switch_time">Время</string>
+    <string name="wb_send">Отправить</string>
+    <string name="wb_as_comment">Комментарий при отправке.</string>
+    <string name="wb_source">От:%1$s</string>
+    <string name="wb_refresh">Обновить</string>
+    <string name="wb_weibo">Состояние</string>
+    <string name="wb_author">Автор</string>
+    <string name="wb_start_repost">Присоединение к списку перепубликаций, подождите...</string>
+    <string name="wb_repost_max_size">Максимальный размер: %1$s</string>
+    <string name="wb_net_unavailable">Сеть недоступна!</string>
+    <string name="wb_get_again">Получить еще раз</string>
+    <string name="wb_none">Нет</string>
+    <string name="wb_reply_hint">Введите ответ в поле ввода!</string>
+    <string name="wb_filter_image">Начало фильтрации длинных изображений!</string>
+    <string name="wb_session_unvalid">Учетная запись недействительна!</string>
+    <string name="sus_download_folder_noexist">Папка загрузки не существует!</string>
+    <string name="sus_download_exception">Обнаружено исключение при загрузке!</string>
+    <string name="sus_download_start">Начать загрузку!</string>
+    <string name="sus_check_update">Проверка обновлений. Подождите!</string>
+    <string name="sus_query_exception">Обнаружено исключение в запросе!</string>
+    <string name="sus_start_loading_after_time">Загрузка начнется через %1$s с</string>
+    <string name="sus_new_versionname">Новая версия:%1$s</string>
+    <string name="sus_versioncode">Код:%1$s</string>
+    <string name="sus_size">Размер:%1$s</string>
+    <string name="sus_description">Описание:%1$s</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Откройте WLAN!</string>
+    <string name="SUS_MSG_LATESTVERSION">Установлена последняя версия.</string>
+    <string name="SUS_MSG_NOTFOUND">Не найдено!</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Сеть недоступна!</string>
+    <string name="SUS_MSG_WARNING_PENDING">Ожидание обновления!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Загрузка завершена!</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Исключение обновления. Повторите попытку.</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Никогда не предлагать</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">Предлагать при обнаружении новой версии</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Недостаточный объем памяти для хранения!</string>
+    <string name="SUS_VERSIONUPDATE">Найти новую версию!</string>
+    <string name="SUS_UPDATEDESC">Описание:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Имя:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Размер:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">рекомендуется загрузка через WLAN!</string>
+    <string name="SUS_UPDATE">Обновить</string>
+    <string name="SUS_CANCEL">Отмена</string>
+    <string name="SUS_DOWNLOAD_TITLE">Загрузка SUS</string>
+    <string name="SUS_CANCELBUTTON">Отмена</string>
+    <string name="SUS_NOTIFICATION_TITLE">Подсказка</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Ожидание обновления...</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Тайм-аут сети, повтор попытки обновления...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">Продолжить</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Прервать</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Это диалоговое окно будет скрыто через</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">с.)</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Установите apk!</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">Установите apk:</string>
+    <string name="no_photo">Нет изображения</string>
+    <string name="sWbPraise">Мне нравится</string>
+    <string name="wb_get_photo_failed">Сбой получения фотографии!</string>
+    <string name="wb_write_photo_failed">Сбой сохранения фотографии!</string>
+    <string name="wb_is_updating_donot_anything">Обновление... Попробуйте загрузить дополнительные данные позже!</string>
+    <string name="wb_is_loadmore_donot_anything">Загрузка дополнительных данных... Попробуйте выполнить обновление позже!</string>
+    <string name="wb_is_friend">Отслеживаемые</string>
+    <string name="wb_is_not_friend">Неотслеживаемые</string>
+    <string name="wb_is_not_friend_to_create">Отслеживать</string>
+    <string name="wb_is_friend_bilateral">Взаимные друзья</string>
+    <string name="wb_edit_hint">Правка</string>
+    <string name="wb_friendship_option_failed">Сбой функции дружбы!</string>
+    <string name="wb_loading">Загрузка...</string>
+    <string name="wb_white_list">Черный список</string>
+    <string name="wb_month">Месяц: %1$s</string>
+    <string name="wb_change_background_title">Изменить фон</string>
+    <string name="wb_change_background_from_gallery_text">Мой альбом</string>
+    <string name="wb_change_background_from_photographer_text">Галерея фотографий</string>
+    <string name="wb_count_characters_wan">десять тысяч</string>
+    <string name="wb_count_characters_yi">сотни миллионов</string>
+    <string name="wb_count_characters_k">k</string>
+    <string name="wb_count_characters_m">m</string>
+    <string name="wb_count_characters_b">b</string>
+    <string name="wb_whitelist_search_hint">Поиск друзей</string>
+    <string name="wb_whitelist_shield_separator_title">Блокированные друзья (%1$s)</string>
+    <string name="wb_whitelist_all_separator_title">Все друзья (%1$s)</string>
+    <string name="wb_whitelist_shield_separator_title2">После блокировки этого друга все его/ее публикации Weibo не будут отображаться на вашей домашней странице Weibo.</string>
+
+    <string name="puzzle_template_text">Шаблон</string>
+    <string name="puzzle_title_activity_main">Галерея</string>
+    <string name="puzzle_gallery_camera_bucket_name">Камера</string>
+    <string name="puzzle_select_count_string">Выбрано %s (не более 9)</string>
+    <string name="puzzle_gif_select_count_string">Выбрано изображений: %s (макс. 15)</string>
+    <string name="puzzle_image_save_success">Сохранено</string>
+    <string name="puzzle_image_save_fail">Не сохранено</string>
+    <string name="puzzle_confirm">OK</string>
+    <string name="puzzle_cancel">Отмена</string>
+    <string name="puzzle_give_up_iamge">Отменить создание пазла?</string>
+    <string name="puzzle_have_select_nine_images">Выбрано 9 изображений</string>
+    <string name="puzzle_have_select_21_images">Выбрано 15 изображение</string>
+    <string name="puzzle_no_support_pic">Изображение с таким масштабом не поддерживается</string>
+    <string name="puzzle_select_three_iamges">Выбрано хотя бы 2 изображения</string>
+    <string name="puzzle_select_album">Выбор</string>
+    <string name="puzzle_select_one_image">Выберите одно изображение</string>
+    <string name="puzzle_start_mosaic">Пуск</string>
+    <string name="puzzle_start">Начать</string>
+    <string name="puzzle_back">Назад</string>
+    <string name="puzzle_main_page">Главная страница</string>
+    <string name="puzzle_save_and_share">ОК</string>
+    <string name="puzzle_save">Сохранить</string>
+    <string name="puzzle_freedom_moasic">Хаотично</string>
+    <string name="puzzle_template_moasic">Шаблон</string>
+    <string name="puzzle_joint_moasic">Лентой</string>
+    <string name="puzzle_slect_frame">Рамка</string>
+    <string name="puzzle_background">Фон</string>
+    <string name="puzzle_slect_background">Выберите фон</string>
+    <string name="puzzle_add_and_delete">Добавить/удалить</string>
+    <string name="puzzle_replace_image">Заменить изображение</string>
+    <string name="puzzle_turn_right">по часовой стрелке</string>
+    <string name="puzzle_turn_left">против часовой стрелки</string>
+    <string name="puzzle_left_right">горизонтально</string>
+    <string name="puzzle_up_down">Перевернутый</string>
+    <string name="puzzle_frame_list">Список рамок</string>
+    <string name="puzzle_image_have_selected">Выбрано</string>
+    <string name="puzzle_loding_data">Загрузка изображения...</string>
+    <string name="puzzle_sdcard_unmount">SD-карта уже удалена</string>
+    <string name="pscenter_login_text">Вход</string>
+    <string name="pscenter_setting">Параметры</string>
+    <string name="pscenter_magicgif_text">Magic GIF</string>
+    <string name="pscenter_gif_text">GIF</string>
+    <string name="pscenter_welcome_text">Делитесь каждым мгновением с друзьями...</string>
+    <string name="pscenter_sina_account_login_text">Вход в учетную запись Sina</string>
+    <string name="pscenter_puzzle_text">Пазл</string>
+    <string name="pscenter_wallpaper_text">Фоновый рисунок</string>
+    <string name="pscenter_setting_share_setting">Передать настройку</string>
+    <string name="pscenter_setting_gallery_setting">Настройка галереи</string>
+    <string name="pscenter_setting_pscenter_account_setting">Настройка учетной записи</string>
+    <string name="pscenter_setting_exit_pscenter_dialog_title">Выход из учетной записи</string>
+    <string name="pscenter_setting_image_prettify_save_as">Сохранение изображения после украшения как</string>
+    <string name="pscenter_setting_image_save_as_small">маленькое</string>
+    <string name="pscenter_setting_image_save_as_middle">среднее</string>
+    <string name="pscenter_setting_image_save_as_big">большое</string>
+    <string name="pscenter_setting_timepage_animation">Динамический предпросмотр галереи</string>
+    <string name="pscenter_setting_push_in_wifi_net">Передавать украшенное изображение только по WiFi</string>
+    <string name="pscenter_setting_other_setting">Другие параметры</string>
+    <string name="pscenter_setting_exit_pscenter_account">Выход из учетной записи</string>
+    <string name="pscenter_setting_no_follow_scgweibo">Не следить за суперкамерой и супергалереей Weibo</string>
+    <string name="pscenter_setting_toogle_on">Вкл.</string>
+    <string name="pscenter_setting_toogle_off">Выкл.</string>
+    <string name="pscenter_setting_imagefilter_title">Фильтр локальных изображений</string>
+    <string name="pscenter_setting_shareaccount_title">Управление общей учетной записью</string>
+    <string name="pscenter_setting_defaultpage_title">Метод просмотра</string>
+    <string name="pscenter_setting_local">На устройстве</string>
+    <string name="pscenter_setting_image_filter">Фильтр изображений</string>
+    <string name="pscenter_setting_local_hide_image">Изменить правила отображения альбома</string>
+    <string name="pscenter_setting_weibo">Weibo</string>
+    <string name="pscenter_setting_weibo_hide_image">Не показывать изображения Weibo</string>
+    <string name="pscenter_setting_effect_image_quality">Качество изображения с эффектом</string>
+    <string name="pscenter_setting_people_face">Чувствительность распознавания лиц</string>
+    <string name="pscenter_setting_about">О программе</string>
+    <string name="pscenter_setting_no_filter">Без фильтра</string>
+    <string name="pscenter_setting_below_150">Ширина или высота менее 150 пикселов</string>
+    <string name="pscenter_setting_below_320">Ширина или высота менее 320 пикселов</string>
+    <string name="pscenter_setting_below_640">Ширина или высота менее 640 пикселов</string>
+    <string name="pscenter_setting_default_page">Страница по умолчанию</string>
+    <string name="pscenter_setting_show_weibo">Показать Weibo</string>
+    <string name="pscenter_setting_page_by_landscape">Пейзаж</string>
+    <string name="pscenter_setting_page_by_people">Люди</string>
+    <string name="pscenter_setting_page_by_file">Папка</string>
+    <string name="pscenter_setting_page_by_time">Время</string>
+    <string name="pscenter_setting_page_by_video">Видео</string>
+    <string name="pscenter_setting_yes">Да</string>
+    <string name="pscenter_setting_no">Нет</string>
+    <string name="pscenter_userinfo_follows_count">Читатели</string>
+    <string name="pscenter_userinfo_friends_count">Друзья</string>
+    <string name="pscenter_userinfo_statuses_count">Статусы</string>
+    <string name="pscenter_login_loading">Загрузка…</string>
+    <string name="sharecenter_sms_text">Мультимедийное сообщение</string>
+    <string name="sharecenter_friendcircle_text">Круг друзей</string>
+    <string name="sharecenter_tomato_text">Передача баклажанов</string>
+
+    <string name="sharecenter_other_text">Другое</string>
+    <string name="sharecenter_image_hd">Исходное изображение</string>
+    <string name="sharecenter_image_small">Маленькое фото</string>
+    <string name="sharecenter_image_hd_share">Отправить исходное фото.</string>
+    <string name="sharecenter_image_small_share">Отправить маленькое фото</string>
+    <string name="sharecenter_cotent_repeat">Дублирующееся содержимое</string>
+    <string name="sharecenter_share">Передать</string>
+    <string name="sharecenter_send">Опубликовать</string>
+    <string name="sharecenter_at">В</string>
+    <string name="sharecenter_topic">\#</string>
+    <string name="sharecenter_user_location">Получение информации о местоположении...</string>
+    <string name="sharecenter_user_location_failed">Сбой получения местоположения</string>
+    <string name="sharecenter_other_share">Другая передача</string>
+    <string name="sharecenter_add_image">Добавить изображение</string>
+    <string name="sharecenter_sina_weibo">Sina Weibo</string>
+    <string name="sharecenter_tencent_weibo">Tencent Weibo</string>
+    <string name="sharecenter_at_search_hint">Укажите @ людей</string>
+    <string name="sharecenter_recently_at_people">Недавние @ люди</string>
+    <string name="sharecenter_attention_people">Люди, которых читают</string>
+    <string name="sharecenter_confirm">ОК</string>
+    <string name="sharecenter_no_recently_at_people">Нет недавних @ людей</string>
+    <string name="sharecenter_recently_input_record">Список информации истории</string>
+    <string name="sharecenter_network_error">Проверьте сеть</string>
+    <string name="sharecenter_select_share_site">Выберите сайт для обмена</string>
+    <string name="sharecenter_error_image">Плохое изображение</string>
+    <string name="sharecenter_no_record">Нет записи</string>
+    <string name="sharecenter_weibo_checked">Свяжите Sina Weibo или Tencent Weibo</string>
+    <string name="sharecenter_badpic">Плохое изображение!</string>
+    <string name="sharecenter_login_success">Аутентификация успешно выполнена</string>
+    <string name="sharecenter_loading_data">Загрузка данных...</string>
+    <string name="sharecenter_send_loading">Запуск... Подождите</string>
+    <string name="sharecenter_at_more_people">Длина сообщения Weibo превышает 140 символов!</string>
+    <string name="sharecenter_follow_failed">Сбой подписки на %s!</string>
+    <string name="sharecenter_add_user_count">Добавлено людей %s</string>
+    <string name="sharecenter_system_share">Передать</string>
+    <string name="sharecenter_exit_info">Вы действительно хотите вернуться? Измененное содержимое будет сохранено в окне черновика.</string>
+
+    <string name="sharecenter_userlocation_tips">Щелкните еще раз для включения позиционирования</string>
+    <string name="sharecenter_app_not_installed_msg">Не удалось найти это приложение</string>
+    <string name="sharecenter_close">Выкл.</string>
+    <string name="sharecenter_tencent_hd_image_tips">Обмен исходными изображениями не поддерживается в Tencent Weibo.</string>
+    <string name="photographer_sort_scenery">Пейзаж</string>
+    <string name="photographer_sort_city">Город</string>
+    <string name="photographer_sort_years">Годы</string>
+    <string name="photographer_sort_water">Вода</string>
+    <string name="photographer_sort_person">Люди</string>
+    <string name="photographer_sort_blackwhite">Черно-белое</string>
+    <string name="photographer_sort_pet">Домашние животные</string>
+    <string name="photographer_sort_love">Любовь</string>
+    <string name="photographer_sort_texture">Текстура</string>
+    <string name="photographer_sort_color">Цвет</string>
+    <string name="photographer_sort_red">Красный</string>
+    <string name="photographer_save_file_failed">Не удалось сохранить файл</string>
+    <string name="aboutpage_version">Версия: %s</string>
+    <string name="aboutpage_title">О программе</string>
+    <string name="aboutpage_version_update">Проверить новую версию</string>
+    <string name="aboutpage_weibo_text">Суперкамера Weibo@Lenovo</string>
+    <string name="aboutpage_weibo_site">Weibo.com/supercamera</string>
+    <string name="aboutpage_user_experience_qq">Группа по качеству QQ：512014999</string>
+    <string name="aboutpage_right_reserved">All right reserved</string>
+    <string name="aboutpage_copy_right">Copyright © 1998-2014 Lenovo</string>
+    <string name="aboutpage_company_name">Lenovo Group Limited</string>
+    <string name="sinaweibo_error_msg_20006">Слишком большое изображение</string>
+    <string name="sinaweibo_error_msg_20016">Слишком частая отправка</string>
+    <string name="sinaweibo_error_msg_20019">Повторяемая отсылка</string>
+    <string name="sinaweibo_error_msg_20020">Содержит рекламное сообщение</string>
+    <string name="sinaweibo_error_msg_20021">Содержит недопустимое содержимое</string>
+    <string name="sinaweibo_error_msg_20032">Отправка успешно выполнена. Возможно, задержка на сервере. Подождите 1–2 минуты</string>
+    <string name="beauty">Портрет</string>
+    <string name="optimization">Оптимизация</string>
+    <string name="physical_camera">Виртуальный</string>
+    <string name="photo_frame">Фоторамка</string>
+    <string name="decoration">Украшение</string>
+    <string name="bubble">Пузырь</string>
+    <string name="shear">Обрезка</string>
+    <string name="special_effect_confirm">ОК</string>
+    <string name="cancel_current_effect">Отмена</string>
+    <string name="apply_current_effect">Применить</string>
+    <string name="vivid_effect">Живые цвета</string>
+    <string name="bake_effect">Выпечка</string>
+    <string name="solarize_effect">Освещение</string>
+    <string name="pinfocus_effect">PinFocus</string>
+    <string name="defocus_effect">Расфокусировка</string>
+    <string name="flare_effect">Вспышка</string>
+    <string name="manga_effect">Манга</string>
+    <string name="used_as">Использовать</string>
+    <string name="slid_show">Слайд-шоу</string>
+    <string name="photo_details">Сведения</string>
+    <string name="edit_text">Правка</string>
+    <string name="cut_text">Обрезка</string>
+    <string name="rotate_text">Поворот</string>
+    <string name="share_text">Передать</string>
+    <string name="delete_text">Удалить</string>
+    <string name="special_effect_text">Эффекты</string>
+    <string name="beauty_text">Портрет</string>
+    <string name="photo_frame_text">Фоторамка</string>
+    <string name="decorate_text">Украшение</string>
+    <string name="bubble_text">Пузырь</string>
+    <string name="undo_text">Отменить</string>
+    <string name="redo_text">Повторить</string>
+    <string name="save_text">Сохранить</string>
+    <string name="nostalgy_antique">Старинный</string>
+    <string name="nostalgy_classic">Классика</string>
+    <string name="nostalgy_cold">Холодный</string>
+    <string name="nostalgy_warm">Теплый</string>
+    <string name="nostalgy_memory">Память</string>
+    <string name="colorfilter_red">Красный</string>
+    <string name="colorfilter_blue">Синий</string>
+    <string name="colorfilter_yellow">Желтый</string>
+    <string name="colorfilter_green">Зеленый</string>
+    <string name="colorfilter_pink">Розовый</string>
+    <string name="poster_white_birch">Белая береза</string>
+    <string name="poster_reality">Реальность</string>
+    <string name="poster_ink">Чернила</string>
+    <string name="poster_texture">Текстура</string>
+    <string name="poster_hale_hearty">Бодрый</string>
+    <string name="comic1">Комикс 1</string>
+    <string name="comic2">Комикс 2</string>
+    <string name="comic3">Комикс 3</string>
+    <string name="comic4">Комикс 4</string>
+    <string name="comic5">Комикс 5</string>
+    <string name="kaleidoscope1">Калейдоскоп 1</string>
+    <string name="kaleidoscope2">Калейдоскоп 2</string>
+    <string name="kaleidoscope3">Калейдоскоп 3</string>
+    <string name="kaleidoscope4">Калейдоскоп 4</string>
+    <string name="kaleidoscope5">Калейдоскоп 5</string>
+    <string name="glass1">Стекло 1</string>
+    <string name="glass2">Стекло 2</string>
+    <string name="glass3">Стекло 3</string>
+    <string name="glass4">Стекло 4</string>
+    <string name="glass5">Стекло 5</string>
+    <string name="pencil1">Карандаш 1</string>
+    <string name="pencil2">Карандаш 2</string>
+    <string name="pencil3">Карандаш 3</string>
+    <string name="pencil4">Карандаш 4</string>
+    <string name="pencil5">Карандаш 5</string>
+    <string name="pencil6">Карандаш 6</string>
+    <string name="negative_red">Красный негатив</string>
+    <string name="negative_green">Зеленый негатив</string>
+    <string name="negative_blue">Синий негатив</string>
+    <string name="negative_all">Полный негатив</string>
+    <string name="seekbar_start_value">0%</string>
+    <string name="seekbar_end_value">100%</string>
+    <string name="special_effect_pic_error">Не удается загрузить изображение.</string>
+    <string name="special_effect_ori_image_deleted">Исходные фото были удалены</string>
+    <string name="original_text">Исходное изображение</string>
+    <string name="gallery_spaceislow">Недостаточно места на SD карте, удалите несколько фотографий или других файлов</string>
+    <string name="image_is_small">Фотография слишком мала для применения специальных эффектов.</string>
+    <string name="auto_update_camera_update">Обновление камеры</string>
+    <string name="auto_update_gallery_update">Обновление галереи</string>
+    <string name="auto_update_gallery_date">Дата галереи:</string>
+    <string name="carrieroperator_demanded_explain">Объем трафика будет большим. Оплата за трафик основывается на вашем стандартном плане обслуживания. Для получения более подробной информации обратитесь в ваш сервис-центр. Рекомендуется обновлять программное обеспечение с помощью бесплатной среды WLAN.</string>
+    <string name="carrieroperator_demander_ok">Продолжить</string>
+    <string name="nothing" />
+    <string name="panorama_text">ПАНОР.</string>
+    <string name="gif_error">ошибка декодирования!</string>
+    <string name="sPanoShowAll">Показать все</string>
+    <string name="sPanoPics">Панорамная фотография</string>
+    <string name="sAllPics">Все пейзажи</string>
+    <string name="sCountTip">Фотографии</string>
+    <string name="speechpic_err_tip">Ошибка аудиофайла.</string>
+
+    <string name="gallery_about_other_version">Другая информация об авторских правах</string>
+    <string name="gallery_about_other_version_new">Другая информация об авторских правах</string>
+    <string name="gallery_about_can_update_version">Обновляемая версия:%s</string>
+    <string name="gallery_about_version_big">V%s</string>
+    <string name="gender_effect_man">Мужчина</string>
+    <string name="gender_effect_woman">Женщина</string>
+    <string name="gender_effect_other">Любое лицо</string>
+    <string name="face_effect_judge_gendering">Определяется пол...</string>
+    <string name="face_effect_find_faceing">Распознается лицо...</string>
+    <string name="face_effect_do_effecting">Украшается лицо...</string>
+    <string name="face_effect_not_find_face">Не удается найти лицо!</string>
+    <string name="face_effect_manyface_othereffect">Несколько лиц. Будет использован обычный эффект украшения.</string>
+    <string name="face_effect_not_have_face">На изображении нет лица!</string>
+    <string name="face_effect_no_gender_libs">Нет библиотеки распознавания пола. Невозможно определить пол!</string>
+    <string name="face_effect_finish">Портрет улучшен автоматически. Выполните ручную подстройку.</string>
+    <string name="face_effect_gender_man">Обнаружен мужчина, фотография будет украшена соответствующим образом.</string>
+    <string name="face_effect_gender_woman">Обнаружена женщина, фотография будет украшена соответствующим образом.</string>
+    <string name="face_effect_gender_other">Система не распознает украшение по умолчанию!</string>
+    <string name="face_effect_no_gender_libs_other">Нет библиотеки распознавания пола. Будет использован обычный эффект украшения.</string>
+    <string name="face_effect_many_face">Слишком много фотографий. Будет использован обычный эффект украшения.</string>
+    <string name="face_effect_creat_nail">Выполняется создание эскизов.</string>
+    <string name="face_effect_findface_judge_gender">Определение лиц и пола.</string>
+    <string name="face_effect_no_gender_libs_findface">Нет библиотеки распознавания пола. Найдите лицо...</string>
+    <string name="face_effect_before">До</string>
+    <string name="face_effect_after">После</string>
+    <string name="face_effect_do_white">Белый</string>
+    <string name="face_effect_do_small">Тонкий</string>
+    <string name="face_effect_do_vivi">Зрачок</string>
+    <string name="face_effect_do_skin_soft">Разглаживание кожи</string>
+    <string name="face_effect_do_eye">Глаз</string>
+    <string name="shared_center_successed">Успешная передача</string>
+    <string name="shared_center_failed">Сбой передачи</string>
+    <string name="shared_center_shared_result">Результаты обмена</string>
+    <string name="shared_center_ok">OK</string>
+    <string name="shared_center_cancle">Отмена</string>
+    <string name="shared_center_retry">Повторить</string>
+    <string name="face_effect_one_persion_cancle">Отмена</string>
+    <string name="face_effect_one_persion_save">OK</string>
+    <string name="face_effect_cancle_all_btn">Отмена</string>
+    <string name="face_effect_save___all_btn">Сохранить</string>
+    <string name="face_effect_one_persion_reset">Сброс</string>
+    <string name="face_effect_tile_auto">Портрет</string>
+    <string name="face_effect_title_manual">Украшение вручную</string>
+    <string name="face_effect_select_what_percent_value">%d</string>
+    <string name="face_effect_select_what_percent_value_vivi">%d</string>
+    <string name="face_effect_select_what_percent_value_small">%d</string>
+    <string name="face_effect_select_what_percent_value_white">%d</string>
+    <string name="face_effect_select_what_percent_value_largeeye">%d</string>
+    <string name="error_lega_version_title">Ошибка версии LeGa</string>
+    <string name="error_lega_version_message">Версия LeGa не совпадает</string>
+    <string name="error_lega_curr_version">Текущая версия:</string>
+    <string name="error_lega_need_version">Требуется версия:</string>
+    <string name="error_legaji_version_title">Ошибка версии LeGaJI</string>
+    <string name="error_legaji_version_message">Версия LeGaJI не совпадает</string>
+    <string name="photopage_first_page">Уже первый</string>
+    <string name="photopage_last_page">Уже последний</string>
+    <string name="about_powered_by">"Powered by:
+"</string>
+    <string name="about_lega_version">"
+LeGA %s"</string>
+    <string name="about_lescf_version">"
+LeSCF %s"</string>
+    <string name="about_leeffect_version">LeEffect 1.1.2</string>
+    <string name="about_copyright_scgteam">"Copyright © 2012-2014, Lenovo SCG Team
+"</string>
+    <string name="about_open_lib">"Special Thanks:
+"</string>
+    <string name="about_opencv">"Copyright © 2000-2008, Intel Corporation, all rights reserved. 
+
+Copyright © 2008-2011, Willow Garage Inc., all rights reserved. 
+
+Third party copyright are property of their respective owners.
+"</string>
+    <string name="about_libjpeg">"Copyright © 2009, Pierre Ossman &lt;ossman@cendio.se> for Cendio AB
+"</string>
+    <string name="about_neven_version">"Copyright © 2011 Google Inc. All rights reserved.
+"</string>
+    <string name="about_skia_version">"Copyright © 2011 Google Inc. All rights reserved.
+"</string>
+    <string name="about_button">OK</string>
+    <string name="about_devider">------------------</string>
+    <string name="opencv_2_4_3">"
+opencv-2.4.3"</string>
+    <string name="libjpeg_turbo_1_2_1">libjpeg-turbo-1.2.1</string>
+    <string name="neven_name">neven</string>
+    <string name="skia_name">skia</string>
+    <string name="null_r_n">"
+"</string>
+    <string name="gif_lib_4_1_6">giflib 4.1.6</string>
+    <string name="gif_lib_copright">"Corpright © 1997 Eric S. Raymond
+"</string>
+
+    <string name="face_pretty_course_message_port">"Щелкните здесь, чтобы 
+сделать взгляд более выразительным!
+"</string>
+    <string name="face_pretty_iknow">Я знаю</string>
+    <string name="face_pretty_effect_preview">Просмотр эффекта</string>
+    <string name="face_pretty_manual_change">Настройка качества вручную</string>
+    <string name="face_pretty_click_face_rect">Для ручной настройки нажмите в поле распознавания</string>
+    <string name="face_pretty_next">Далее</string>
+    <string name="face_pretty_auto">Рекомендуемые автоэффекты</string>
+    <string name="face_pretty_anothereccect">Попробуйте другой эффект</string>
+    <string name="face_pretty_show_before_after">Проведите в круге для смены контраста</string>
+    <string name="weibo_wdy_all_comment">Все комментарии</string>
+
+
+    <string name="sWbDraft">Черновики</string>
+    <string name="tilt_range">Диапазон значений</string>
+    <string name="tilt_scale">Габариты</string>
+    <string name="tilt_circle_str">Размытие окружностей</string>
+    <string name="tilt_line_str">Размытие линий</string>
+    <string name="box_control_menu_settings">Установить</string>
+    <string name="box_control_ok">ОК</string>
+    <string name="box_control_cancel">Отмена</string>
+    <string name="box_control_request_single">Отдельный запрос</string>
+    <string name="box_control_request_multi">Несколько запросов</string>
+    <string name="box_control_title">Альбом</string>
+    <string name="box_control_select_empty">Изображения не выбраны.</string>
+    <string name="box_control_total_count">Подтвердить %s/9</string>
+    <string name="box_control_select_nine_images">Выбрано 9 изображений</string>
+    <string name="face_effect_select_what_percent_value_value">%75</string>
+    <string name="face_effect_select_what_percent_value_vivi_value">%75</string>
+    <string name="face_effect_select_what_percent_value_small_value">%33</string>
+    <string name="face_effect_select_what_percent_value_white_value">%42</string>
+    <string name="face_effect_select_what_percent_value_largeeye_value">%42</string>
+    <string name="weibo_wdy_comment_text">Оставьте свои комментарии</string>
+    <string name="weibo_wdy_repost_at_one_time">Перепубликация в то же время</string>
+    <string name="weibo_wdy_repost_text">Оставьте причины перепубликации</string>
+    <string name="weibo_wdy_comment_at_one_time">Комментарии в то же время</string>
+    <string name="weibo_wdy_action_reply">Ответить</string>
+    <string name="weibo_wdy_save_file_success">Сохранить в WeiboGallery</string>
+    <string name="weibo_wdy_save_file_file_is_have">Файл уже существует. Нет необходимости в пересохранении.</string>
+    <string name="weibo_wdy_save_file_failed">Не удалось сохранить файл</string>
+    <string name="pscenter_setting_photoview_oreition">Просмотр по одной фотографии и автоповорот</string>
+    <string name="sharecenter_label">Центр передачи</string>
+    <string name="sharecenter_user_location_closed">Не отправлять информацию о местоположении</string>
+    <string name="balloon_effect">Воздушный шар</string>
+    <string name="sMoreComments">Другие комментарии...</string>
+    <string name="gallery_about_new_feature">" Новые функции >"</string>
+    <string name="sNewComments">Новые комментарии:</string>
+    <string name="sAllComment">Просмотр всех комментариев</string>
+    <string name="sDelFail">Не удалось удалить</string>
+    <string name="sReloadHint">Ошибка загрузки. Коснитесь для повторной загрузки.</string>
+    <string name="sNoMoreNewWb">Нет новых Weibo</string>
+    <string name="sDraftHint">Черновик Weibo</string>
+    <string name="sCanNotSwitchGroup">Обновление. Не переключайте группу.</string>
+    <string name="sDelDraftSingle">Удалить этот черновик</string>
+    <string name="sDelDraftAll">Очистить окно черновика</string>
+    <string name="sLoginHint">Сначала войдите в Weibo</string>
+    <string name="update_gallery_cover_photo">Галерея фотографий</string>
+    <string name="photo_grapher_name_title">Фотограф</string>
+    <string name="photo_grapher_worker_set_as_background">Установить как фон</string>
+    <string name="photo_grapher_error">Ошибка получения. Проверьте сеть, обновите и повторите попытку.</string>
+    <string name="sg_goldbox_camera">Суперкамера</string>
+    <string name="sg_goldbox_faceeffect">Лицевые эффекты</string>
+    <string name="sg_goldbox_puzzle">Пазл</string>
+    <string name="sg_goldbox_materialcenter">Центр материалов</string>
+    <string name="sg_goldbox_gif">GIF</string>
+    <string name="sg_goldbox_magicgif">Магический GIF</string>
+
+    <string name="weibo_login_text">Вход</string>
+    <string name="just_now">Сейчас</string>
+    <string name="page1_text2">"Она обновила свои фотографии.
+Все равно она красивая."</string>
+    <string name="yearsago1">8</string>
+    <string name="yearsago2">лет назад</string>
+    <string name="yearsago3">...</string>
+    <string name="third_fourth_page_text">"В своем трепещущем белом платье
+она бродила по полю цветов."</string>
+    <string name="sixth_seventh_page_text">"Это были мои самые
+дорогие сердцу воспоминания."</string>
+    <string name="to_be_continue">Продолжение следует</string>
+    <string name="start_triangle">Начать сказочную историю</string>
+    <string name="setting_filter_confirm">ОК</string>
+    <string name="setting_filter_cancel">Отмена</string>
+    <string name="setting_filter_title">Отображение</string>
+    <string name="setting_filter_title_tips">Нажмите на альбоме для скрытия/отображения</string>
+    <string name="setting_filter_middle_text">Правила отображения</string>
+    <string name="setting_filter_visiable_album">Видимые</string>
+    <string name="setting_filter_invisiable_album">Скрытые</string>
+    <string name="setting_filter_default_albums">Отображаются фотографии из %d альбомов</string>
+    <string name="setting_filter_no_default_albums">Нет фотографий для отображения</string>
+    <string name="setting_filter_spec_word">Отображать или скрывать</string>
+    <string name="setting_album_spec_word">Выберите удобный для вас метод просмотра «Альбом» или «Плитки»</string>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <string name="lockscreen_wallpaper">Фоновый рисунок для блокировки экрана</string>
+    <string name="desk_wallpaper">Фоновый рисунок рабочего стола</string>
+    <string name="action_settings">Параметры</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="download_btn">Загрузить</string>
+    <string name="downloaded_btn">Загружено</string>
+    <string name="sucai">Существующий</string>
+    <string name="sucai_online">Сеть</string>
+    <string name="sNoContent">Нет содержимого. Выполните загрузку.</string>
+    <string name="isDel">Удалить выбранное содержимое?</string>
+    <string name="warning_material">Рекомендации</string>
+    <string name="warning_material_text">Удалить выбранный материал?</string>
+    <string name="material_login_worning">Рекомендации</string>
+    <string name="material_login_text">Слабый сигнал сети. Установить сеть?</string>
+    <string name="material_login_ok">ОК</string>
+    <string name="material_login_cancel">Отмена</string>
+</resources>

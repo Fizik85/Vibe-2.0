@@ -110,12 +110,8 @@
         <item>SIM-карта</item>
     </string-array>
     <string-array name="pref_tablet_sms_save_location_choices">
-        <item>Устройство</item>
-        <item>SIM-карта</item>
-    </string-array>
-    <string-array name="pref_tablet_sms_save_location_values">
         <item>Телефон</item>
-        <item>SIM</item>
+        <item>SIM-карта</item>
     </string-array>
     <string-array name="pref_sms_input_mode_choice">
         <item>Алфавит GSM</item>
@@ -379,20 +375,6 @@
         <item>200</item>
         <item>300</item>
     </string-array>
-    <string-array name="pref_key_mms_priority_values">
-        <item>Высокий</item>
-        <item>Нормальный</item>
-        <item>Низкий</item>
-    </string-array>
-    <string-array name="pref_sms_input_mode_values">
-        <item>GSM алфавит</item>
-        <item>Unicode</item>
-        <item>Автоматически</item>
-    </string-array>
-    <string-array name="pref_sms_save_location_values">
-        <item>Телефон</item>
-        <item>SIM</item>
-    </string-array>
     <string-array name="sound_effect_list">
         <item>По умолчанию</item>
         <item>Пианино</item>
@@ -400,6 +382,11 @@
     <string-array name="photo_display_settings_styles">
         <item>Первая буква</item>
         <item>Последняя буква</item>
+    </string-array>
+    <string-array name="group_chat_notiy_type">
+        <item>Принять и напоминать</item>
+        <item>Принять и не напоминать</item>
+        <item>Отклонить</item>
     </string-array>
     <string-array name="callog_display_style_value">
         <item>По дате</item>
@@ -498,14 +485,6 @@
         <item>тихий</item>
         <item>никогда</item>
     </string-array>
-    <string-array name="callog_click_action_value">
-        <item>Позвонить</item>
-        <item>Открыть журнал вызова</item>
-    </string-array>
-    <string-array name="number_match_style_value">
-        <item>11 цифр</item>
-        <item>7 цифр</item>
-    </string-array>
     <string-array name="language_list_values">
         <item>Все языки</item>
         <item>Немецкий</item>
@@ -529,5 +508,13 @@
         <item>Арабский</item>
         <item>Русский</item>
         <item>Исландский</item>
+    </string-array>
+    <string-array name="callog_click_action_value">
+        <item>Позвонить</item>
+        <item>Открыть журнал вызова</item>
+    </string-array>
+    <string-array name="number_match_style_value">
+        <item>11 цифр</item>
+        <item>7 цифр</item>
     </string-array>
 </resources>

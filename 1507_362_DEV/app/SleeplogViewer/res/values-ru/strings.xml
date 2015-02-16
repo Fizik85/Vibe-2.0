@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Привет Мир, SleeplogViewerActivity!</string>
+    <string name="app_name">SleeplogViewer</string>
+    <string name="powerstatus">PowerStatus</string>
+    <string name="power_status">PowerStatus Output</string>
+    <string name="powerstatus_hello">Hello</string>
+    <string name="powerstatus_show">show powerstatus information</string>
+    <string name="powerstatus_top_processes">show top processes</string>
+    <string name="powerstatus_top_threads">show top threads</string>
+    <string name="powerstatus_test_summary">display powermanagerment info</string>
+    <string name="powerstatus_test">powerstatus test</string>
+    <string name="LogFileBrowser">sleeplog</string>
+    <string name="sleeplog">sleeplog:</string>
+    <string name="statistics">Просмотр статистики</string>
+    <string name="sleepTimes">Количество Засыпаний:</string>
+    <string name="sleepTime">Время Сна:</string>
+    <string name="awakeTime">Время Активизации:</string>
+    <string name="selectlog">Выбрать sleeplog</string>
+    <string name="logformat_err">Неверный формат sleeplog</string>
+    <string name="menu_previous">Предыдущий</string>
+    <string name="menu_next">Следующий</string>
+    <string name="firstOne">Первый</string>
+    <string name="lastOne">Последний</string>
+    <string name="mydialog_title">Ожидайте ...</string>
+    <string name="mydialog_body">Операция выполняется...</string>
+    <string name="Open">Открыть</string>
+    <string name="Delete">Удалить</string>
+</resources>

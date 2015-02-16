@@ -1,0 +1,1677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pull_to_refresh_pull_label">Потяните для обновления…</string>
+    <string name="pull_to_refresh_release_label">Отпустите для обновления…</string>
+    <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
+    <string name="app_name">Темы</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+    <string name="com_lenovo_lsf_lenovouser_app_name">Аккаунт Lenovo</string>
+    <string name="com_lenovo_lsf_lenovouser_btn_ok">ОК</string>
+    <string name="com_lenovo_lsf_lenovouser_btn_cancel">Отмена</string>
+    <string name="com_lenovo_lsf_lenovouser_btn_retry">Повтор</string>
+    <string name="com_lenovo_lsf_lenovouser_login_progess">Вход. Подождите</string>
+    <string name="com_lenovo_lsf_lenovouser_login_failure">Сбой входа учетной записи</string>
+    <string name="com_lenovo_lsf_lenovouser_login_networkfailure">Ошибка подключения к сети. Проверьте сеть.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendst">Отправлено сообщ. активации</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resends">На вашу эл. почту отправлено новое сообщение активации. Проверьте почту.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_resendst1">SMS активации отправлено на телефон:</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error1">Пользователь не существует</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error2">Указан неправильный пароль</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error3">Сначала активируйте свою уч. запись</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error4">Введите пароль</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error5">Войдите в уч. запись</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error6">Вы пять раз неправильно указали данные для входа, и ваша учетная запись была временно заблокирована. Повторите попытку через 10 мин.</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error7">Неверный формат имени пользователя</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error8">Запрещенная учетная запись</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error10">Неверный параметр запроса</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error11">Недопустимый Appkey</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error12">Недопустимый сторонний маркер доступа</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error13">Недопустимая область</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error20">Неизвестная ошибка</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error21">Ошибка подключения к сети</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error22">Регистрация по нажатию клавиши</string>
+    <string name="com_lenovo_lsf_lenovouser_login_error23">Сервер возвращает сообщение об ошибке</string>
+    <string name="com_lenovo_lsf_lenovouser_userinfo_logouting">Выход. Подождите</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error1">Неверный формат имени пользователя</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error3">Введите пароль в правильном формате</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error5">Ошибка кода проверки</string>
+    <string name="com_lenovo_lsf_lenovouser_register_error6">Не удалось получить код проверки</string>
+    <string name="com_lenovo_lsf_lenovouser_register_sendfailure">Ошибка подключения к сети. Проверьте сеть.</string>
+    <string name="com_lenovo_lsf_lenovouser_userinfo_registerlegalt">Условия</string>
+    <string name="com_lenovo_lsf_lenovouser_onekey_error_titlt">Сбой входа</string>
+    <string name="com_lenovo_lsf_lenovouser_onekey_imeiinvalid">Неверный номер IMEI</string>
+    <string name="com_lenovo_lsf_psauthen_text20">Нельзя войти под двумя учетными записями Lenovo одновременно</string>
+    <string name="com_lenovo_lsf_psauthen_error1">Ошибка подключения к сети. Повторите</string>
+    <string name="com_lenovo_lsf_psauthen_error2">Не удалось получить статус учетной записи</string>
+    <string name="com_lenovo_lsf_psauthen_error3">Пользователь не существует</string>
+    <string name="com_lenovo_lsf_psauthen_error4">Неправильный пароль</string>
+    <string name="com_lenovo_lsf_psauthen_error5">Сначала активируйте свою уч. запись</string>
+    <string name="com_lenovo_lsf_psauthen_error6">Уч. запись запрещена</string>
+    <string name="com_lenovo_lsf_psauthen_error7">Уч. запись заблокирована</string>
+    <string name="com_lenovo_lsf_psauthen_error8">Ошибка подключения к сети. Повторите</string>
+    <string name="com_lenovo_lsf_psauthen_error9">Пользователь отменил</string>
+    <string name="com_lenovo_lsf_psauthen_error10">Вы не можете регистрировать несколько уч. записей Lenovo.</string>
+    <string name="com_lenovo_lsf_ui_name">Lenovo ID</string>
+    <string name="com_lenovo_lsf_login_string_registration">Регистрация</string>
+    <string name="com_lenovo_lsf_login_string_forgetpwd">Получить пароль</string>
+    <string name="com_lenovo_lsf_login_string_sendrequest">Отправка запроса на вход...</string>
+    <string name="com_lenovo_lsf_register_string_account">Учетная запись</string>
+    <string name="com_lenovo_lsf_register_string_location_selection">Выбрать страну/регион?</string>
+    <string name="com_lenovo_lsf_register_string_verifycode">Код проверки</string>
+    <string name="com_lenovo_lsf_register_string_accounthint">Номер телефона/адрес эл. почты</string>
+    <string name="com_lenovo_lsf_change_string_changepassword">Изменить пароль</string>
+    <string name="com_lenovo_lsf_change_string_oldpassword">Исходный пароль</string>
+    <string name="com_lenovo_lsf_change_string_newpassword">Новый пароль</string>
+    <string name="com_lenovo_lsf_change_string_confirm">Подтвердить</string>
+    <string name="com_lenovo_lsf_change_string_setpassword">Задать пароль</string>
+    <string name="com_lenovo_lsf_myaccount_string_myaccount">Моя уч. запись:</string>
+    <string name="com_lenovo_lsf_myaccount_string_logout">Выйти из уч. записи</string>
+    <string name="com_lenovo_lsf_forgetsuccess_string_login">Вход</string>
+    <string name="com_lenovo_lsf_forgetfail_string_empty_verify_code">Введите код проверки</string>
+    <string name="com_lenovo_lsf_registersuccess_string_resend">Отправить повторно</string>
+    <string name="com_lenovo_lsf_register_time_out">Тайм-аут входа. Повторите</string>
+    <string name="com_lenovo_lsf_username_not_null">Войдите в уч. запись</string>
+    <string name="com_lenovo_lsf_password_not_null">Введите пароль</string>
+    <string name="com_lenovo_lsf_account_settings">Настройки учетной записи</string>
+    <string name="com_lenovo_lsf_login_password_error">Неправильный пароль. Если вы забыли пароль, нажмите Получить пароль.</string>
+    <string name="com_lenovo_lsf_binding_string_account">Уч. запись:</string>
+    <string name="com_lenovo_lsf_binding_another_account"><u>Привязать другую уч. запись</u></string>
+    <string name="com_lenovo_lsf_account_binding_welcome">Добро пожаловать!</string>
+    <string name="com_lenovo_lsf_account_binding_description">Привяжите уч. запись %1$s со следующим Lenovo ID</string>
+    <string name="com_lenovo_lsf_account_binding_exists_account_description">Адрес эл. почты, заданный в уч. записи %1$s, связан с зарегистрированной уч. записи Lenovo. Введите пароль для их привязки.</string>
+    <string name="com_lenovo_lsf_account_binding_input_description">Зарегистрируйтесь или введите существующий Lenovo ID для привязки</string>
+    <string name="com_lenovo_lsf_account_binding_progress_description">Выполняется вход...</string>
+    <string name="com_lenovo_lsf_account_link_third_accout_timeout">Тайм-аут подключения к сторонней учетной записи. Повторите.</string>
+    <string name="com_lenovo_lsf_account_binding_error">Ошибка привязки сторонней учетной записи. Повторите.</string>
+    <string name="com_lenovo_lsf_account_has_binding_antheor">Lenovo ID привязан к другой сторонней учетной записи.</string>
+    <string name="com_lenovo_lsf_thirdaccount_has_binding_antheor_lenovoid">Сторонняя учетная запись привязана к другому Lenovo ID.</string>
+    <string name="com_lenovo_lsf_update">Обновить</string>
+    <string name="com_lenovo_lsf_about">О программе</string>
+    <string name="com_lenovo_lsf_normal_login">Вход учетной записи</string>
+    <string name="com_lenovo_lsf_app_web_url">http://passport.lenovo.com</string>
+    <string name="com_lenovo_lsf_app_copyright">Copyright 2014 Lenovo All Rights Reserved</string>
+    <string name="com_lenovo_lsf_app_copyright_bottom">Lenovo All rights reserved</string>
+    <string name="com_lenovo_lsf_webview_refresh">Обновить</string>
+    <string name="com_lenovo_lsf_binding_account_phone_num">Номер телефона</string>
+    <string name="com_lenovo_lsf_binding_account_name_sina">Weibo</string>
+    <string name="com_lenovo_lsf_binding_account_name_qq">QQ</string>
+    <string name="com_lenovo_lsf_onekey_airplanemode">Эта функция недоступна в режиме В самолете. Сначала отключите режим В самолете.</string>
+    <string name="com_lenovo_lsf_tgt_error">Истек срок действия текущей уч. записи. Войдите повторно.</string>
+    <string name="com_lenovo_lsf_sim_error">SIM-карта текущего телефона недоступна.</string>
+    <string name="com_lenovo_lsf_auto_oneKeyLogin_times_more_than_limit">Количество попыток входа за сегодня превышает ограничение. Выполните это действие завтра.</string>
+    <string name="com_lenovo_lsf_auto_oneKeyLogin_application_no_permissions">Ваши приложения не имеют привилегии на выполнение этой операции.</string>
+    <string name="com_lenovo_lsf_sso_sina_login_progress">Вход в Weibo. Подождите.</string>
+    <string name="com_lenovo_lsf_sso_sina_auth_cancel">Отмена аутентификации</string>
+    <string name="com_lenovo_lsf_sso_sina_auth_error">Сбой аутентификации:</string>
+    <string name="com_lenovo_lsf_get_appkey_progress">Получение стороннего ключа программы</string>
+    <string name="com_lenovo_lsf_get_appkey_error">Сбой получения стороннего ключа программы</string>
+    <string name="com_lenovo_lsf_third_token_time_out">Срок маркера истек</string>
+    <string name="com_lenovo_lsf_choose_location_title" />
+    <string name="com_lenovo_lsf_bind_third">Привязка учетную запись социальной сети</string>
+    <string name="com_lenovo_lsf_webview_error_text1">Нет подключения к Интернету</string>
+    <string name="com_lenovo_lsf_webview_error_text2">Проверьте подключение к сети</string>
+    <string name="com_lenovo_lsf_webview_error_text3">Повтор</string>
+    <string name="com_lenovo_lsf_webview_error_text4">Обновить</string>
+    <string name="com_lenovo_lsf_sina_login">Учетная запись Sina Weibo</string>
+    <string name="com_lenovo_lsf_qq_login">Учетная запись QQ</string>
+    <string name="com_lenovo_lsf_account_manager">Управление уч. записью</string>
+    <string name="com_lenovo_lsf_notification">Вы успешно зарегистрировали Lenovo ID. Задать пароль для обеспечения безопасности уч. записи?</string>
+    <string name="lenovouser_quick_welcome">Добро пожаловать!</string>
+    <string name="com_lenovo_lsf_regist_read_access">"Регистрация означает, что вы приняли  "</string>
+    <string name="com_lenovo_lsf_tip_input_phone">Введите номер телефона, который необходимо зарегистрировать</string>
+    <string name="com_lenovo_lsf_commit_login">Отправить и выполнить вход</string>
+    <string name="com_lenovo_lsf_string_next_step">Далее</string>
+    <string name="com_lenovo_lsf_string_setting_new_password_is">Задайте новый пароль:</string>
+    <string name="com_lenovo_lsf_string_password_hint_text">4-20 символов</string>
+    <string name="com_lenovo_lsf_string_please_input_lost_password_account">Введите уч. запись, которую следует получить</string>
+    <string name="com_lenovo_lsf_string_account_hint">Номер телефона или адрес эл. почты</string>
+    <string name="com_lenovo_lsf_string_msg_of_captcha_send_to_your_phone">На ваш телефон было отправлено SMS с кодом проверки:</string>
+    <string name="com_lenovo_lsf_string_captcha_tips">Код проверки:</string>
+    <string name="com_lenovo_lsf_string_send_again">Отправить повторно</string>
+    <string name="com_lenovo_lsf_string_findpwd_new_pwd_tips">Новый пароль:</string>
+    <string name="com_lenovo_lsf_string_ok_and_login">Подтвердить и выполнить вход</string>
+    <string name="com_lenovo_lsf_string_set_safemail">Задать запасной адрес эл. почты</string>
+    <string name="com_lenovo_lsf_string_set_safemail_description">Рекомендуется задать запасной адрес эл. почты, чтобы вы смогли быстро восстановить забытый пароль, используя запасной адрес эл. почты</string>
+    <string name="com_lenovo_lsf_string_set_safemail_tips">Запасной адрес эл. почты:</string>
+    <string name="com_lenovo_lsf_string_set_safemail_input_mail_hint">Часто используемый адрес эл. почты</string>
+    <string name="com_lenovo_lsf_string_send_verify_email">Отправить проверочное сообщение эл. почты</string>
+    <string name="com_lenovo_lsf_string_unset_safemail">Удалить параметры</string>
+    <string name="com_lenovo_lsf_string_has_already_set_safemail">Задан запасной адрес эл. почты</string>
+    <string name="com_lenovo_lsf_string_captcha_has_send_to_your_mailbox">Код проверки отправлен на ваш адрес эл. почты:</string>
+    <string name="com_lenovo_lsf_string_set_safemail_ok">Завершить</string>
+    <string name="com_lenovo_lsf_string_my_account">Моя уч. запись</string>
+    <string name="com_lenovo_lsf_string_my_account_with_title">Моя уч. запись:</string>
+    <string name="com_lenovo_lsft_string_my_account_unset">Пароль еще не был задан.</string>
+    <string name="com_lenovo_lsf_string_change_personal_information">Изменить личную информацию</string>
+    <string name="com_lenovo_lsf_string_change_account">Переместить уч. запись</string>
+    <string name="com_lenovo_lsf_string_change_account_function_description">Эта функция приведет к перемещению всех данных и информации из предыдущей уч. записи в новую уч. запись</string>
+    <string name="com_lenovo_lsf_sso_qq_login_progress">Вход в QQ. Подождите.</string>
+    <string name="com_lenovo_lsf_sso_qq_auth_cancel">Отмена аутентификации</string>
+    <string name="com_lenovo_lsf_sso_qq_auth_error">Сбой аутентификации:</string>
+    <string name="com_lenovo_lsf_string_captcha_has_sent_to_your_new_phone">Код проверки был отправлен на ваш новый телефон:</string>
+    <string name="com_lenovo_lsf_string_change_account_last_step_function_description">После успешного изменения уч. записи старая учетная запись будет закрыта. Выполните вход с использованием новой учетной записи без изменения пароля.</string>
+    <string name="com_lenovo_lsf_string_change_account_last_step_please_input_password">Введите пароль для входа в целях проверки безопасности</string>
+    <string name="com_lenovo_lsf_string_account_setting_account">Учетная запись</string>
+    <string name="com_lenovo_lsf_string_associated_phone_number">Привязать номер телефона</string>
+    <string name="com_lenovo_lsf_string_associated_phone_function_description">Быстро, безопасно и надежно</string>
+    <string name="com_lenovo_lsf_string_bind_account">Привязать уч. запись</string>
+    <string name="com_lenovo_lsf_string_sina_webo">Sina Weibo</string>
+    <string name="com_lenovo_lsf_string_qq">Tencent QQ</string>
+    <string name="com_lenovo_lsf_string_account_setting_other">Другие</string>
+    <string name="com_lenovo_lsf_string_account_setting_about">О программе</string>
+    <string name="com_lenovo_lsf_string_associated_phone_description">Рекомендуется использовать ваш номер телефона в качестве уч. записи, чтобы вы смогли быстро восстановить забытый пароль с помощью привязанного номера телефона</string>
+    <string name="com_lenovo_lsf_string_associated_phone_tips">Мой номер телефона:</string>
+    <string name="com_lenovo_lsf_string_associated_phone_input_phone_number_hint">Часто используемый номер телефона</string>
+    <string name="com_lenovo_lsf_string_send_verify_message">Отправить SMS с кодом проверки</string>
+    <string name="com_lenovo_lsf_string_verify_message_has_send_to_your_phone">На ваш телефон было отправлено SMS с кодом проверки:</string>
+    <string name="com_lenovo_lsf_string_account_is_empty">Уч. запись пустая</string>
+    <string name="com_lenovo_lsf_string_account_pattern_is_wrong">Ошибка формата уч. записи</string>
+    <string name="com_lenovo_lsf_string_no_net_work">Сеть отсутствует</string>
+    <string name="com_lenovo_lsf_string_invalid_param_request">Неверный параметр запроса</string>
+    <string name="com_lenovo_lsf_string_failed_get_captcha">Не удалось получить код проверки</string>
+    <string name="com_lenovo_lsf_string_password_is_empty">Пароль является пустым</string>
+    <string name="com_lenovo_lsf_string_password_pattern_is_wrong">Ошибка формата пароля</string>
+    <string name="com_lenovo_lsf_string_captcha_is_empty">Код проверки является пустым</string>
+    <string name="com_lenovo_lsf_string_captcha_pattern_is_wrong">Ошибка формата кода проверки</string>
+    <string name="com_lenovo_lsf_string_wrong_password">Неправильный пароль</string>
+    <string name="com_lenovo_lsf_string_email_is_empty">Адрес эл. почты является пустым</string>
+    <string name="com_lenovo_lsf_string_no_account">Такая уч. запись отсутствует</string>
+    <string name="com_lenovo_lsf_string_wrong_captcha">Ошибка кода проверки</string>
+    <string name="com_lenovo_lsf_string_invalid_account">Недопустимая уч. запись</string>
+    <string name="com_lenovo_lsf_string_repeated_request_failed">Несколько сбоев запросов</string>
+    <string name="com_lenovo_lsf_string_get_back_password_failed">Сбой получения пароля</string>
+    <string name="com_lenovo_lsf_string_chang_password_failure">Сбой изменен. пароля</string>
+    <string name="com_lenovo_lsf_string_modifying_password">Изменение</string>
+    <string name="com_lenovo_lsf_string_email_patter_is_wrong">Ошибка формата эл. почты</string>
+    <string name="com_lenovo_lsf_string_account_no_match_pattern">Привязанная уч. запись не соответствует правилам</string>
+    <string name="com_lenovo_lsf_string_invalid_username">Недопустимое имя пользователя</string>
+    <string name="com_lenovo_lsf_string_wrong_verify_code">Ошибка кода проверки</string>
+    <string name="com_lenovo_lsf_string_wrong_tgt">Ошибка tgt</string>
+    <string name="com_lenovo_lsf_string_username_has_exist">Указанная уч. запись была зарегистрирована</string>
+    <string name="com_lenovo_lsf_string_user_not_exist">Пользователь отсутствует</string>
+    <string name="com_lenovo_lsf_string_binging_failure">Ошибка привязки</string>
+    <string name="com_lenovo_lsf_string_please_input_catcha">Введите код проверки, указанный на картинке, без учета регистра</string>
+    <string name="com_lenovo_lsf_notification_msg">Исходный пароль вашего Lenovo ID:</string>
+    <string name="com_lenovo_lsf_error_empty_phone">Введите номер телефона</string>
+    <string name="com_lenovo_lsf_error_wrong_phone">Введите точный номер телефона</string>
+    <string name="com_lenovo_lsf_error_empty_verycode">Введите код проверки</string>
+    <string name="com_lenovo_lsf_string_associated_with_phone_number">Привязать номер телефона</string>
+    <string name="com_lenovo_lsf_string_empty_phone_number">Номер телефона является пустым</string>
+    <string name="com_lenovo_lsf_string_getting_captcha">Получение кода проверки</string>
+    <string name="com_lenovo_lsf_onekey_authenticating">Аутентификация...</string>
+    <string name="com_lenovo_lsf_regist_by_phone">Зарегистрировать с помощью номера телефона</string>
+    <string name="com_lenovo_lsf_login_entrance_onekey_text">Вход по одному нажатию</string>
+    <string name="com_lenovo_lsf_login_entrance_onekey_show1">Использовать все службы Lenovo под одной уч. записью</string>
+    <string name="com_lenovo_lsf_login_entrance_onekey_show2">SYNCit, Lenovo Memo, Super Album</string>
+    <string name="com_lenovo_lsf_login_entrance_onekey_show3">Использовать номер телефона в качестве Lenovo ID для входа</string>
+    <string name="com_lenovo_lsf_login_entrance_onekey_tips1">Регистрация</string>
+    <string name="com_lenovo_lsf_login_entrance_onekey_tips2">Вход в стороннюю учетную запись</string>
+    <string name="com_lenovo_lsf_login_entrance_onekey_authentication_title">Аутентификация...</string>
+    <string name="com_lenovo_lsf_login_entrance_onekey_authentication_tips">Отправка SMS для проверки номера телефона. Lenovo не будет взимать какие-либо сборы, а сбор за SMS взимается операторами.</string>
+    <string name="com_lenovo_lsf_login_entrance_onekey_logining_title">Выполняется вход...</string>
+    <string name="com_lenovo_lsf_login_entrance_onekey_logining_tips">Успешная аутентификация по SMS. Выполняется вход...</string>
+    <string name="com_lenovo_lsf_login_entrance_onekey_logining_dialog_cancle">Отмена</string>
+    <string name="com_lenovo_lsf_login_entrance_otherlogin_text">Вход через другие средства</string>
+    <string name="com_lenovo_lsf_login_entrance_phonelogin_text">Вход через телефонный номер (рекомендуется)</string>
+    <string name="com_lenovo_lsf_login_entrance_emaillogin_text">Вход через адрес эл. почты</string>
+    <string name="com_lenovo_lsf_login_entrance_sinalogin_text">Вход через Sina Weibo</string>
+    <string name="com_lenovo_lsf_login_entrance_qqlogin_text">Вход через QQ</string>
+    <string name="com_lenovo_lsf_login_entrance_loginsuccess_toast">Вход выполнен</string>
+    <string name="com_lenovo_lsf_login_common_et_hint_phone">Номер телефона</string>
+    <string name="com_lenovo_lsf_login_common_et_hint_email">Эл. почта</string>
+    <string name="com_lenovo_lsf_login_common_at_hint_account">Номер телефона/адрес эл. почты</string>
+    <string name="com_lenovo_lsf_login_common_et_hint_password">Пароль</string>
+    <string name="com_lenovo_lsf_login_common_findpassword">Получить пароль</string>
+    <string name="com_lenovo_lsf_login_common_button_login">Вход</string>
+    <string name="com_lenovo_lsf_login_common_logining">Вход. Подождите...</string>
+    <string name="com_lenovo_lsf_login_common_loginsuccess_toast">Вход выполнен</string>
+    <string name="com_lenovo_lsf_logout_are_you_sure_logout_lenovo_account">Действительно выйти из текущей уч. записи?</string>
+    <string name="com_lenovo_lsf_account_binding_password">Пароль</string>
+    <string name="com_lenovo_lsf_login_common_phonelogin">Вход через телефон</string>
+    <string name="com_lenovo_lsf_login_common_emaillogin">Вход через адрес эл. почты</string>
+    <string name="com_lenovo_lsf_string_getting">Получение...</string>
+    <string name="com_lenovo_lsf_string_getting_failure">Сбой получения</string>
+    <string name="com_lenovo_lsf_string_resend">Отправить повторно</string>
+    <string name="com_lenovo_lsf_string_login_success">Вход выполнен</string>
+    <string name="com_lenovo_lsf_string_login_failuer">Сбой входа</string>
+    <string name="com_lenovo_lsf_string_captcha_email_has_sent_to_your_mailbox">Сообщение эл. почты с кодом проверки было на адрес эл. почты для входа:</string>
+    <string name="com_lenovo_lsf_string_captcha_message_has_sent_to_your_phone">На ваш привязанный телефон было отправлено SMS с кодом проверки:</string>
+    <string name="com_lenovo_lsf_string_user_save_info_successful">Сведения о пользователе успешно сохранены</string>
+    <string name="com_lenovo_lsf_string_regist_sucess_and_login_with_point">Успешная регистрация. Выполняется вход...</string>
+    <string name="com_lenovo_lsf_string_getting_captcha_with_point">Получение кода проверки...</string>
+    <string name="com_lenovo_lsf_string_change_account_success">Уч. запись успешно изменена</string>
+    <string name="com_lenovo_lsf_bind_phone">Привязать номер телефона</string>
+    <string name="com_lenovo_lsf_bind_email">Запасной адрес эл. почты</string>
+    <string name="com_lenovo_lsf_deputy_unset">Не задан</string>
+    <string name="com_lenovo_lsf_third_unbind">Отменить привязку</string>
+    <string name="com_lenovo_lsf_third_bind">Привязать</string>
+    <string name="com_lenovo_lsf_input_email">Введите адрес эл. почты</string>
+    <string name="com_lenovo_lsf_input_password">Пароль (4-20 символов)</string>
+    <string name="com_lenovo_lsf_input_verify_code">Код проверки</string>
+    <string name="com_lenovo_lsf_dialog_title_tip">Запрос</string>
+    <string name="com_lenovo_lsf_email_send_prefix">Ссылка регистрации была отправлена на ваш зарегистрированный адрес эл. почты</string>
+    <string name="com_lenovo_lsf_email_send_suffix">Вы завершили регистрацию. Выполните вход в свою зарегистрированную эл. почту и нажмите ссылку для активации уч. записи. Благодаря активированной уч. записи вы сможете использовать различные службы Lenovo.</string>
+    <string name="com_lenovo_lsf_i_know">Знаю</string>
+    <string name="com_lenovo_lsf_verifycode_sended_to_phone">Код проверки был отправлен на ваш новый телефон</string>
+    <string name="com_lenovo_lsf_verifycode_sended_to_email">Код проверки отправлен на ваш новый адрес эл. почты</string>
+    <string name="com_lenovo_lsf_error_uss_0100">Недопустимое имя пользователя. Проверьте, в правильном ли формате указано ваше имя пользователя</string>
+    <string name="com_lenovo_lsf_error_uss_0101">Ошибка команды</string>
+    <string name="com_lenovo_lsf_error_uss_0103">Пользователь не существует. Проверьте, правильно ли указано имя пользователя</string>
+    <string name="com_lenovo_lsf_error_uss_0104">Имя пользователя уже существует. Не регистрируйтесь несколько раз подряд</string>
+    <string name="com_lenovo_lsf_error_uss_0105">Можно выполнить вход только после активации учетной записи</string>
+    <string name="com_lenovo_lsf_error_uss_0106">Выполните выход с предыдущего устройства, прежде чем переключиться на новое устройство</string>
+    <string name="com_lenovo_lsf_error_uss_0107">Недопустимый ID</string>
+    <string name="com_lenovo_lsf_error_uss_0108">Этот пользователь был активирован. Не повторяйте эту операцию</string>
+    <string name="com_lenovo_lsf_error_uss_0110">Недопустимый IMEI, SN или MAC</string>
+    <string name="com_lenovo_lsf_error_uss_0111">Учетная запись отключена.</string>
+    <string name="com_lenovo_lsf_error_uss_0112">Недопустимое устройство зарегистрировано в проверке SDI</string>
+    <string name="com_lenovo_lsf_error_uss_0113">Ошибка типа команды</string>
+    <string name="com_lenovo_lsf_error_uss_0120">Недопустимый TGT</string>
+    <string name="com_lenovo_lsf_error_uss_0121">Недопустимая область</string>
+    <string name="com_lenovo_lsf_error_uss_0122">Эта служба не поддерживает эту область</string>
+    <string name="com_lenovo_lsf_error_uss_0123">Эта служба не имеет доступ</string>
+    <string name="com_lenovo_lsf_error_uss_0124">Не найден кэш, связанный с назначенным пользователем</string>
+    <string name="com_lenovo_lsf_error_uss_0125">Не удается найти назначенный билет в кэше пользователя</string>
+    <string name="com_lenovo_lsf_error_uss_0126">Сбой анализа значения билета</string>
+    <string name="com_lenovo_lsf_error_uss_0127">Не удалось найти информацию для получения недопустимого билета в кэше</string>
+    <string name="com_lenovo_lsf_error_uss_0131">Недопустимый билет и область. Этот билет не принадлежит этой области безопасности</string>
+    <string name="com_lenovo_lsf_error_uss_0135">Недопустимый запрос данных</string>
+    <string name="com_lenovo_lsf_error_uss_0140">Недопустимый код проверки</string>
+    <string name="com_lenovo_lsf_error_uss_0141">Ссылка с истекшим сроком действия</string>
+    <string name="com_lenovo_lsf_error_uss_0150">Для получения пароля предоставлен неправильный ответ</string>
+    <string name="com_lenovo_lsf_error_uss_0151">Учетная запись заблокирована</string>
+    <string name="com_lenovo_lsf_error_uss_0160">Требуется код проверки</string>
+    <string name="com_lenovo_lsf_error_uss_0161">ошибка pidpassword</string>
+    <string name="com_lenovo_lsf_error_uss_0162">Недопустимый bindpid</string>
+    <string name="com_lenovo_lsf_error_uss_0163">bindpid отключен</string>
+    <string name="com_lenovo_lsf_error_uss_0164">Пользователи без возможности регистрации по одному нажатию и без заданного пароля</string>
+    <string name="com_lenovo_lsf_error_uss_0170">Ошибка формата пароля (пароль может быть от 4 до 20 символов, включая заглавные или строчные буквы английского алфавита, цифры, минус (-) и подчеркивание (_).</string>
+    <string name="com_lenovo_lsf_error_uss_0180">Проверено</string>
+    <string name="com_lenovo_lsf_error_uss_0181">Ошибка кода проверки, или его срок действия истек. Это может произойти при проверке уч. записей телефона</string>
+    <string name="com_lenovo_lsf_error_uss_0190">Не открыто. Используйте другие способы регистрации</string>
+    <string name="com_lenovo_lsf_error_uss_0191">Тайм-аут входа под сторонней учетной записью.</string>
+    <string name="com_lenovo_lsf_error_uss_0193">Ошибка привязки сторонней учетной записи. Повторите.</string>
+    <string name="com_lenovo_lsf_error_uss_0194">Lenovo ID привязан к другой сторонней учетной записи</string>
+    <string name="com_lenovo_lsf_error_uss_0195">Сторонняя учетная запись привязана к другому Lenovo ID</string>
+    <string name="com_lenovo_lsf_error_uss_0200">Ошибка в отправленном формате данных. Не удалось разрешить. Проверьте, является ли формат запроса данных допустимым</string>
+    <string name="com_lenovo_lsf_error_uss_0201">Отправленные данные XML не соответствуют требованиям XSD. Проверьте допустимость данных</string>
+    <string name="com_lenovo_lsf_error_uss_0210">Недопустимый Appkey</string>
+    <string name="com_lenovo_lsf_error_uss_0211">Сторонняя учетная запись не привязана. Стороннее имя пользователя не является Lenovo ID</string>
+    <string name="com_lenovo_lsf_error_uss_0212">Сторонняя учетная запись не привязана. Стороннее имя пользователя является Lenovo ID</string>
+    <string name="com_lenovo_lsf_error_uss_0213">Сторонняя учетная запись не привязана</string>
+    <string name="com_lenovo_lsf_error_uss_0214">Сторонняя учетная запись не привязана. Стороннее имя пользователя является учетной записью в области Lenovo, не заслуживающей доверия. Необходимо привязать ее вручную</string>
+    <string name="com_lenovo_lsf_error_uss_0215">Сторонняя учетная запись уже была привязана к другому Lenovo ID</string>
+    <string name="com_lenovo_lsf_error_uss_0220">Проверка недопустимого маркера доступа</string>
+    <string name="com_lenovo_lsf_error_uss_0221">Проверка недопустимого кода аутентификации</string>
+    <string name="com_lenovo_lsf_error_uss_0222">Недопустимый tid</string>
+    <string name="com_lenovo_lsf_error_uss_0230">Недопустимое стороннее имя</string>
+    <string name="com_lenovo_lsf_error_uss_0231">Привязанная уч. запись не соответствует правилам</string>
+    <string name="com_lenovo_lsf_error_uss_0404">Срок действия этого интерфейса истек, и сервер больше не поддерживает клиента для запроса у пользователей обновлений версий</string>
+    <string name="com_lenovo_lsf_error_uss_0530">Недопустимый lpsst</string>
+    <string name="com_lenovo_lsf_error_uss_0531">Несогласованные билет и область.</string>
+    <string name="com_lenovo_lsf_error_uss_0532">lpsst не предоставлен</string>
+    <string name="com_lenovo_lsf_error_uss_0540">Недопустимый lpsust</string>
+    <string name="com_lenovo_lsf_error_uss_0542">lpsust не предоставлен</string>
+    <string name="com_lenovo_lsf_error_uss_0550">Недействительный билет службы перекрестной безопасности</string>
+    <string name="com_lenovo_lsf_error_uss_0551">Требования к строгости билета службы перекрестной безопасности несовместимы с приложениями</string>
+    <string name="com_lenovo_lsf_error_uss_0560">Ошибка удаленной проверки фотографии</string>
+    <string name="com_lenovo_lsf_error_uss_0605">Ошибка входа без запросов на шлюз</string>
+    <string name="com_lenovo_lsf_error_uss_0606">Недопустимый адрес обратного вызова</string>
+    <string name="com_lenovo_lsf_error_uss_0607">Недопустимая подпись</string>
+    <string name="com_lenovo_lsf_error_uss_0608">Недопустимый случайный знак проверки</string>
+    <string name="com_lenovo_lsf_error_uss_0700">Недопустимый адрес запроса</string>
+    <string name="com_lenovo_lsf_error_uss_0701">Нет прав на получение UST соответствующей области</string>
+    <string name="com_lenovo_lsf_error_uss_0801">Пользователь отказывает в авторизации</string>
+    <string name="com_lenovo_lsf_error_net_exception">Ошибка сети</string>
+    <string name="com_lenovo_lsf_error_verifycode_exception">Не удалось получить код проверки</string>
+    <string name="com_lenovo_lsf_error_regist_default">Сбой регистрации</string>
+    <string name="com_lenovo_lsf_error_update_account_name_default">Ошибка изменения уч. записи</string>
+    <string name="com_lenovo_lsf_string_is_setting">Настройка</string>
+    <string name="com_lenovo_lsf_string_sending_captch">Отправка кода проверки</string>
+    <string name="com_lenovo_lsf_string_use_email_registe">Регистрация через адрес эл. почты</string>
+    <string name="com_lenovo_lsf_string_set_your_new_password">Задайте новый пароль</string>
+    <string name="com_lenovo_lsf_string_set_your_password_for_security">Задайте пароль, чтобы обеспечить безопасность уч. записи</string>
+    <string name="com_lenovo_lsf_string_has_band_safemail">Вы привязали запасной адрес эл. почты</string>
+    <string name="com_lenovo_lsf_string_current_version">Текущая версия:</string>
+    <string name="com_lenovo_lsf_string_offical_website">Официальный веб-сайт:</string>
+    <string name="com_lenovo_lsf_string_is_binding">Привязка</string>
+    <string name="com_lenovo_lsf_string_regist_sucess_and_login">Успешная регистрация. Выполняется вход</string>
+    <string name="com_lenovo_lsf_string_is_registing">Регистрация</string>
+    <string name="com_lenovo_lsf_string_has_associated_phone">Вы привязали номер телефона</string>
+    <string name="com_lenovo_lsf_string_is_unbanding">Отмена привязки</string>
+    <string name="com_lenovo_lsf_string_bind_failure">Не удалось привязать</string>
+    <string name="com_lenovo_lsf_string_current_phone_number">Зарегистрирован текущий номер телефона:</string>
+    <string name="com_lenovo_lsf_string_please_input_new_phone_number">Введите номер телефона:</string>
+    <string name="com_lenovo_lsf_string_current_email">Зарегистрированный в настоящее время адрес эл. почты:</string>
+    <string name="com_lenovo_lsf_string_please_input_new_email">Введите новый адрес эл. почты:</string>
+    <string name="com_lenovo_lsf_string_title_regist_by_mail">Регистрация через адрес эл. почты</string>
+    <string name="com_lenovo_lsf_string_title_regist_by_phone">Зарегистрировать с помощью номера телефона</string>
+    <string name="com_lenovo_lsf_title_regist">Зарегистрировать уч. запись</string>
+    <string name="com_lenovo_lsf_title_update_account_name">Переместить уч. запись</string>
+    <string name="com_lenovo_lsf_title_account_info">Настройки учетной записи</string>
+    <string name="com_lenovo_lsf_title_account_setting">Моя уч. запись</string>
+    <string name="com_lenovo_lsf_title_about">О программе</string>
+    <string name="com_lenovo_lsf_string_set_password_for_your_lenovo_account">Задать пароль безопасности для Lenovo ID</string>
+    <string name="com_lenovo_lsf_string_current_account">Текущ. уч. запись:</string>
+    <string name="com_lenovo_lsf_title_bindthird_qq">Привязка к Tencent QQ</string>
+    <string name="com_lenovo_lsf_title_bindthird_sina">Привязка к Sina Weibo</string>
+    <string name="com_lenovo_lsf_notification_set_pwd">Задать пароль</string>
+    <string name="com_lenovo_lsf_notification_content">Был успешно выполнен вход под вашим Lenovo ID %s. Задать пароль?</string>
+    <string name="com_lenovo_lsf_string_captcha_checking">Выполняется проверка...</string>
+    <string name="com_lenovo_lsf_string_please_input_phone_number">Укажите номер телефона</string>
+    <string name="com_lenovo_lsf_unbind">Отменить привязку</string>
+    <string name="com_lenovo_lsf_unbindtips_qq">Вы привязали уч. запись QQ. Теперь можете быстро выполнять вход под этой уч. записью</string>
+    <string name="com_lenovo_lsf_unbindtips_sina">Вы привязали уч. запись Weibo. Теперь можете быстро выполнять вход под этой уч. записью</string>
+    <string name="com_lenovo_lsf_tobindtips_qq">Теперь можете быстро открывать главную страницу после привязки уч. записи QQ</string>
+    <string name="com_lenovo_lsf_tobindtips_sina">Теперь можете быстро открывать главную страницу после привязки уч. записи Sina Weibo</string>
+    <string name="com_lenovo_lsf_unbind_success">Отмена привязки успешно выполнено</string>
+    <string name="com_lenovo_lsf_unbind_failed">Не удалось отменить привязку</string>
+    <string name="com_lenovo_lsf_unbind_doing">Отмена привязки...</string>
+    <string name="keylogin_loading">Выполняется вход...</string>
+    <string name="account_manager">Управление уч. записью</string>
+    <string name="com_lenovo_lsf_string_account_setting_password">пароль</string>
+    <string name="com_lenovo_lsf_country_area">Страна/Регион</string>
+    <string name="com_lenovo_lsf_country_area_text">США</string>
+    <string name="notes">Тестовая версия(только для lefactory)</string>
+    <string name="com_lenovo_lsf_lenovo_name">Lenovo</string>
+    <string name="com_lenovo_lsf_register_string_verifycode_sms">Подтвердить код смс</string>
+    <string name="com_lenvo_lsf_string_current_email">Текущий адрес электронной почты:</string>
+    <string name="com_lenvo_lsf_string_please_input_new_email">Новый адрес электронной почты:</string>
+    <string name="com_lenovo_lsf_login">Войти</string>
+    <string name="com_lenovo_lsf_sign_up">Подписаться</string>
+    <string name="com_lenovo_lsf_country_select_title">Выберете страну</string>
+    <string name="com_lenovo_lsf_lenovouser_userinfo_logouts">Учётная запись отключена.</string>
+    <string name="com_lenovo_lsf_string_account_is_transferring">Изменение учётной записи...</string>
+    <string name="com_lenovo_lsf_get_third_token_fail">Сбой применения сторонних игровых ключей</string>
+    <string name="com_lenovo_lsf_string_current_registed_phone_number">Текущий номер:</string>
+    <string name="com_lenovo_lsf_string_please_input_your_new_phone_number">Новый номер:</string>
+    <string name="com_lenovo_lsf_onekey_connecting_server">подключение к серверу</string>
+    <string name="com_lenovo_lsf_onekey_authorizing">Авторизация</string>
+    <string name="com_lenovo_lsf_onekey_logining">Вход</string>
+    <string name="com_lenovo_lsf_phone_area_code">+86</string>
+    <string name="fb_app_name">Отзыв</string>
+    <string name="fb_action_settings">Настройки</string>
+    <string name="fb_action_about">О программе</string>
+    <string name="fb_setting_userid">Аккаунт</string>
+    <string name="fb_setting_input_userid">Введите Ваш ID</string>
+    <string name="fb_setting_name">Ник</string>
+    <string name="fb_setting_input_name">Введите Ваш ник</string>
+    <string name="fb_setting_email">Email</string>
+    <string name="fb_setting_input_email">Введите Ваш email</string>
+    <string name="fb_setting_phone">Tel</string>
+    <string name="fb_setting_input_phone">Введите номер телефона</string>
+    <string name="fb_setting_main_mode">Основной стиль интерфейса</string>
+    <string name="fb_show_app_list">Показать список приложений</string>
+    <string name="fb_show_bug_type">Показать тип отзыва</string>
+    <string name="fb_sure">OK</string>
+    <string name="fb_app_settings_desp">Эта функция используется для сбора мнений и предложений пользователей телефонов Lenovo, касающихся различных функций. Пожалуйста, заполните следующую информацию, чтобы помочь нам быстрее решить ваши проблемы. Спасибо!</string>
+    <string name="fb_choose_main_mode">Выберите основной стиль интерфейса</string>
+    <string name="fb_can_update">Обновляемый</string>
+    <string name="fb_most_new">Последняя версия</string>
+    <string name="fb_can_download">Рекомендуется загрузка</string>
+    <string name="fb_fresh">Обносить</string>
+    <string name="fb_can_update_tip">Локальная версия устарела. Можно обновить приложение(%d)</string>
+    <string name="fb_most_new_tip">Локальная версия является последней версией на сервере (%d)</string>
+    <string name="fb_can_download_tip">Это приложение не установлено локально. Скачать можно с (%d)</string>
+    <string name="fb_update_success">Обновлено</string>
+    <string name="fb_update_fail">Ошибка обновления из-за ошибки сети или на сервере обновляются данные. Попробуйте позже.</string>
+    <string name="fb_loading_app">Загрузка списка последних обновлений приложений…</string>
+    <string name="fb_getting_data">Извлечение данных. Ожидайте</string>
+    <string name="fb_freshing">Обновление</string>
+    <string name="fb_application_name">Имя приложения</string>
+    <string name="fb_version_name">Версия</string>
+    <string name="fb_version_code">Номер версии</string>
+    <string name="fb_pkgname">Имя пакета</string>
+    <string name="fb_udpate_time">Время обновления</string>
+    <string name="fb_time">Время отзыва</string>
+    <string name="fb_feedback">Отзыв</string>
+    <string name="fb_my_feedback">Мой отзыв</string>
+    <string name="fb_all_feedback">Все отзывы</string>
+    <string name="fb_upload_log">Лог загрузки</string>
+    <string name="fb_upload_pic">Загрузить изображение:</string>
+    <string name="fb_turn_on_real_log">Включить журнал реального времени (это позволит нам эффективно локализовать проблему)</string>
+    <string name="fb_turn_on">Включить</string>
+    <string name="fb_turn_off">Выключить</string>
+    <string name="fb_noti_logger_on">Журнал реального времени включен!</string>
+    <string name="fb_noti_logger_title">Запускается журнал реального времени…</string>
+    <string name="fb_noti_logger_off">Журнал реального времени остановлен!</string>
+    <string name="fb_anonymous">Аноним</string>
+    <string name="fb_me">Я</string>
+    <string name="fb_tip">Подсказка</string>
+    <string name="fb_more">Ещё</string>
+    <string name="fb_reply_hint">Введите текст ответа</string>
+    <string name="fb_send">Отправить</string>
+    <string name="fb_question">Отзыв</string>
+    <string name="fb_hardware_version">Версия железа</string>
+    <string name="fb_software_version">Версия ПО</string>
+    <string name="fb_phone_model">Модель телефона</string>
+    <string name="fb_fname">Спрашивающий</string>
+    <string name="fb_fphone">Телефон Спрашивающего</string>
+    <string name="fb_femail">Email Спрашивающего</string>
+    <string name="fb_type">Тип отзыва</string>
+    <string name="fb_submit">Отправить</string>
+    <string name="fb_submiting">Отправка…</string>
+    <string name="fb_submit_ok">Отправлено</string>
+    <string name="fb_submit_fail">Ошибка отправки. Проверьте савязь</string>
+    <string name="fb_submit_empty">Отзыв не может быть пустым</string>
+    <string name="fb_def_submit_content">Нет</string>
+    <string name="fb_restart_due_read_log_permission">Предоставлены права READ_LOGS. Нажмите ОК для перезапуска приложения.</string>
+    <string name="fb_log_service_is_running">Запущен журнал реального времени, необходимо его выключить.</string>
+    <string name="fb_real_log_path_empty">У Вас нет журналов реального времени.</string>
+    <string name="fb_refreshing">Обновление</string>
+    <string name="fb_refreshing_warnning">Обновление, ожидайте</string>
+    <string name="fb_bug_data_lose">Данные потеряны</string>
+    <string name="fb_bug_exception">Нестандартный выход</string>
+    <string name="fb_bug_not_call">Не может быть вызван</string>
+    <string name="fb_bug_not_net">Нет доступа в Интернет</string>
+    <string name="fb_bug_power_much">Потребляется слишком много энергии</string>
+    <string name="fb_bug_reboot">Авто перезагрузка</string>
+    <string name="fb_bug_other_error">Другие ошибки</string>
+    <string name="fb_bug_suggest">Предложения для Lenovo</string>
+    <string name="fb_bug_real">пойман баг в реальном времени</string>
+    <string name="fb_empty">На данный момент нет информации об отзыве</string>
+    <string name="fb_new">(новый)</string>
+    <string name="fb_app_empty">Вы ещё не установили ни одного рекомендованного Lenovo приложения</string>
+    <string name="fb_other_app">Другие приложения</string>
+    <string name="fb_menu_bug_type">Показать тип отзыва</string>
+    <string name="fb_menu_app">Показать список приложений</string>
+    <string name="fb_all_feedback_first_show">Вы можете использовать значок в правом верхнем углу, чтобы выбрать для отображения \"Список приложений\" или \"Тип отзыва\"</string>
+    <string name="fb_username">Пользователь</string>
+    <string name="fb_itcode">ITCode</string>
+    <string name="fb_input_itcode">Введите ITCode</string>
+    <string name="fb_password">Пароль</string>
+    <string name="fb_login">Вход</string>
+    <string name="fb_anonymous_login">Анонимный вход</string>
+    <string name="fb_account_hint">Введите Ваш логин</string>
+    <string name="fb_password_hint">Введите Ваш пароль</string>
+    <string name="fb_user_or_password_wrong">Неправильный логин или пароль. Попробуйте ещё раз</string>
+    <string name="fb_login_fail">Ошибка входа</string>
+    <string name="fb_user_or_password_empty">Ни имя пользователя, ни пароль не может быть пустым</string>
+    <string name="fb_logining">Вхожу…</string>
+    <string name="fb_login_for_itcode">ITCode пользователь</string>
+    <string name="fb_login_for_lenovoid">LenovoID пользователь</string>
+    <string name="fb_exchange_show">Изменить формат отображения списка</string>
+    <string name="fb_logined">Вы вошли</string>
+    <string name="fb_logout">Выход</string>
+    <string name="fb_logout_tip">Вы вошли под аккаунтом \"%s\". Хотите выйти?</string>
+    <string name="fb_logout_exchange">Вы вошли под аккаунтом \"%s\". Хотите сменить аккаунт или выйти?</string>
+    <string name="fb_cancel">Отмена</string>
+    <string name="fb_itcode_login">Переключить на ITCode</string>
+    <string name="fb_lenovoid_login">Переключить на LenovoID</string>
+    <string name="fb_exchange_account">Переключить аккаунт</string>
+    <string name="fb_account_empty">Аккаунт пустой</string>
+    <string name="fb_password_empty">Пароль пустой</string>
+    <string name="fb_login_select_fail_tip">Ошибка входа. Проверьте сеть или испоьлзуйте другой метод входа</string>
+    <string name="fb_login_for_itcode_desp">Использовать внутренний рабочий ITCode Lenovo для входа</string>
+    <string name="fb_login_for_itcode_desp2">"Пользователи ITCode и внутренние пользователи Lenovo используют для входа t3 страницу.
+Пароль шифруется для обеспечения безопасности. Вы можете использовать его со спокойной душой."</string>
+    <string name="fb_login_for_lenovoid_desp">Использовать LenovoID для входа</string>
+    <string name="fb_login_for_anonymous_desp">Вход, не требующий сертификации</string>
+    <string name="fb_fd_up_switch_account_tips">Дружеское напоминание: После запуска приложения Вы можете менять аккаунты через меню и наблюдать разные версии приложения</string>
+    <string name="fb_input_reply">Введите ответ</string>
+    <string name="fb_itcode_login_tip">Для входа с внутренним Lenovo ITCode</string>
+    <string name="fb_lenovoid_login_tip">Для входа с LenovoID</string>
+    <string name="fb_anonymous_login_tip">Для входа без аутентификации</string>
+    <string name="fb_itcode_user">ITCode пользователь</string>
+    <string name="fb_lenovoid_user">LenovoID пользователь</string>
+    <string name="fb_anonymous_user">Анонимный пользовательr</string>
+    <string name="fb_anonymous_not_login">Аноним, пожалуйста, авторизуйтесь~</string>
+    <string name="fb_favouted">Вы уже одобрили этот отзыв</string>
+    <string name="fb_net_close">Нет активной сети. Сначала поключитесь.</string>
+    <string name="fb_xlistview_header_hint_normal">Проведите вниз для обновления</string>
+    <string name="fb_xlistview_header_hint_ready">Отпустите для обновления данных</string>
+    <string name="fb_xlistview_header_hint_loading">Загрузка…</string>
+    <string name="fb_xlistview_footer_hint_normal">Больше</string>
+    <string name="fb_xlistview_footer_hint_ready">Отпустите для загрузки</string>
+    <string name="fb_xlistview_footer_hint_nomore">Данные загружены</string>
+    <string name="fb_favout">Approve (%s)</string>
+    <string name="fb_not_login">Пожалуйста, войдите~</string>
+    <string name="fb_has_login">Подождите! Вы уже в системе. Что ещё вы хотите сделать?</string>
+    <string name="fb_has_login_suffix">Войти в систему</string>
+    <string name="fb_add_big_log">Вручную добавить журнал</string>
+    <string name="fb_not_install_file_brower">Установите браузер файлов Lenovo</string>
+    <string name="fb_has_favout">Утвержден (%s)</string>
+    <string name="fb_logout_exchange2">Вы уже вошли в систему с аккаунтом \"%s\". Вы хотите выйти?</string>
+    <string name="fb_my_feedback_update">%d из ваших отзывов получили новые ответы. Нажмите, чтобы посмотреть</string>
+    <string name="fb_from">Предоставлено от %s</string>
+    <string name="fb_setting_tip">Спасибо вам за аккуратно перемещённый палец. Это поможет нам улучшиться!</string>
+    <string name="fb_account_info">Личная информация</string>
+    <string name="fb_version_type">Тип версии</string>
+    <string name="fb_pull_load">Потяните вниз для загрузки</string>
+    <string name="fb_release_load">Отпустите для больших комментариев</string>
+    <string name="fb_loading">Загрузка комментариев...</string>
+    <string name="fb_no_reply">Сейчас нет комментариев</string>
+    <string name="fb_official">Lenovo Official</string>
+    <string name="fb_not_allow_official">Имя не может содержать Lenovo Official. Введите снова</string>
+    <string name="fb_switch_account">Переключение учетных записей</string>
+    <string name="fb_input_feedback_jar">Введите отзыв</string>
+    <string name="fb_error_phone">Неверный формат номера. Не забудьте добавить код города для стационарного телефона. Введите снова</string>
+    <string name="fb_error_email">Недопустимый адрес электронной почты. Введите снова</string>
+    <string name="fb_image">Представленные изображения</string>
+    <string name="fb_commit_datausage">Предпологаемый объём данных:</string>
+    <string name="fb_commit_datausageforB">Б</string>
+    <string name="fb_commit_datausageforKB">КБ</string>
+    <string name="fb_bug_uninstalled_app">Приложение не установлено</string>
+    <string name="fb_error_fb_texttolong">Лимит символов. Благодарю за ваш подробный отзыв</string>
+    <string name="fb_error_rp_texttolong">Лимит символов. Спасибо за ваш подробный ответ</string>
+    <string name="fb_error_sdnotfound">Карта памяти не найдена. Некоторые функции не будут работать. Проверьте карту</string>
+    <string name="fb_setting_error_texttolong">Максимум 25 символов</string>
+    <string name="fb_error_sdnotfound_incommit">Карта памяти не найдена. Не удается загрузить изображения и журналы. Продолжать отправку?</string>
+    <string name="fb_loger_error_sdnotfound_incommit">Карта памяти не найдена. Не могу загрузить изображения. Продолжать отправку?</string>
+    <string name="fb_image_edit">Редактирование изображений</string>
+    <string name="fb_image_edit_error_unfindimage">Не удается найти ресурсы для редактирования изображений</string>
+    <string name="fb_image_edit_error_analyze">Ошибка анализа изображения</string>
+    <string name="fb_image_edit_commit">Сохранить изменения в изображении?</string>
+    <string name="fb_main_tab_one">Ответ</string>
+    <string name="fb_main_tab_two">Сортировка</string>
+    <string name="fb_main_tab_three">Найдено</string>
+    <string name="fb_setting_unlogin_title">Нажмите, для входа</string>
+    <string name="fb_buglistfrg_bt_runing">Сканирование журнала в реальном времени...</string>
+    <string name="fb_use_network">Эта действие будет проводить сетевые операции, продолжить?</string>
+    <string name="fb_not_warn">Не уведомлять</string>
+    <string name="fb_addinfo_tip">Вы не ввели вашу персональную информацию. Мы предлагаем вам заполнить вашу личную информацию, чтобы мы могли помочь быстро решить ваши проблемы.</string>
+    <string name="fb_addinfo">Полная личная информация</string>
+    <string name="fb_anonymity">Анонимная отправка</string>
+    <string name="fb_pull_to_refresh_pull_label">Проведите вниз для обновления</string>
+    <string name="fb_pull_to_refresh_release_label">Отпустите для обновления</string>
+    <string name="fb_pull_to_refresh_refreshing_label">Обновление...</string>
+    <string name="fb_pull_to_refresh_footer_release_label">Отпустите для загрузки</string>
+    <string name="fb_pull_to_refresh_footer_pull_label">Потяните вверх для загрузки</string>
+    <string name="fb_pull_to_refresh_footer_refreshing_label">Загрузка...</string>
+    <string name="fb_pull_to_refresh_last_update_time">Последнее обновление:: %s</string>
+    <string name="fb_qq">QQ</string>
+    <string name="fb_input_qq">Пожалуйста, введите ваш QQ</string>
+    <string name="fb_error_qq">Недопустимый QQ. Введите снова</string>
+    <string name="fb_content_title">Обратная связь:</string>
+    <string name="fb_appname_title">Название приложения:</string>
+    <string name="fb_time_title">Время обратной связи:</string>
+    <string name="fb_version_title">Версия:</string>
+    <string name="fb_contact_information">Контакты</string>
+    <string name="fb_save">Сохранить</string>
+    <string name="fb_log_path_empty">Лог отзыва не может быть пустым.</string>
+    <string name="fb_same_photo">Изображение уже добавлено, вберите другое</string>
+    <string name="fb_specific_app">Тип приложения</string>
+    <string name="fb_choose_module">Выберите тип отзыва</string>
+    <string name="fb_choose_module_app">Выберите тип приложения</string>
+    <string name="fb_reply_notification">Вам пришёл ответ на Отзыв</string>
+    <string name="fb_abandon_edit">При выходе все исправления будут потеряны</string>
+    <string name="fb_dialog_topic_delete">Удалить отзыв?</string>
+    <string name="fb_dialog_delete">Удалить отзыв</string>
+    <string name="fb_dialog_share">Отправить отзыв</string>
+    <string name="fb_toast_delfail">Ошибка удаления</string>
+    <string name="fb_load_fail">Ошибка загрузки, попробуйте позже</string>
+    <string name="fb_dialog_msg_deleting">выполнение…</string>
+    <string name="fb_add_photo">Добавить изображение</string>
+    <string name="fb_sending">Отправка…</string>
+    <string name="fb_resend">Послать ещё раз</string>
+    <string name="fb_delete">Удалить</string>
+    <string name="fb_option">Настройки</string>
+    <string name="fb_feedback_tip">Ваш отзыв и информация о системе будет выслана в Lenovo, обратитесь в Lenovo Сервис</string>
+    <string name="fb_sys_info">Информация о системе</string>
+    <string name="fb_app_source">Исходное приложение</string>
+    <string name="fb_is_built_in">Системное приложение</string>
+    <string name="fb_internal_ver_code">Внутренний номер версии</string>
+    <string name="fb_service_tip">Договор об обслуживании</string>
+    <string name="fb_user_id_title">ID Аккаунта</string>
+    <string name="fb_user_id_type_title">Тип ID Аккаунта</string>
+    <string name="fb_model_number">Номер модели</string>
+    <string name="fb_android_version">Версия андроид</string>
+    <string name="fb_baseband_version">Версия Радиомодуля</string>
+    <string name="fb_build_number">Номер сборки</string>
+    <string name="fb_app_ver">Версия приложения</string>
+    <string name="fb_app_ver_number">Номер версии приолжения</string>
+    <string name="fb_manufacture">Производитель</string>
+    <string name="fb_language">Язык</string>
+    <string name="fb_country">Страна</string>
+    <string name="fb_channel">Номер канала</string>
+    <string name="fb_resolution">Разрешение</string>
+    <string name="fb_deviceId">ID Устройства</string>
+    <string name="fb_deviceIdType">Тип ID Устройства</string>
+    <string name="lenovo_about">О программе</string>
+    <string name="lenovo_about_update">Обновить</string>
+    <string name="lenovo_about_update_now">Обновить сейчас!</string>
+    <string name="lenovo_about_versoin">Обнаружена новая версия</string>
+    <string name="lenovo_about_qqgroup">Группа QQ</string>
+    <string name="lenovo_about_weibo">Sina Weibo</string>
+    <string name="lenovo_about_email">E-mail</string>
+    <string name="lenovo_about_unsupport">Сейчас недоступно. Ожидайте!</string>
+    
+    
+    
+    
+    <string name="lenovo_about_netconnect_alert">Эта операция требует сетевого подключения. Продолжить?</string>
+    <string name="lenovo_about_prompt">Уведомление</string>
+    <string name="ab_version_introduction">Описание</string>
+    <string name="ab_contacts">Контакты</string>
+    <string name="ab_feedback">Отзыв</string>
+    <string name="ab_checking_update">Проверка наличия обновлений...</string>
+    <string name="ab_downloading_update">Скачивание обновлений...</string>
+    <string name="ab_website">Вебсайт</string>
+    <string name="ab_patch_update">Обновление Уменьшение трафика</string>
+    
+    
+    <string name="ab_background_data_alert">Разрешить фоновую проверку обновлений?</string>
+    <string name="ab_weixin">Чат</string>
+    <string name="ab_bbs">Форум</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите Wi-Fi!</string>
+    <string name="SUS_MSG_LATESTVERSION">Обновление не требуется!</string>
+    <string name="SUS_MSG_NOTFOUND">Не найдено!</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Сеть недоступна!</string>
+    <string name="SUS_MSG_WARNING_PENDING">Обновляется в данный момент!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Загрузка завершена!</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Ошибка обновления. Повторите попытку!</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Не предлагать</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">Предлагать при обнаружении новой версии</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Недостаточно места на устройстве хранения!</string>
+    <string name="SUS_VERSIONUPDATE">Найдена новая версия!</string>
+    <string name="SUS_UPDATEDESC">Описание:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Имя:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Размер:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">Для загрузки рекомендуется Wi-Fi!</string>
+    <string name="SUS_UPDATE">Обновить</string>
+    <string name="SUS_CANCEL">Позже</string>
+    <string name="SUS_DOWNLOAD_TITLE">Идет загрузка IdeaFriend!</string>
+    <string name="SUS_CANCELBUTTON">Отмена</string>
+    <string name="SUS_NOTIFICATION_TITLE">Подсказка</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Обновление... Подождите!</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Тайм-аут сети. Еще раз...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">ОК</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Прервать</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Это диалоговое окно будет скрыто через</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">с.)</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Коснитесь для установки!</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">Коснитесь для установки:</string>
+    <string name="SUS_CURRENT_VERSION">Текущая версия</string>
+    <string name="SUS_NEW_VERSION">Последняя версия</string>
+    <string name="SUS_FIND_NEW_VERSION">Доступна новая версия для вас</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Установка программы</string>
+    <string name="SUS_BTN_UPDATINGPROMPT">Обновление...</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <string name="download_title">Загрузки</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">ОК</string>
+    <string name="download_file_already_exist">Файл уже существует. Перезаписать?</string>
+    <string name="notification_download_complete_op01">Файл сохраняется в:</string>
+    <string name="download_error_insufficient_memory">Недостаточно памяти</string>
+    <string name="download_error_invalid_descriptor">Неверный дескриптор</string>
+    <string name="download_error_invalid_ddversion">Неверная версия DD</string>
+    <string name="download_error_attribute_mismatch">Несоответствие атрибутов</string>
+    <string name="download_paused">Приостановлено</string>
+    <string name="authenticate_dialog_title">Введите имя пользователя и пароль.</string>
+    <string name="username">Имя</string>
+    <string name="password">Пароль</string>
+    <string name="action">Войти</string>
+    <string name="confirm_oma_download_title">Загрузить?</string>
+    <string name="oma_download_name">Имя:</string>
+    <string name="oma_download_vendor">Производитель:</string>
+    <string name="oma_download_type">Тип:</string>
+    <string name="oma_download_size">Размер:</string>
+    <string name="oma_download_description">Описание:</string>
+    <string name="oma_download_content_not_supported">Содержимое не поддерживается телефоном. Нет приложений для открытия этого файла. Все равно загрузить?</string>
+    <string name="confirm_oma_download_next_url">Загрузка завершена. Перейти у следующей ссылке?</string>
+    <string name="pause">Пауза</string>
+    <string name="resume">Продолжить</string>
+    <string name="delete_failed_with_SDcard">Ошибка удаления файла. SD-карта недоступна.</string>
+    <string name="share_download">Передать</string>
+    <string name="share_failed_with_download_error">Ошибка при загрузке файла. Продолжение передачи невозможно.</string>
+    <string name="pull_to_refresh_footer_release_label">Отпустите для загрузки…</string>
+    <string name="pull_to_refresh_footer_pull_label">Потяните вверх для загрузки…</string>
+    <string name="pull_to_refresh_footer_refreshing_label">Загрузка…</string>
+    <string name="pull_to_refresh_last_update_time">Последнее обновление：%s</string>
+    
+    
+    
+    <string name="app_name_wallpaper">Обои</string>
+    <string name="theme_suit">Коллекция тем</string>
+    <string name="custom_theme_title">Темы пользователя</string>
+    <string name="theme_preview_title">Просмотр темы</string>
+    <string name="computing_size">Вычисление размера…</string>
+    <string name="invalid_size_value">Ошибка вычисления размера пакета</string>
+    <string name="filter_themes_local">Локальные</string>
+    <string name="filter_themes_online">Онлайн</string>
+    <string name="filter_themes_all">Все</string>
+    <string name="sort_order_alpha">По имени</string>
+    <string name="sort_order_size">По размеру</string>
+    <string name="show_custom_themes">Пользовательский</string>
+    <string name="show_download_manager">Диспетчер загрузок</string>
+    <string name="reset_theme_preferences">Сброс параметров темы</string>
+    <string name="reset_theme_preferences_title">Установить по умолчанию?</string>
+    <string name="reset_theme_preferences_desc">В результате операции для всех тем будут установлены значения по умолчанию</string>
+    <string name="reset_theme_preferences_button">Сброс</string>
+    <string name="no_themes">Нет тем</string>
+    <string name="no_themes_tips">"Новые темы оформления
+будут доступны в ближайшее время!
+ Ожидайте"</string>
+    <string name="settings_safetylegal_activity_loading">Загрузка…</string>
+    <string name="custom_theme_lockscreen">Экран блокир.</string>
+    <string name="custom_theme_lockscreen_wallpaper">Фон экр. блок.</string>
+    <string name="custom_theme_wallpaper">Обои</string>
+    <string name="custom_theme_icons">Украшение значков</string>
+    <string name="custom_theme_launcher">Дом. экран</string>
+    <string name="custom_theme_widgets">Интерфейс</string>
+    <string name="custom_theme_sina_weather">Погода</string>
+    <string name="custom_theme_boot_shut">Старт-лого</string>
+    <string name="custom_theme_font">Шрифт</string>
+    <string name="custom_theme_ideafriend">Набор номера</string>
+    <string name="custom_theme_systemui">Уведомления</string>
+    <string name="custom_theme_unready">Не готово</string>
+    <string name="custom_theme_unfound">Выбор</string>
+    <string name="custom_theme_system">Тема</string>
+    <string name="custom_theme_callscreen">Вход. вызов</string>
+    <string name="custom_theme_systemanim">Системный динамический эффект</string>
+    <string name="msg_theme_set_success">Центр тем%1$s задана успешно</string>
+    <string name="default_package">Срок</string>
+    <string name="default_package_classic">Классика</string>
+    <string name="canfinish">Выберите любимую тему</string>
+    <string name="nomore">Нет больше тем.</string>
+    <string name="exit_toast">Нажмите \"Назад\" для выхода</string>
+    <string name="font_title_phone">Телефон</string>
+    <string name="font_title_sdcard">Шрифт на SD-карте</string>
+    <string name="font_sdcard_name_default">Шрифт Lenovo</string>
+    <string name="font_sdcard_description_default">"LENOVO FOR THOSE WHO DO.
+ЦЕНТР ТЕМ LENOVO"</string>
+    <string name="font_sdcard_no_fonts">Нет шрифтов</string>
+    <string name="font_import_description">Импорт шрифтов</string>
+    <string name="font_import_description_info">Скопируйте нужный шрифт в папку:SD_Card/ThemeCenter/font</string>
+    <string name="loading_description">Скольжение вверх</string>
+    <string name="loading_slogan">Почувствуйте индивидуальность</string>
+    <string name="font_title_cn">Русский</string>
+    <string name="font_title_en">Английский</string>
+    <string name="font_sdcard_description_one_cn">"Центр тем Lenovo
+Это милое обновление придаст телефону совершенно новый внешний вид."</string>
+    <string name="font_sdcard_description_two_cn">Более элегантный внешний вид телефона от включения до выключения.</string>
+    <string name="font_sdcard_description_en">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="font_sdcard_description_en_two">abcdefghijklmnopqrstuvwxyz</string>
+    <string name="font_free">Бесплатно</string>
+    <string name="font_pay">Платно</string>
+    <string name="font_price">￥%1$s</string>
+    <string name="font_price_def">￥2.00</string>
+    <string name="app_label">Диспетчер загрузок</string>
+    <string name="permlab_downloadManager">Доступ к диспетчеру загрузок.</string>
+    <string name="permdesc_downloadManager">Разрешать приложению доступ к диспетчеру загрузок и использовать его для загрузки файлов. Вредоносные приложения могут использовать это, чтобы прервать загрузку и получить доступ к личной информации.</string>
+    <string name="permlab_downloadManagerAdvanced">Расширенные функции диспетчера загрузок.</string>
+    <string name="permdesc_downloadManagerAdvanced">Разрешать приложению доступ к расширенным функциям дистпетчера загрузок. Вредоносные приложения могут использовать это, чтобы прервать загрузку и получить доступ к личной информации.</string>
+    <string name="permlab_downloadCompletedIntent">Отправлять уведомления о загрузке.</string>
+    <string name="permdesc_downloadCompletedIntent">Разрешать приложению отправку уведомлений о завершенных загрузках. Вредоносные приложения могут использовать это для обмана других приложений, которые загружают файлы.</string>
+    <string name="permlab_seeAllExternal">Просмотр загрузок на SD-карте</string>
+    <string name="permdesc_seeAllExternal">Разрешать приложению просмотр всех загрузок на SD-карте, независимо от того, какие приложения их загрузили.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Резервировать место в кэше загрузки</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Разрешать приложению загружать файлы в кэш загрузки, который не может быть автоматически удален, если диспетчер загрузок требует больше памяти.</string>
+    <string name="permlab_downloadWithoutNotification">Загружать файлы без уведомления</string>
+    <string name="permdesc_downloadWithoutNotification">Разрешать приложению загружать файлы через диспетчер загрузок без отображения уведомления пользователю.</string>
+    <string name="permlab_accessAllDownloads">Доступ ко всем системным загрузкам</string>
+    <string name="permdesc_accessAllDownloads">Разрешать приложению просмотр и изменение всех загрузок по инициативе любого приложения в системе.</string>
+    <string name="download_unknown_title">&lt;Без названия></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" …"</string>
+    <string name="notification_download_complete">Загрузка завершена.</string>
+    <string name="notification_download_failed">Ошибка загрузки.</string>
+    <string name="notification_need_wifi_for_size">Требуется загрузка по Wi-Fi.</string>
+    <string name="notification_paused_in_background">Приостановлено в фоновом режиме.</string>
+    <string name="wifi_required_title">Загружается слишком много для оператора сети</string>
+    <string name="wifi_required_body">"Для завершения этой загрузки необходимо использование Wi-Fi. 
+
+запустите загрузку в следующий раз при подключении к сети Wi-Fi."</string>
+    <string name="wifi_recommended_title">Поставить в очередь на загрузку?</string>
+    <string name="wifi_recommended_body">"Запуск этой загрузки сейчас может сократить время работы от аккумулятора и/или привести к передаче по мобильной сети большого объема данных, за которую оператор мобильной связи может взимать плату в зависимости от тарифного плана.
+
+ запустите эту загрузку в следующий раз при подключении к сети Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Очередь</string>
+    <string name="button_cancel_download">Отмена</string>
+    <string name="button_start_now">Начать сейчас</string>
+    <string name="download_percent">процент</string>
+    <string name="download_title_sorted_by_date">Загрузки - по дате</string>
+    <string name="download_title_sorted_by_size">Загрузки - по размеру</string>
+    <string name="no_downloads">Нет загрузок.</string>
+    <string name="missing_title">&lt;Неизвестно></string>
+    <string name="button_sort_by_size">По размеру</string>
+    <string name="button_sort_by_date">По дате</string>
+    <string name="download_queued">В очереди</string>
+    <string name="download_running">Выполняется</string>
+    <string name="download_success">Завершено</string>
+    <string name="download_error">Ошибка</string>
+    <string name="dialog_title_not_available">Не удалось выполнить загрузку</string>
+    <string name="dialog_failed_body">Повторить попытку загрузки файла позже или удалить его из очереди?</string>
+    <string name="dialog_title_queued_body">Файл в очереди</string>
+    <string name="dialog_queued_body">Этот файл поставлен в очередь для будущей загрузки, поэтому пока недоступен.</string>
+    <string name="dialog_file_missing_body">Не удается найти загруженный файл.</string>
+    <string name="dialog_insufficient_space_on_external">Не удается завершить загрузку. На внешнем устройстве хранения недостаточно места.</string>
+    <string name="dialog_insufficient_space_on_cache">Не удается завершить загрузку. На внутреннем устройстве хранения загруженных данных недостаточно места.</string>
+    <string name="dialog_cannot_resume">Загрузка была прервана и не может быть возобновлена.</string>
+    <string name="dialog_file_already_exists">Не удается выполнить загрузку Файл назначения уже существует.</string>
+    <string name="dialog_media_not_found">Не удается выполнить загрузку Внешний носитель недоступен.</string>
+    <string name="download_no_application_title">Невозможно открыть файл</string>
+    <string name="remove_download">Удалить</string>
+    <string name="delete_download">Удалить</string>
+    <string name="keep_queued_download">Сохранить</string>
+    <string name="cancel_running_download">Отмена</string>
+    <string name="retry_download">Повторить</string>
+    <string name="deselect_all">Отменить все</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="selected_count">Выбрано</string>
+    <string name="download_share_dialog">Передать через</string>
+    <string name="share_failed_with_download_paused">Ошибка загрузки файла. Не удается продолжить обмен.</string>
+    <string name="dialog_title">Загрузить</string>
+    <string name="paused_dialog_msg">Приостановить загрузку?</string>
+    <string name="resume_dialog_msg">Возобновить загрузку?</string>
+    <string name="download_msg_no_network">Сеть не доступна</string>
+    <string name="msg_download_share_unsupport">Неподдерживаемый тип. Обмен невозможен.</string>
+    <string name="msg_download_confirm_delete">Подтверждаете удаление?</string>
+    <string name="checkbox_download_confirm_delete">Удалить исходный файл</string>
+    <string name="checkbox_download_confirm_next">Не показывать в следующий раз</string>
+    <string name="menu_settings">Параметры</string>
+    <string name="msg_download_confirm_delete_settings">Параметры подтверждения удаления</string>
+    <string name="wallpaper_instructions">Установить фоновый рисунок</string>
+    <string name="pick_wallpaper">Статические фоновые рисунки</string>
+    <string name="author">Автор:</string>
+    <string name="size">Размер:</string>
+    <string name="times">Загрузить:</string>
+    <string name="File_Loading">Загрузка... Подождите...</string>
+    <string name="File_UnZiping">Извлечение...</string>
+    <string name="File_PrepareZip">Подготовка к сжатию...</string>
+    <string name="File_Ziping">Сжатие...</string>
+    <string name="File_ZipFail">Сбой сжатия</string>
+    <string name="wallpaper_live">Живые</string>
+    <string name="wallpaper_static">Статичные</string>
+    <string name="live_wallpaper_loading">Загрузка…</string>
+    <string name="configure_wallpaper">Настройка…</string>
+    <string name="live_wallpaper_preview_title">Просмотр живых обоев</string>
+    <string name="lcapackageinstaller_out_of_space_dlg_title">Недостаточно памяти</string>
+    <string name="lcapackageinstaller_permission_error_dlg_text2">Не удается получить данные для проверки подлинности учетной записи Lenovo</string>
+    <string name="lcapackageinstaller_permission_error_dlg_text3">Отменено пользователем.</string>
+    <string name="lcapackageinstaller_permission_error_dlg_text1">Сбой подключения к сети</string>
+    <string name="lcapackageinstaller_permission_error_dlg_text">Сбой проверки пакета.</string>
+    <string name="lcapackageinstaller_permission_error_dlg_title">Сбой проверки</string>
+    <string name="lcapackageinstaller_Parse_error_dlg_text">Сбой анализа пакета</string>
+    <string name="lcapackageinstaller_Parse_error_dlg_title">Ошибка анализа</string>
+    <string name="lcapackageinstaller_install_hint_title">Советы по установке</string>
+    <string name="lcapackageinstaller_install_hint_message">Установочный пакет не был загружен или был удален. Повторите загрузку!</string>
+    <string name="lcapackageinstaller_install_succeed">Установка успешна</string>
+    <string name="wallpaper_insall_success_toast">Обои установлены!</string>
+    <string name="wallpaper_insall_fail_toast">Ошибка установки обоев.</string>
+    <string name="whether_install_wallpaper">Установить обои?</string>
+    <string name="download_delete_toast">%s удалено</string>
+    <string name="download_install_wallpaper">Применить</string>
+    <string name="release_for_more">Отпустите, чтобы получить больше</string>
+    <string name="pull_up_for_more">Проведите вверх, чтобы узнать больше</string>
+    <string name="magicdownload_loading">Загрузка......</string>
+    <string name="magicdownload_more">Получить еще</string>
+    <string name="lca_installer_not_found">Сбой установки. Не удается найти программу установки пакета.</string>
+    <string name="lcapackageinstaller_manage_applications">Диспетчер приложений</string>
+    <string name="lcapackageinstaller_out_of_space_dlg_text">Сбой установки. Освободите место и повторите попытку.</string>
+    <string name="lcapackageinstaller_permission_lenovo_authen_error">Сбой установки. Невозможно выполнить проверку подлинности учетной записи для пакета.</string>
+    <string name="lcapackageinstaller_permission_user_cancel_error">Сбой установки. Пакет был отменен.</string>
+    <string name="lcapackageinstaller_permission_network_error">Сбой установки пакета. Ошибочная информация о сети.</string>
+    <string name="lcapackageinstaller_permission_device_error">Сбой установки. Пакет уже привязан к другим устройствам.</string>
+    <string name="lcapackageinstaller_permission_date_error">Сбой установки, пакет уже устарел.</string>
+    <string name="lcapackageinstaller_permission_verify_error">Сбой установки. Не удается проверить пакет.</string>
+    <string name="lcapackageinstaller_ok">Подтвердить</string>
+    <string name="lcapackageinstaller_cancel">Отмена</string>
+    <string name="lcapackageinstaller_parse_error">Сбой анализа. Удалите пакет и повторите загрузку.</string>
+    <string name="lcapackageinstaller_install_error">Сбой установки. Повторите попытку.</string>
+    <string name="lcapackageinstaller_lenovo_dlg_prepare_install">Подготовка к установке, подождите</string>
+    <string name="lcapackageinstaller_install_exist">Установка...</string>
+    <string name="install_failed_inconsistent_certificates">Уже установлен пакет с таким же именем и несовместимой подписью.</string>
+    <string name="install_failed_older_sdk">Пакет работает только с более новыми версиями устройств Android.</string>
+    <string name="install_title">Информация об установке</string>
+    <string name="install_failed_download_again">Сбой установки, не удалось загрузить пакет, или пакет был удален. Загрузить пакет еще раз?</string>
+    <string name="install_complete">Установлено</string>
+    <string name="install_run">Щелкните для запуска</string>
+    <string name="install_notification_title">%s установлено</string>
+    <string name="download_run_app_fail">%s установлено</string>
+    <string name="network_connct_settings">Параметры</string>
+    <string name="network_connct_fail">Не удалось выполнить подключение к сети.</string>
+    <string name="network_connct_introduction">Щелкните пустую область экрана для обновления после подключения сети</string>
+
+    <string name="network_connct_introduction_ex">Проверьте параметры сети</string>
+    <string name="image_failed">Сбой предпросмотра изображения!</string>
+    <string name="theme_url_failed">Сбой загрузки URL для предпросмотра темы!</string>
+    <string name="theme_info_failed">Сбой предпросмотра темы в Интернете</string>
+    <string name="theme_copyright">CopyRight © 2014 Lenovo. Все права защищены</string>
+    <string name="theme_about">О программе Центр тем</string>
+    <string name="theme_update">Обновить ThemeCenter</string>
+    <string name="currentversion">Текущая версия</string>
+    <string name="versionnum">V1.0 Beta2</string>
+    <string name="company">Lenovo. Все права защищены</string>
+    <string name="about">О программе</string>
+    <string name="apply">Применить</string>
+    <string name="themeinuse">Эта тема используется</string>
+    <string name="theme_changing">Установка компонента, подождите…</string>
+    <string name="theme_changed_success">Успешно применено</string>
+    <string name="theme_changed_fail">Неудача.</string>
+    <string name="theme_changed_license_error">Ошибка авторизации ресурсов.</string>
+    <string name="font_changed_dialog_title">Применить</string>
+    <string name="system_font_changed_dialog_msg">Вы собираетесь использовать тему с новым шрифтом, для применения которого необходимо перезапустить телефон.</string>
+    <string name="font_changed_dialog_msg">Для использования нового шрифта необходимо перезапустить телефон.</string>
+    <string name="font_changed_dialog_yes">Перезагрузка</string>
+    <string name="font_changed_dialog_cancel">Отмена</string>
+    <string name="iknow">Ознакомлен</string>
+    <string name="date_unknown">Неизвестная дата</string>
+    <string name="timeline_description_days">%1$s дн.,</string>
+    <string name="timeline_description_downs">Загрузка %1$s тем,</string>
+    <string name="timeline_description0_sets">"Установлено тем: "</string>
+    <string name="timeline_description1_sets">" тема(ы)"</string>
+    <string name="timeline_cur_time">%1$s используется %2$s дней</string>
+    <string name="free_download">Загрузить</string>
+    <string name="cate_title1">Тема системы</string>
+    <string name="cate_title2">Тема приложения</string>
+    <string name="theme_suite">Тема</string>
+    <string name="save_current">Сохранить</string>
+    <string name="reset_default">Восстановить</string>
+    <string name="select_themes">"Выберите компонент "</string>
+    <string name="online_download_status_run_prepare">Подготовка загрузки</string>
+    <string name="online_download_status_running">Загрузка...</string>
+    <string name="online_download_status_pause">Пауза...</string>
+    <string name="online_download_status_finish">Готово</string>
+    <string name="online_download_status_error">Сбой</string>
+    <string name="online_download_status_install_prepare">Подготовка к установке...</string>
+    <string name="online_download_status_installing">Установка...</string>
+    <string name="online_download_status_install_done">Установка завершена...</string>
+    <string name="delete_themeinfo_msg">Подтверждаете удаление этой темы?</string>
+    <string name="delete_fail_msg">Сбой удаления</string>
+    <string name="delete_success_msg">Успешно удалено</string>
+    <string name="wallapply">Применить</string>
+    <string name="wallpreviewdownload">Загрузить</string>
+    <string name="wallsetsuccess">Выполнено</string>
+    <string name="no_netconnect">Не удается подключиться к сети</string>
+    <string name="lessons_turnright">Вправо</string>
+    <string name="lesssons_trunleft">Налево</string>
+    <string name="lessons_begindesign">Начать украшение телефона</string>
+    <string name="lessons_getmore">Для получения дополнительных вариантов украшения</string>
+    <string name="wallpreview_defaultview">Фоновый рисунок</string>
+    <string name="wallpreview_filenoexist">Этот файл не существует</string>
+    <string name="wallpreview_del_ok">ОК</string>
+    <string name="wallpreview_del_cancle">Отмена</string>
+    <string name="wallpreview_down_suceess">Загрузка выполнена успешно</string>
+    <string name="no_sdcard">Нет SD-карты</string>
+    <string name="no_sdcard_download">Нет SD-карты. Не удается выполнить загрузку.</string>
+    <string name="use_theme_font">Использовать шрифты темы</string>
+    <string name="use_editor_font">Включая шрифты в поле ввода</string>
+    <string name="launcher">Раб.стол</string>
+    <string name="wallpaper">Фоновый рисунок</string>
+    <string name="lockscreen">Экран блокир.</string>
+    <string name="systemwidget">Системный цвет</string>
+    <string name="bootshut">Старт-лого</string>
+    <string name="font">шрифт</string>
+    <string name="ideafriend">Контакты</string>
+    <string name="callscreen">Вызов</string>
+    <string name="systemui">Верхний бар</string>
+    <string name="systemanim">Анимация</string>
+    <string name="please_wait">Подождите</string>
+    <string name="case_name">Имя:</string>
+    <string name="casename_input">Введите имя хранилища:</string>
+    <string name="comfirm">Подтвердить</string>
+    <string name="scheme_saved">Схема сохранена</string>
+    <string name="scheme_exsit">Схема существует</string>
+    <string name="scheme_save_failed">Сбой сохранения</string>
+    <string name="bootshutdown">Загрузить</string>
+    <string name="environmentremind">Напоминание 2G/3G</string>
+    <string name="wallperviewloadingtext">Попытка загрузки ресурса, подождите.....</string>
+    <string name="wallperviewsetlockscreen">Как фон экрана блокировки</string>
+    <string name="wallperviewsetlockscreenandwallpaper">Установить для рабочего стола и экрана блокировки</string>
+    <string name="dialog_titles">Напоминание о загрузке сети 2G/3G</string>
+    <string name="dialog_message">Текущее сетевое окружение не является сетью Wi-Fi, необходимой для продолжения загрузки</string>
+    <string name="dialog_remind">не показывать</string>
+    <string name="dialog_yes">ОК</string>
+    <string name="dialog_no">Отмена</string>
+    <string name="wallperviewsetting">Настройка...</string>
+    <string name="wallloading">Идет загрузка</string>
+    <string name="scheme_timeout">Истекло время запроса БД, повторите попытку позже</string>
+    <string name="scheme_maxlength">Достигнута максимальная длина</string>
+    <string name="wallperviewsetwallpaper">Как фон рабочего стола</string>
+    <string name="wallperviewcutwallpaper">Раб. стол</string>
+    <string name="wallperviewcutlocksreenpaper">Экран блок.</string>
+    <string name="wallpaper_settings_title">Обои</string>
+    <string name="scg_wallpaper">Галерея</string>
+    <string name="weather_live_wallpaper">Живые обои Погода</string>
+    <string name="other_wallpaper">Другие обои</string>
+    <string name="live_wallpaper">Живые обои</string>
+    <string name="telecom_wallpaper">Обои Telecom</string>
+    <string name="enter_scg_wallpaper">Галерея</string>
+    <string name="wallpreview_more">Еще</string>
+    <string name="wallpreview_cut">Обрезка</string>
+    <string name="wallpreview_cut_title">Обрезка обоев</string>
+    <string name="wallpreview_cut_desktop">Установить обои на рабочий стол</string>
+    <string name="wallpreview_cut_lockscreen">Установить обои на экран блокировки</string>
+    <string name="wallpreview_preview">Просмотр</string>
+    <string name="wallpreview_apply">Применить</string>
+    <string name="lockscreen_preview">Просмотр: Экран блокировки</string>
+    <string name="desktop_preview">Просмотр: Рабочий стол</string>
+    <string name="wallpreview_cut_error_bitmap">Не удается загрузить изображение</string>
+    <string name="login_success">Вход выполнен</string>
+    <string name="login_fail">Ошибка входа</string>
+    <string name="login_cancel">Отменить вход</string>
+    <string name="download">Загрузить</string>
+    <string name="update">обновить</string>
+    <string name="buy">Приобрести</string>
+    <string name="login_wait">Выполняется вход, подождите...</string>
+    <string name="load_data">Загрузка...</string>
+    <string name="buy_timeout">Время ожидания подключения истекло, повторите попытку</string>
+    <string name="network_error_retry">Ошибка сети. Повторите попытку позже</string>
+    <string name="more">ещё</string>
+    <string name="no_sign">Нет значения подписи</string>
+    <string name="paysuccess">Платеж прошел</string>
+    <string name="paysuccess_nosign">Платеж прошел успешно, но проверка подписи не пройдена</string>
+    <string name="cancel_pay">Отменить платеж</string>
+    <string name="pay_fail">Платеж не прошел</string>
+    <string name="order_fail">Не удалось получить номер заказа. Невозможно продолжить платеж.</string>
+    <string name="tab_category">Категории</string>
+    <string name="tab_discovery">Обзор</string>
+    <string name="tabs_topic">Коллекции</string>
+    <string name="tabs_personal">Настройки</string>
+    <string name="wallpaperrecycled">Обои обновлены. Повторите ввод</string>
+    <string name="title_hottest_theme">Популярные темы</string>
+    <string name="title_hottest_background">Популярные обои</string>
+    <string name="title_more_detail">Еще...</string>
+    <string name="title_more_hottest_theme">Популярные темы</string>
+    <string name="title_more_hottest_background">Популярные обои</string>
+    <string name="title_more_hottest_lockscreen">Популярные обои экрана блокировки</string>
+    <string name="title_more_hottest_font">Популярные шрифты</string>
+    <string name="title_more_hottest_animation">Популярные анимации загрузки</string>
+    <string name="title_more_hottest_ring">Больше популярный звонков</string>
+    <string name="title_nowloading">Загрузка...</string>
+    <string name="title_dynamiclockscreen">Динамическая блокировка экрана</string>
+    <string name="title_ring">Рингтоны</string>
+    <string name="title_font">Шрифт</string>
+    <string name="title_animation">Анимации включения и выключения</string>
+    <string name="title_nomorecontent">Больше нет</string>
+    <string name="title_ad_loading">Загрузка...</string>
+    <string name="title_content_loading">Загрузка...</string>
+    <string name="title_content_reloading">Проблема при загрузке. Щелкните, чтобы повторить попытку</string>
+    <string name="title_content_loading_failed">Ошибка сети. Ошибка загрузки</string>
+    <string name="title_lenovo_account">Войдите с помощью Lenovo ID</string>
+    <string name="title_lenovo_account_other">Lenovo ID:</string>
+    <string name="title_more_service">Теперь наслаждайтесь новыми услугами</string>
+    <string name="title_login">Вход</string>
+    <string name="no_usage_history">Журнала использования сейчас нет</string>
+    <string name="title_usage_history">Журнал использования:</string>
+    <string name="title_feedback">Обратная связь</string>
+    <string name="title_account_management">Управление уч. записями</string>
+    <string name="crop_label">Обрезка</string>
+    <string name="title_used">Используется</string>
+    <string name="title_day">День</string>
+    <string name="title_regist">Нет учетной записи? Щелкните, чтобы зарегистрироваться</string>
+    <string name="title_now_login">Выполняется вход, подождите...</string>
+    <string name="title_about">Контактные данные</string>
+    <string name="title_free">Бесплатно</string>
+    <string name="title_tab_category">Категории</string>
+    <string name="title_tab_great">Бутик</string>
+    <string name="title_tab_topic">Специальные разделы</string>
+    <string name="title_tab_personal">Отдельный</string>
+    
+    <string name="custom_theme_ring">Рингтоны</string>
+    <string name="wallpaper_select_all">Все</string>
+    <string name="wallpaper_select_beauty">Красота</string>
+    <string name="wallpaper_select_scenery">Пейзаж</string>
+    <string name="wallpaper_select_slight">Визуальный</string>
+    <string name="wallpaper_select_game">Игра</string>
+    <string name="wallpaper_select_video">Видео</string>
+    <string name="wallpaper_select_animal">Животное</string>
+    <string name="wallpaper_select_animation">Анимация</string>
+    <string name="app_chname">Центр тем</string>
+    <string name="mobile_data_remind_message">Уважаемый пользователь, для клиента центра тем Lenovo необходим доступ в Интернет. Оплата трафика данных взимается оператором.</string>
+    <string name="toast_no_network">Подключение к сети не обнаружено. Невозможно найти интернет-контент</string>
+    <string name="mobile_network_dialog_hint">Обнаружено, что вы используете сеть 2G/3G</string>
+    <string name="mobile_network_dialog_nexttime">Больше не показывать</string>
+    <string name="mobile_network_dialog_btntext">ОК</string>
+    <string name="mobile_network_dialog_canceltext">Выход</string>
+    <string name="ptr_pull_to_refresh">Проведите вниз для обновления</string>
+    <string name="ptr_release_to_refresh">Обновление выпуска</string>
+    <string name="ptr_refreshing">Загрузка…</string>
+    <string name="ptr_last_updated">Обновить: %1$s</string>
+    <string name="internal_system">Встроенное приложение</string>
+    <string name="categoryfragment_other">Другие</string>
+    <string name="in_the_end">Достигнут конец списка</string>
+    <string name="loading_failed">Ошибка загрузки</string>
+    <string name="dialog_crop_error_content">Выбранное вами изображение не подходит для использования в качестве обоев</string>
+    <string name="dialog_crop_error_titles">Это изображение не подходит для использования в качестве фонового рисунка</string>
+    <string name="wallloadingtimeout">Загрузка изображения в вашей сети завершена. Повторите попытку позднее</string>
+    <string name="dialog_download_error_titles">Непредвиденная ошибка сети</string>
+    <string name="dialog_download_error_content">Изображение не удается загрузить из-за непредусмотренной ошибки сети</string>
+    <string name="file_not_found">Не удается найти файл</string>
+    <string name="outof_memory">Размер изображения слишком большой и не подходит для использования в качестве обоев</string>
+    <string name="bitmap_failed">Файл поврежден</string>
+    <string name="bitmap_toosmall">Размер файла слишком мал и не подходит для использования в качестве обоев</string>
+    <string name="resource_file_missed">Файла ресурса не существует</string>
+    <string name="file_has_deleted">Изображение было удалено</string>
+    <string name="file_can_not_be_deleted">Обои не загружены, невозможно удалить</string>
+    <string name="wallloadingnoreponse">Сеть не отвечает</string>
+    <string name="quit_title">Запрос на выход</string>
+    <string name="quitjudge">Выполнить выход?</string>
+    <string name="defaultwallpaper">Загрузка изображения</string>
+    <string name="delete_dialog">Удалить</string>
+    <string name="delete_dialog_info_msg">Удалить эту музыку?</string>
+    <string name="delete_dialog_ok">Подтвердите</string>
+    <string name="delete_dialog_cancel">Отмена</string>
+    <string name="ring_set_ringtone">Установить мелодию вызова</string>
+    <string name="ring_set_ringtone1">Установить мелодией SIM 1</string>
+    <string name="ring_set_ringtone2">Установить мелодией SIM 2</string>
+    <string name="ring_set_notification">Установить мелодию SMS</string>
+    <string name="ring_set_wifi_notification">Установить мелодию оповещений</string>
+    <string name="ring_set_notification1">Установить мелодию SMS для SIM 1</string>
+    <string name="ring_set_notification2">Установить мелодию SMS для SIM 2</string>
+    <string name="ring_set_alarm">Установить мелодию будильника</string>
+    <string name="ring">Мелодии</string>
+    <string name="ring_set">Установить мелодию</string>
+    <string name="ring_downloading">Загрузка</string>
+    <string name="ring_system_preferences">Предустановленные системные мелодии не найдены</string>
+    <string name="ring_set_ringtone_success">Мелодия вызова установлена успешно</string>
+    <string name="ring_set_notification_success">Мелодия SMS установлена успешно</string>
+    <string name="ring_set_alarm_success">Мелодия будильника установлена успешно</string>
+    <string name="ring_reset_to_default_ringtone">Установить мелодию вызова по-умолчанию</string>
+    <string name="ring_reset_to_default_notification">Установить мелодию SMS по-умолчанию</string>
+    <string name="ring_reset_to_default_alarm">Установить мелодию будильника по-умолчанию</string>
+    <string name="ring_create_directory">Создать папку：ThemeCenter/music/download</string>
+    <string name="ring_no_download_toast">Нельзя выбрать, сначала загрузите эту мелодию</string>
+    <string name="ring_local_isdeled_music_path">Источник не найден, попробуйде позже</string>
+    <string name="ring_is_downloading_toast">Поставлен в очередь</string>
+    <string name="ring_no_frequent_click">Не нажимайте часто</string>
+    <string name="ring_home_hottest">Лучшие мелодии</string>
+    <string name="ring_home_newest">Новые мелодии</string>
+    <string name="ring_import_description">Импорт мелодий</string>
+    <string name="ring_import_description_info">Скопируйте нужную мелодию в папку:SD_Card/ThemeCenter/music/download</string>
+    <string name="ring_import_description_title">Импорт...</string>
+    <string name="popsort_hottest">Лучшие</string>
+    <string name="popsort_newest">Новые</string>
+    <string name="wallpaper_tailor_button">OK</string>
+    <string name="personal_collection_record">Коллекция</string>
+    <string name="personal_set">Настройки</string>
+    <string name="copyright_statement">Авторское соглашение</string>
+    <string name="copyright_statement_content">&lt;html> &lt;head>&lt;/head> &lt;body style=background-color:#FFFFFF;> &lt;p style=text-align:justify;font-size:16px;text-indent:2em;>The Lenovo Theme Center is an open DIY theme sharing platform for Lenovo fans. It contains themes, wallpapers, ringtones, and other content uploaded by users to which the Lenovo Theme Center does not hold the copyright. It is an interactive platform for content providers and is not duly able to fully monitor it for illegally reproduced or pirated content. However, if a copyright holder alleges an infringement and provides sufficient evidence, it is the responsibility of the Lenovo Theme Center to remove from the Center pirated or illegally reproduced content and stop its dissemination. If a copyright holder discovers that his or her rights have been infringed, they should immediately send Lenovo a written notice of their rights and provide proof of identity, proof of content ownership, a specific link (URL) to the infringed content, and detailed evidence of infringement. After the Lenovo Theme Center receives the above legal documentation, they will lawfully remove from the center the allegedly infringing content as quickly as possible. The Lenovo Theme Center bears no legal responsibility for any such infringement by others on the website. The liability for this infringement lies solely with the poster of the infringing content. Authors who post content on the Lenovo Theme Center are deemed to have agreed to the measures the Lenovo Theme Center shall take in response to the previously described situation. When the Lenovo Theme Center fulfills its previously stated obligations to remove the offending content and take other appropriate measures, it does not bear legal liabilities to the original poster for a breach of contract or any other liability due to such measures, including liability to the original poster for compensations for any losses suffered if the alleged infringement is not established. When end users use the Lenovo Theme Center, they may only use the theme files, images, ringtones, and fonts downloaded for personal, non-commercial purposes on Lenovo smart phones and tablets. End users do not have the right to use the downloaded theme files, images, ringtones, or fonts for any other purposes without written authorization from the copyright owner of the content.&lt;p> &lt;/body> &lt;/html></string>
+    <string name="please_login">Войдите</string>
+    <string name="enter_nickname">Введите ник</string>
+    <string name="favour">"Избранное: "</string>
+    <string name="nickname_string">Ник не выбран</string>
+    <string name="no_collection_tips">У Вас нет коллекций ~~</string>
+    <string name="to_see_more">Больше</string>
+    <string name="personal_purchase_history">История платежей</string>
+    <string name="personal_recharge_entry">Вирт.деньги</string>
+    <string name="personal_local_management">Локальное управление</string>
+    <string name="app_version">Версия</string>
+    <string name="discovery_hottest_background_more">Фон</string>
+    <string name="discovery_hottest_background_more_recommand">Рекомендации</string>
+    <string name="discovery_hottest_background_more_classification">Классификация</string>
+    <string name="discovery_hottest_background_more_pop_wallpaper">Обои</string>
+    <string name="discovery_hottest_background_more_pop_dynamic_wallpaper">Живые обои</string>
+    <string name="discovery_hottest_background_more_pop_wandou">WanDouJia Обои</string>
+    <string name="discovery_hottest_background_more_pop_sougou">Sougou Обои</string>
+    <string name="discovery_hottest_background_recommandation_refreshfailed">Ошибка обновления</string>
+    <string name="new_home_theme_center_actionbar_title1">"Центр "</string>
+    <string name="new_home_theme_center_actionbar_title2">"Тем Lenovo"</string>
+    <string name="new_home_ring_recommandation">Популярные мелодии</string>
+    <string name="new_home_font_recommandation">Популярные шрифты</string>
+    <string name="new_home_lock_screen_recommandation">Популярные Лок-скрины</string>
+    <string name="new_home_animation_recommandation">Популярные Анимации загрузки</string>
+    <string name="new_home_topic">Тема</string>
+    <string name="new_home_newest_theme">Новые темы</string>
+    <string name="new_home_newest_font">Новые шрифты</string>
+    <string name="new_home_newest_lock">Новые экраны блокировки</string>
+    <string name="new_home_hottest_theme">Лучшие темы</string>
+    <string name="new_home_hottest_font">Лучшие шрифты</string>
+    <string name="new_home_hottest_lock">Лучшие экраны блокировки</string>
+    <string name="new_home_hottest_animation">Лучшие анимации загрузки</string>
+    <string name="new_home_newest_animation">Новые анимации загрузки</string>
+    <string name="new_home_orientation_text">Изменить установленные</string>
+    <string name="new_home_wallpaper_date_1">/Январь</string>
+    <string name="new_home_wallpaper_date_2">/Февраль</string>
+    <string name="new_home_wallpaper_date_3">/Март</string>
+    <string name="new_home_wallpaper_date_4">/Апрель</string>
+    <string name="new_home_wallpaper_date_5">/Май</string>
+    <string name="new_home_wallpaper_date_6">/Июнь</string>
+    <string name="new_home_wallpaper_date_7">/Июль</string>
+    <string name="new_home_wallpaper_date_8">/Август</string>
+    <string name="new_home_wallpaper_date_9">/Сентябрь</string>
+    <string name="new_home_wallpaper_date_10">/Октябрь</string>
+    <string name="new_home_wallpaper_date_11">/Ноябрь</string>
+    <string name="new_home_wallpaper_date_12">/Декабрь</string>
+    <string name="preview_updating">Обновление</string>
+    <string name="comment">Комментарий</string>
+    <string name="comment_success">Комментарий отправлен успешно</string>
+    <string name="comment_fail">Ошибка отправки комментария</string>
+    <string name="comment_title">Комментарии |</string>
+    <string name="comment_more">Все комментарии</string>
+    <string name="favorite_success">Добавить в избранное</string>
+    <string name="favorite_fail">Ошибка добавления в избранное</string>
+    <string name="comment_dialog_title">Добавить комментарий</string>
+    <string name="comment_dialog_hint">Введите комментарий</string>
+    <string name="comment_user">Пользователь</string>
+    <string name="comment_nomore">Больше нет</string>
+    <string name="comment_empty">Нет комментариев</string>
+    <string name="comment_not_download">Необходимо скачать тему, чтобы оставить комментарий</string>
+    <string name="comment_reply">ответ на</string>
+    <string name="preview_data_incomplete">Данные Темы повреждены, перезагрузите</string>
+    <string name="purchase_history">История платежей</string>
+    <string name="purchae_trade_no">Номер заказа:</string>
+    <string name="purchae_rmb">RMB</string>
+    <string name="purchase_see_more">Больше</string>
+    <string name="purchase_empty_hint">Нет записей платежей</string>
+    <string name="recharge_success">Пополнение успешно</string>
+    <string name="recharge_fail">Ошибка пополненияe</string>
+    <string name="recharge_cancel">Отмена пополнения</string>
+    <string name="recharge_not_login">Войдите перед пополнением</string>
+    <string name="new_home_network_fail">Ошибка сети</string>
+    <string name="select_resource">Выбрать источник</string>
+    <string name="personal_bitmap_Album">Альбом</string>
+    <string name="personal_bitmap_Photograph">Фотография</string>
+    <string name="wallpaper_crop_bitmapnotcorrect">Переместите изображенеи на всю рамку.</string>
+    <string name="install_weather_title">Установка Виджет погоды Lenovo</string>
+    <string name="install_weather_message">Для применения темы требуется установить Виджет погоды Lenovo. Виджет будет загружен, установите его.</string>
+    <string name="update_lelauncher_title">Обновление LeLauncher</string>
+    <string name="update_lelauncher_message">Для применения темы с эффектами погоды требуется LeLauncher версии 6.4. Обновите лаунчер до последней версии.</string>
+    <string name="sus_channel">full_zip</string>
+</resources>

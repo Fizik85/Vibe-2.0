@@ -5,6 +5,8 @@
 
 
 
+
+
     <string name="usb_storage_activity_title">USB-накопитель</string>
     <string name="instant_notification">Уведомления</string>
     <string name="ongoing_notification">Выполняется</string>
@@ -107,8 +109,6 @@
     <string name="expand_todayview_notificationbar_content">Показать содержимое за сегодня и развернуть его</string>
     <string name="todayview_notificationbar_content_nothing">Повестка дня не установлена!</string>
     <string name="todayview_notificationbar_summary">Отображать уведомления о расписании на сегодня в раскрывающимся списке</string>
-
-
     <string name="widget_text_more">Ещё</string>
     <string name="lenovo_statusbar_switch_brightness_auto_textview_text">АВТО</string>
     <string name="battery_remain_level">избыточная энергия</string>

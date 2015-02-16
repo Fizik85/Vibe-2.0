@@ -82,6 +82,8 @@
     <string name="remind_tmp_high_text">Высокая температура! Берегитесь солнечного удара!</string>
     <string name="remind_text">Сегодня %1$s</string>
     <string name="prompt">Подсказка</string>
+
+
     <string name="warning">Предупреждение</string>
     <string name="dataUseHint">Добро пожаловать на страницу погоды Lenovo! Использование клиента бесплатно, но при этом может возрасти трафик. Для получения информации о стоимости трафика обратитесь в ваш сервис-центр.</string>
     <string name="display_once">Больше не напоминать</string>

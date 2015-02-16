@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Служба беспроводного экрана</string>
+    <string name="perm_label">Стэк беспроводного экрана Qualcomm</string>
+    <string name="perm_desc">Доступ к стеку API беспроводного экрана Qualcomm</string>
+</resources>

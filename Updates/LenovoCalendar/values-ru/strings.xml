@@ -1048,6 +1048,7 @@
     <string name="import_birthday_confirm">импорт выбранного дня рождения</string>
     <string name="user_feedback">User feeedback</string>
     <string name="menu_plugin">Ещё</string>
+
     <string name="plugin_get_download_fail_no_update">Новая версия недоступна!</string>
     <string name="plugin_get_download_url_fail">Сбой получения URL загрузки!</string>
     <string name="plugin_download_notification_title">Загрузка</string>

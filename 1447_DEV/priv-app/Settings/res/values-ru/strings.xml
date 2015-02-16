@@ -28,9 +28,12 @@
     <string name="smart_rotete_cbox_summary">Интеллектуальный</string>
     <string name="header_category_shortcut_key">КЛАВИША БЫСТРОГО ВЫЗОВА</string>
     <string name="wide_touch_float_button">Смарт-меню</string>
-    <string name="wide_touch_float_button_summary">Для взаимодействия с объектом приложите к нему палец | Нажмите для справки</string>
-    <string name="lockscreen_volume_key_lock_unlock_ctrl">Включение громкостью</string>
-    <string name="lockscreen_volume_key_lock_unlock_ctrl_summary">Использовать клавиши громкости для включения экрана | Нажмите для справки</string>
+    <string name="wide_touch_float_button_summary">Нажмите на плавающую кнопку | Нажмите для справки</string>
+    <string name="single_hand_title">Масштабирование экрана</string>
+    <string name="single_hand_summary">Проведя пальцем букву С можно изменять масштаб изображения</string>
+    <string name="single_hand_help">Проведя пальцем букву С из верхнего угла в нижний можно изменять масштаб текущего экрана(Только в портретном режиме)</string>
+    <string name="lockscreen_volume_key_lock_unlock_ctrl">Управление кнопками громкости</string>
+    <string name="lockscreen_volume_key_lock_unlock_ctrl_summary">Разблокировка экрана нажатием кнопки громкости | Нажмите для справки</string>
     <string name="double_click_home_enabled_title">"Дважды щелкните клавишу HOME для активации голосового управления "</string>
     <string name="double_click_home_enabled_description">Нажмите и удерживайте клавишу МЕНЮ для активизации голосового управления</string>
     <string name="double_click_menu_enabled_title">Голосовое управление</string>
@@ -60,9 +63,11 @@
     <string name="category_single_hand">Режим одной руки</string>
     <string name="category_gesture">Жест</string>
     <string name="category_smart">Смарт</string>
-    <string name="gesture_topspeed_snap_title">Мгновенная съёмка</string>
-    <string name="gesture_topspeed_snap_summary">Нажмите дважды кнопку Домой для получения снимка</string>
-    <string name="volume_up_option">Функции кнопок громкости</string>
+    <string name="gesture_topspeed_snap_title">Быстрое фото</string>
+    <string name="gesture_topspeed_snap_summary">Дважды нажать кнопку Домой для фотосъемки</string>
+    <string name="volume_up_option">Управление кнопками громкости</string>
+    <string name="gesture_light_up_screen_title">Пробуждение нажатием</string>
+    <string name="gesture_light_up_screen_summary">Дважды нажмите экран блокировки, чтобы включить экран</string>
     <string name="com_lenovo_lsf_app_name">UserFramework</string>
     <string name="com_lenovo_lsf_lenovouser_app_name">Аккаунт Lenovo</string>
     <string name="com_lenovo_lsf_lenovouser_btn_ok">ОК</string>
@@ -318,8 +323,8 @@
     <string name="com_lenovo_lsf_u_message_install">Lenovo User Framework не установлен. После установки с помощью пароля Lenovo Вы сможете автоматически входить в аккаунт и гарантировать безопасность хранения данных (установка производится однократно, трафик не расходуется)</string>
     <string name="incoming_call_ringer_title1">Мелодия входящего вызова (SIM 1)</string>
     <string name="incoming_call_ringer_title2">Мелодия входящего вызова (SIM 2)</string>
-    <string name="sms_notification_title1">Мелодия SMS (SIM 1)</string>
-    <string name="sms_notification_title2">Мелодия SMS (SIM 2)</string>
+    <string name="sms_notification_title1">Мелодия SMS(SIM 1)</string>
+    <string name="sms_notification_title2">Мелодия SMS(SIM 2)</string>
 
 
     <string name="config_backup_title_total">Резерверивание данных</string>
@@ -383,7 +388,7 @@
     <string name="colorLight_settings">Настройки Цвета-Яркости</string>
     <string name="color_light">Индикатор событий</string>
     <string name="color_light_demo">Демонстрация индикации</string>
-    <string name="color_light_call">Звонок</string>
+    <string name="color_light_call">Позвонить</string>
     <string name="color_light_missed_call">Пропущенные вызовы</string>
     <string name="color_light_unread_mms">Непрочитанные SMS/MMS</string>
     <string name="color_light_battery">Батарея</string>
@@ -403,18 +408,18 @@
     <string name="system_time_pm">ПП</string>
     <string name="startup_time_enabled">Запланированное включение</string>
     <string name="shutdown_time_enabled">Запланированное выключение</string>
-    <string name="data_connect_settings_title">Моб. Интернет</string>
+    <string name="data_connect_settings_title">Мобильный интернет</string>
     <string name="sim_not_available">SIM-карта недоступна</string>
     <string name="never_timeout">Не переходить в режим ожидания</string>
     <string name="simple_settings">Руководство новичка</string>
     <string name="device_info">Информация о версиях</string>
     <string name="ota_title">Обновление системы</string>
-    <string name="products_version">Модель</string>
+    <string name="products_version">Номер модели</string>
     <string name="hardware_version">Аппаратная версия</string>
     <string name="software_version">Номер сборки</string>
-    <string name="framework_version">Версия Android</string>
-    <string name="os_version">Версия системы</string>
-    <string name="internal_version">Внутренняя версия</string>
+    <string name="framework_version">Номер версии Android</string>
+    <string name="os_version">Номер версии системы</string>
+    <string name="internal_version">Номер внутренней версии</string>
     <string name="backup_data_section_title">Резервное копирование</string>
     <string name="backup_data_to_sdcard_title">Резервное копирование на SD</string>
     <string name="backup_data_to_sdcard_summary">Резервное копирование телефона на SD-карту</string>
@@ -527,7 +532,7 @@
     <string name="character_setings_title">Специальные</string>
     <string name="all_setings_title">Системные</string>
     <string name="smart_scene_title">Смарт-сценарий</string>
-    <string name="smart_scene_summary">Режим требует настройки переключения сценариев по расписанию или по привязанной Wi-Fi точке</string>
+    <string name="smart_scene_summary">Режим требует настройки переключения сценариев</string>
     <string name="accessibility_script_injection_allowed">Разрешены</string>
     <string name="accessibility_script_injection_disallowed">Запрещены</string>
     <string name="accessibility_service_security_warning_title">Использовать %1$s?</string>
@@ -590,7 +595,7 @@
     <string name="preference_status_close">Выкл</string>
     <string name="header_category_personalcustom_k7">Персонально</string>
     <string name="settings_header_ringtone_k7">Параметры мелодии</string>
-    <string name="wifi_switch_settings_title">Привязка Wi-Fi</string>
+    <string name="wifi_switch_settings_title">Местоположение по сети Wi-Fi</string>
     <string name="wifi_popup_0">Привязка и напоминание подключения</string>
     <string name="wifi_popup_1">Привязка и автоподключение</string>
     <string name="wifi_popup_2">Не привязывать</string>
@@ -672,8 +677,56 @@
     <string name="exist_user">Номер уже есть в Белом списке!</string>
     <string name="disturb_white_title">Белый список</string>
     <string name="lenovo_cloud">SYNCit</string>
-    <string name="power_settings">Управление Питанием</string>
-    <string name="memory_image_usage">Изображения</string>
+    <string name="power_settings">Диспетчер питания</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="memory_image_usage">Изображение</string>
     <string name="memory_video_usage">Видео</string>
     <string name="memory_os_size">Занято ОС</string>
     <string name="dlg_ums_storage_checking_title">Проверка карты памяти</string>
@@ -1147,7 +1200,7 @@
     <string name="bluetooth_device_context_connect_advanced">Параметры...</string>
     <string name="bluetooth_menu_advanced">Расширенные</string>
     <string name="bluetooth_advanced_titlebar">Расш. настройки Bluetooth</string>
-    <string name="bluetooth_empty_list_bluetooth_off">Чтобы найти устройства, включите Bluetooth.</string>
+    <string name="bluetooth_empty_list_bluetooth_off">Чтобы обнаружить устройства, включите Bluetooth.</string>
     <string name="bluetooth_connect_specific_profiles_title">Подключить к...</string>
     <string name="bluetooth_profile_a2dp">Профиль A2DP</string>
     <string name="bluetooth_profile_headset">Профиль HSP/HFP</string>
@@ -2384,7 +2437,7 @@
     <string name="gadget_brightness_state_off">Отключено</string>
     <string name="vpn_settings_title">VPN</string>
     <string name="credentials_title">Хранилище учетных данных</string>
-    <string name="credentials_install">Установка с карты памяти</string>
+    <string name="credentials_install">Установить с карты памяти</string>
     <string name="credentials_install_summary">Установить сертификаты с карты памяти</string>
     <string name="credentials_reset">Очистить учетные данные</string>
     <string name="credentials_reset_summary">Удалить все сертификаты</string>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartStandBy</string>
+    <string name="smart_standby_enable_title">Умное ожидание</string>
+    <string name="smart_standby_enable_summary">При обнаружении яркого света включается передняя камеря для определения лица и последующего вывода из сна</string>
+</resources>
