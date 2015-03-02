@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="headset_answer_entries">
+        <item>Гарнитура выкл.</item>
+        <item>Ответить сейчас</item>
+        <item>Ответить через 5с</item>
+        <item>Ответить через 10с</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Всегда</item>
+        <item>Только в тихом режиме</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>GSM/WCDMA (авторежим)</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>Предпочитать WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>английский</item>
+        <item>французский</item>
+        <item>испанский</item>
+        <item>японский</item>
+        <item>корейский</item>
+        <item>китайский</item>
+        <item>иврит</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Только домашняя</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>Телетайп выключен</item>
+        <item>Полнофункциональный телетайп</item>
+        <item>Телетайп с возможностью слышать собеседника</item>
+        <item>Телетайп с возможностью передачи голоса</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Обычные</item>
+        <item>Длинные</item>
+    </string-array>
+</resources>
