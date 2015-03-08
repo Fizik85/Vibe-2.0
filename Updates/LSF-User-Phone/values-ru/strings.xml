@@ -451,7 +451,8 @@
     <string name="boot_wizard_tips_1">SMS、Контакты、Фото……Lenovo</string>
     <string name="boot_wizard_tips_2">Облачные службы</string>
     <string name="boot_wizard_tips_3">помогут</string>
-    <string name="boot_wizard_tips_4">в архивации.</string>
+    <string name="boot_wizard_tips_4">сохранить.</string>
+    <string name="boot_wizard_tips"><Data>СМС、Контакты、Фотографии……Lenovo &lt;font color=#33b5e5>Облачные Сервисы &lt;/font>помогут &lt;font color=#33b5e5>сохранить.&lt;/font></Data></string>
     <string name="boot_wizard_registerbythis">Номер телефона зарегистрирован как уч.запись</string>
     <string name="boot_wizard_iwantregister">Зарегистрироваться</string>
     <string name="boot_wizard_login_email">Логин эл.почта</string>
@@ -461,6 +462,18 @@
     <string name="com_lenovo_lsf_string_contact_method">Контакты</string>
     <string name="com_lenovo_lsf_string_check_update">Проверка обновления</string>
     <string name="com_lenovo_lsf_string_feedback">Отзыв</string>
+    <string name="qr_scanner_hint_1">Поместите QR-код в видоискатель (Необходимо подключение к сети)</string>
+    <string name="qr_scanner_hint_2">Распознавать возможно только ID QR-код с веб-страницы Lenovo</string>
+    <string name="invalid_qrcode">Неверный Qr-код</string>
+    <string name="upload_login_info_failed">Ошибка загрузки информации о пользователе</string>
+    <string name="upload_auth_info_failed">Ошибка загрузка информации авторизации</string>
+    <string name="com_lenovo_lsf_barcode_auth">Вход по QR-коду</string>
+    <string name="com_lenovo_lsf_barcode_auth_tip">Рзазешение на использование QR-кода для авторизации на других устройствах</string>
+    <string name="com_lenovo_lsf_barcode_auth_agree">Согласие</string>
+    <string name="com_lenovo_lsf_barcode_auth_refuse">Отказ</string>
+    <string name="account_settings_summary">смена аккаунта、изменение пароля、обновелние приложений、vb-центр</string>
+    <string name="com_lenovo_lsf_barcode_auth_summary">QR-код，простой способ авторизации</string>
+    <string name="commit_operator_info">提交运营商信息</string>
     <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите Wi-Fi</string>
     <string name="SUS_MSG_LATESTVERSION">Самая новая версия</string>
     <string name="SUS_MSG_NOTFOUND">Не найдено</string>

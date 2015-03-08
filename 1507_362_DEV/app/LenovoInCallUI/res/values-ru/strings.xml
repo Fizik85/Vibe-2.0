@@ -577,7 +577,7 @@
     <string name="onscreenUnholdText">Возобновить</string>
     <string name="onscreenBluetoothText">Bluetooth</string>
     <string name="onscreenSpeakerText">Динамик</string>
-    <string name="anti_tapping">Защита от нажатий</string>
+    <string name="anti_tapping">Защита от прослушивания</string>
     <string name="slide_down_answer">Проведите по экрану, чтобы ответить</string>
     <string name="hint_recording">Запись</string>
     <string name="lesafe_msg_format_1">Номер отмечен как %s</string>
