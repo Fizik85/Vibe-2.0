@@ -29,7 +29,7 @@
     <string name="powerOnWarning_alarm_msg">Будильник сработает: %1$s</string>
     <string name="powerOnWarning_boot_msg">Автовключение: %1$s</string>
     <string name="qreboot_confirm_title">Быстрая перезагрузка</string>
-    <string name="qreboot_confirm_msg">Бысрая перезагрузка сбросит процесс приложения. При появлении проблемы в системе, перезагрузите телефон в нормальном режиме.</string>
+    <string name="qreboot_confirm_msg">Быстрая перезагрузка сбросит процесс приложения. При появлении проблемы в системе, перезагрузите телефон в нормальном режиме.</string>
     <string name="long_back_exit_info">выход</string>
     <string name="prevent_misoperation_title">Блокировка экрана при нахождении телефона в кармане</string>
     <string name="prevent_misoperation_message">Не перекрывайте датчик освещенности вверху экрана</string>
