@@ -24,31 +24,37 @@
     <string name="anti_setpwdtrustpanel_label">Set the password protection</string>
     <string name="lock_state_close">Mobile phone anti-theft unopened</string>
     <string name="lock_state_open">Mobile phone anti-theft protection</string>
-    <string name="open_antithief">Opening the protection</string>
-    <string name="open_antithief_content">To prevent the mobile phone is lost, please immediately open anti-theft protection</string>
-    <string name="tv_lock">Mobile phone lock</string>
-    <string name="tv_location">Location tracking</string>
-    <string name="tv_alarm">Send alarm sound</string>
-    <string name="tv_backup">Data backup</string>
-    <string name="tv_dele">Data destruction</string>
-    <string name="tv_sim_change">Card change notice</string>
-    <string name="antithief_no_set_mail">Has not yet set up a backup mail</string>
-    <string name="antithief_no_set_number">Not set security number</string>
-    <string name="antithief_no_set">Is not set</string>
-    <string name="antithief_safe_number">Emergency contact number</string>
-    <string name="antithief_set_safe_number">Set up an emergency contact number</string>
-    <string name="antithief_settings">Security settings</string>
-    <string name="antithief_settings_service">Service switch</string>
-    <string name="antithief_settings_service_switch_tv1">Mobile phone anti-theft service</string>
-    <string name="antithief_settings_other">Other settings</string>
-    <string name="antithief_settings_sim_change_set">Card change settings</string>
+    <string name="open_antithief">Включить защиту от кражи</string>
+    <string name="open_antithief_content">Включите защиту от кражи прямо сейчас</string>
+    <string name="tv_lock">"Блокировка
+телефона"</string>
+    <string name="tv_location">"Определение
+местоположения"</string>
+    <string name="tv_alarm">"Сигнал
+тревоги"</string>
+    <string name="tv_backup">"Резервное
+копирование"</string>
+    <string name="tv_dele">"Уничтожение
+данных"</string>
+    <string name="tv_sim_change">"Замена
+SIM-карты"</string>
+    <string name="antithief_no_set_mail">Ящик для получения резервной копии данных не установлен</string>
+    <string name="antithief_no_set_number">Дополнительный номер телефона не установлен</string>
+    <string name="antithief_no_set">Не установлено</string>
+    <string name="antithief_safe_number">Экстренный номер</string>
+    <string name="antithief_set_safe_number">Введите экстренный номер</string>
+    <string name="antithief_settings">Настройки защиты от кражи</string>
+    <string name="antithief_settings_service">Включение службы</string>
+    <string name="antithief_settings_service_switch_tv1">Служба защиты от кражи</string>
+    <string name="antithief_settings_other">Другие настройки</string>
+    <string name="antithief_settings_sim_change_set">Настройки при замене SIM-карты</string>
     <string name="antithief_settings_sim_change_locksc_set">Card change lock screen settings</string>
-    <string name="antithief_settings_change_sim">Card change SMS notification</string>
+    <string name="antithief_settings_change_sim">Отправлять SMS при замене</string>
     <string name="antithief_settings_change_sim_locksc">Card change lock screen</string>
-    <string name="antithief_edit_msg">Edit card changing the contents of the notice</string>
-    <string name="antithief_edit_msg_title">Edit card changing the contents of the notice</string>
-    <string name="antithief_settings_backup_to_mail">Data backup mailbox</string>
-    <string name="antithief_set_mail">Set the data backup mailbox</string>
+    <string name="antithief_edit_msg">Изменить текст SMS при замене SIM-карты</string>
+    <string name="antithief_edit_msg_title">Изменить текст SMS</string>
+    <string name="antithief_settings_backup_to_mail">Адрес e-mail для резервной копии</string>
+    <string name="antithief_set_mail">Введите адрес e-mail</string>
     <string name="backup_mail_subject">Mobile phone data backup - Your Lenovo Security Center</string>
     <string name="backup_mail_content">"Security center backup for your mobile phone contacts and SMS, please see the attachment.
  Annex contains：
@@ -59,31 +65,31 @@
  The attachment can be downloaded directly double-click on the smsbackup.txt file to view the message content.
  To import contacts please put contacts.vcf to your mobile phone SD card, set the import button from the memory card in the contact function.
 "</string>
-    <string name="antithief_settings_backup_prompt">The backup anti-theft instruction</string>
-    <string name="icon_lock">Lock Mobile phone：</string>
-    <string name="icon_lock_content">Send the password to the stolen mobile phone #SD, can instantly lock stolen mobile phone, through the anti-theft password to unlock, unlock three times is not successful, if has a front facing camera, will automatically take pictures and photos to the emergency contact .</string>
-    <string name="icon_lock_content_nofront_camera">Send the password to the stolen mobile phone #SD, can instantly lock stolen mobile phone, through the anti-theft password unlock before entering</string>
-    <string name="icon_location">Location tracking：</string>
-    <string name="icon_location_content">Sending the password can be stolen stolen #DW to mobile phone, mobile phone through the remote position</string>
-    <string name="icon_alarm">Send alarm sound：</string>
-    <string name="icon_alarm_content">\#BJ mobile phone to send the password theft, stolen mobile phone immediately sends out alarm sound</string>
-    <string name="icon_backup">Data backup:</string>
-    <string name="icon_backup_content">Please set the backup mail, send the password #BF to mobile phone stolen, stolen mobile phone backup SMS, contacts and other information</string>
-    <string name="icon_dele">Data destruction：</string>
-    <string name="icon_dele_content">\#XH mobile phone to send the password was stolen, immediately destroy the stolen mobile phone information, timely protection of privacy</string>
-    <string name="antithief_help_">Anti theft help</string>
-    <string name="help_1_tv">"1 confirmed that the machine has been opening the anti-theft protection, and remember the anti-theft cipher security center.
+    <string name="antithief_settings_backup_prompt">Отправить инструкции</string>
+    <string name="icon_lock">Блокировка телефона:</string>
+    <string name="icon_lock_content">Вы можете заблокировать украденный телефон, отправив на него команду: password#SD. Никто не сможет разблокировать телефон без пароля SECUREit. Если пароль неверно введен 3 раза, то SECUREit сделает снимок фронтальной камерой телефона и отправит его на заранее установленный номер</string>
+    <string name="icon_lock_content_nofront_camera">Вы можете заблокировать украденный телефон, отправив на него команду: password#SD. Никто не сможет разблокировать телефон без пароля SECUREit</string>
+    <string name="icon_location">Определение местоположения:</string>
+    <string name="icon_location_content">Вы можете определить местоположение украденного телефона, отправив на него команду: password#DW.</string>
+    <string name="icon_alarm">Сигнал тревоги:</string>
+    <string name="icon_alarm_content">Вы можете запустить сигнал тревоги на украденном телефоне, отправив на него команду: password#BJ.</string>
+    <string name="icon_backup">Резервное копирование данных:</string>
+    <string name="icon_backup_content">Вы можете сделать резервную копию SMS и контактов украденного телефона, отправив на него команду: password#BF.</string>
+    <string name="icon_dele">Уничтожение данных:</string>
+    <string name="icon_dele_content">Вы можете удалить личную информацю и данные из украденного телефона, отправив на него команду: password#XH.</string>
+    <string name="antithief_help_">Справка</string>
+    <string name="help_1_tv">"1. Убедитесь, что защита от кражи включена. Запомните свой пароль SECUREit
 
- 2 mobile phone is lost, if it is not to change the card, please send in any mobile phone anti-theft instructions to the lost mobile phone number, through the lock machine, alarming, positioning, backup, restore the loss destruction mode.
+2. Если телефон утерян, но SIM-карта не заменена, отправьте команды защиты от кражи на утерянный телефон, чтобы предотвратить кражу личной информации.
 
- 3 The mobile phone is lost, and the mobile phone has been changing the card, the security center will be the first time in the form of text messages to send the card mobile phone number to the emergency contact, by sending commands to change the card anti-theft mobile phone number to retrieve a loss."</string>
-    <string name="antithief_help_tv1">How to find the lost mobile phone?</string>
-    <string name="antithief_help_tv2">Please confirm the lost mobile phone has opened the safe anti-theft protection center</string>
-    <string name="antithief_help_tv3">The stolen mobile phone number:</string>
-    <string name="antithief_help_tv4">Secure password stolen mobile phone:</string>
-    <string name="antithief_help_tv5">Security command:</string>
-    <string name="antithief_recommend">Recommend friends to install security center, jointly protect mobile phone</string>
-    <string name="send_on">Send out</string>
+3. Если телефон утерян и SIM-карта заменена, SECUREit отправит SMS, содержащее номер новой SIM-карты на заранее установленный экстренный номер. Вы можете отправить команды защиты от кражи на номер новой SIM-карты, чтобы предотвратить кражу личной информации."</string>
+    <string name="antithief_help_tv1">Как вернуть украденный телефон?</string>
+    <string name="antithief_help_tv2">Подтвердите включение защиты от кражи в утерянном телефоне</string>
+    <string name="antithief_help_tv3">Номер украденного телефона:</string>
+    <string name="antithief_help_tv4">Пароль SECUREit украденного телефона:</string>
+    <string name="antithief_help_tv5">Команды защиты от кражи:</string>
+    <string name="antithief_recommend">Порекомендовать SECUREit друзьям</string>
+    <string name="send_on">Отправить</string>
     <string name="setpwd_edit_title_one">Enter 6 digit password</string>
     <string name="setpwd_edit_title_two">Enter the password again</string>
     <string name="setpwd_show_pwd">Display password</string>
@@ -112,53 +118,53 @@
     <string name="antithief_protected_answer_is_empty">Please enter a secret answer</string>
     <string name="save_success">Saved successfully</string>
     <string name="password_verfy_error">The password is wrong, please input again</string>
-    <string name="update_real_warnning">The 2G/3G data consumed by updating Security will be charged by your carrier.</string>
-    <string name="autorun_dialog_never_dialog">Никогда не запрашивать</string>
-    <string name="dialog_change_sim">When the mobile phone card, emergency contact person will receive a notification message</string>
-    <string name="sms_content_1">I am</string>
-    <string name="sms_content_2">"[remind] SIM card has replaced the anti-theft! Please contact to send this message number, determine the main identity machine. Such as other mobile phone is lost, can send the following commands to the current number, help to find the mobile phone.
- Password#SD Mobile phone lock;
- Password#BJ Alarm;
- Password#DW Location tracking;
- Password#BF Data backup;
- Password#XH Data destruction。"</string>
-    <string name="dialog_set_mail">When the mobile phone is lost, the remote transmitting data backup command, lost cell phone data will be transmitted to the backup mailbox</string>
-    <string name="send_sms_promt_is">Security center will explain to the number sent anti-theft instruction</string>
+    <string name="update_real_warnning">Трафик 2G/3G моб. данных на обновление SECUREit оплачивается по тарифам Вашего сот. оператора.</string>
+    <string name="autorun_dialog_never_dialog">Не спрашивать</string>
+    <string name="dialog_change_sim">На этот номер будет отправлено SMS при замене SIM-карты</string>
+    <string name="sms_content_1">"Привет! Я - "</string>
+    <string name="sms_content_2">"[Оповещение защиты от кражи] SIM-карта заменена! Свяжитесь с этим номером, чтобы подтвердить его личность. Если его телефон утерян, Вы можете отправить эти инструкции и помочь вернуть телефон.
+ Password#SD - блокировка телефона;
+ Password#BJ - сигнал тревоги;
+ Password#DW - определение местоположения;
+ Password#BF - копирование данных;
+ Password#XH - уничтожение данных."</string>
+    <string name="dialog_set_mail">Если Вы потеряли телефон, то можете отправить на него команду создания резервной копии данных. Резервная копия будет отправлена на этот адрес e-mail</string>
+    <string name="send_sms_promt_is">SECUREit отправит инструкции защиты от кражи на указанный номер телефона</string>
     <string name="send_sms_promt_content">"Security instructions: once the other phone lost, can send cell phone anti-theft remote instruction in order to reduce the loss of the other phone.
 Instruction: password # operation code.Mobile phone data backup code: BF, data destruction Code: XH, mobile phone lock code: SD, positioning and tracking code: DW, alarm code: BJ"</string>
-    <string name="dialog_use_one_sms">(this operation will consume a message)</string>
-    <string name="input_phone_number">Please enter the mobile phone number</string>
+    <string name="dialog_use_one_sms">(SMS оплачивается согласно тарифов оператора)</string>
+    <string name="input_phone_number">Введите номер телефона</string>
     <string name="ppl_permission_description">"Important settings manager protects the right of access to privacy. You probably shouldn't allow this permission."</string>
     <string name="ppl_permission_label">Protected access privacy lock set</string>
-    <string name="backup_no_mail">[remind] sorry anti-theft, backup mailbox main not set machine.</string>
-    <string name="backup_to_phone_ok">[remind] anti-theft data backup instructions executed, please backup your mailbox</string>
-    <string name="backup_to_phone_no">[remind] anti-theft remind, due to network failure causes data backup.</string>
-    <string name="cell_location">"[remind] anti-theft positioning and tracking instructions executed, 
- your lost mobile phone base station information on current is:
+    <string name="backup_no_mail">[Оповещение защиты от кражи] Получатель не указал резервный e-mail.</string>
+    <string name="backup_to_phone_ok">[Оповещение защиты от кражи] Команда копирования данных выполнена. Загрузите их в своем ящике e-mail (</string>
+    <string name="backup_to_phone_no">[Оповещение защиты от кражи] Не удалось выполнить резервное копирование из-за проблем с сетевым подключением.</string>
+    <string name="cell_location">"[Оповещение модуля защиты от кражи] Запущена команда определения местоположения.
+Базовая станция утерянного телефона: 
 "</string>
-    <string name="destroy_privacy_message_ok">[remind] remote anti-theft destruction instructions executed, data has been destroyed.</string>
-    <string name="cur_location">"[remind] anti-theft positioning and tracking instructions executed, 
- your lost mobile phone probably location:
+    <string name="destroy_privacy_message_ok">[Оповещение модуля защиты от кражи] Запущена команда уничтожения данных. Данные уничтожены.</string>
+    <string name="cur_location">"[Оповещение модуля защиты от кражи] Запущена команда определения местоположения.
+Местоположение утерянного телефона:
 "</string>
-    <string name="lat_and_lon">"[remind] anti-theft positioning and tracking instructions executed, the latitude and longitude 
- your mobile phone is lost the:
+    <string name="lat_and_lon">"[Оповещение модуля защиты от кражи] Запущена команда определения местоположения.
+Текущая широта и долгота утерянного телефона: 
 "</string>
-    <string name="lock_screen_ok">[remind] mobile phone anti-theft lock instruction has been executed, the lost mobile phone screen is locked.</string>
+    <string name="lock_screen_ok">[Оповещение защиты от кражи] Команда блокировки выполнена. Потерянный телефон заблокирован.</string>
     <string name="alarm_ok">[remind] hair anti-theft alarm tone instructions executed.</string>
     <string name="click_line">"
-Click on the link below to view the map position information:
+Нажмите по сслыке для просмотра местоположения:
 "</string>
     <string name="backup_to_phone_ok_">Download the backup data.</string>
     <string name="backup_mail_snapshot_content">Security center backup for your attempt to crack the password anti-theft lock screen pictures of people, please see the attachment.</string>
     <string name="receive">Получить</string>
     <string name="send">Отправить</string>
-    <string name="stranger">A strange number</string>
+    <string name="stranger">Неизвестный номер</string>
     <string name="name">Имя:</string>
     <string name="date">Дата:</string>
-    <string name="smsbody">Содержание:</string>
-    <string name="locking">Блокировка экрана активирована Security.</string>
+    <string name="smsbody">Текст:</string>
+    <string name="locking">SECUREit заблокировал экран</string>
     <string name="input_le_pwd">Введите пароль</string>
-    <string name="call_user_tv">To contact the owner</string>
+    <string name="call_user_tv">Связаться с владельцем</string>
     <string name="n1">1</string>
     <string name="n2">2</string>
     <string name="n3">3</string>
@@ -169,25 +175,31 @@ Click on the link below to view the map position information:
     <string name="n8">8</string>
     <string name="n9">9</string>
     <string name="n0">0</string>
-    <string name="call_user_over">Have to send text messages to inform the owner, the good life of peace!</string>
+    <string name="call_user_over">SMS отправлено владельцу. Спасибо!</string>
     <string name="sendsms_success">SMS отправлено</string>
-    <string name="sendsms_no_service">No SMS service</string>
+    <string name="sendsms_no_service">Услуга SMS недоступна</string>
     <string name="from_lesecurity">"
 --SECUREit"</string>
-    <string name="prompt_content_cmcc">[remind] anti-theft anti-theft function I was using Lenovo security center, if the SIM card is replaced, will give the phone to send text messages to inform you.</string>
-    <string name="takepicture">"[remind] someone trying to master the anti-theft mobile phone unlocking machine, has captured photos:%1s
-"</string>
-    <string name="call_user">Hello, I have found you will set in case of emergency, mobile phone, please call back immediately! Help the owner to find mobile phone -- Lenovo security center.</string>
-    <string name="open_error_sim_not_ready">Mobile phone card is not ready.</string>
-    <string name="open_sucess">Congratulations, you have successfully opening the anti-theft protection!</string>
-    <string name="info">Важная информация</string>
-    <string name="disable_antitheft_tip">Отключение Анти-вора запретит отправку команд в случае утери телефона. Вы действительно хотите отключить ее?</string>
-    <string name="phonenumber_error">You enter the mobile phone number format error!</string>
-    <string name="mail_error">Enter your email address format is incorrect!</string>
-    <string name="send_prompt_btn">The backup anti-theft instruction</string>
-    <string name="sim_not_ready">Mobile phone card is not ready, unable to send</string>
+    <string name="prompt_content_cmcc">"[Оповещение защиты от кражи] Я использую функцию защиты от кражи SECUREit. При замене SIM-карты на Ваш телефон будет отправлено сообщение. Сохраните это сообщение. После потери или кражи телефона Вы можете найти его, отправив с любого устройства следующие коды.
+ Code#SD - блокировка телефона
+ Code#BJ - сигнал тревоги
+ Code#DW - определение местоположения
+ Code#BF - копирование данных
+ Code#XH - уничтожение данных
+ Кроме этого, мы настоятельно рекомендуем зашифровать фотографии с помощью SECUREit."</string>
+    <string name="takepicture">"Ваш телефон заблокирован. Кто-то пытался разблокировать его без Вашего пароля. %1s
+Откройте ссылку выше, чтобы увидеть фотографию, сделанную фронтальной камерой утерянного телефона. Она может быть очень полезна.--SECUREit"</string>
+    <string name="call_user">Здравствуйте! Я нашел телефон, в котором Ваш номер установлен ​​номером экстренной службы. Позвоните мне как можно скорее!--SECUREit.</string>
+    <string name="open_error_sim_not_ready">Ошибка SIM-карты</string>
+    <string name="open_sucess">Поздравляем! Защита от кражи включена!</string>
+    <string name="info">Уведомление</string>
+    <string name="disable_antitheft_tip">Отключить защиту от кражи?</string>
+    <string name="phonenumber_error">Неверный формат номера телефона!</string>
+    <string name="mail_error">Неверный формат адреса e-mail!</string>
+    <string name="send_prompt_btn">Отправить инструкции</string>
+    <string name="sim_not_ready">Ошибка SIM-карты. Отправка SMS невозможна</string>
     <string name="msg_send_over">SMS отправлено</string>
-    <string name="antithief_password_fromt_error">The password you entered is not in the correct format!</string>
+    <string name="antithief_password_fromt_error">Неверный пароль!</string>
     <string name="app_lock_set_path">В \"SafeCenter->Настройки разрешений\" можно изменить настройки разрешений.</string>
     <string name="app_lock_reject">Отклонить</string>
     <string name="app_lock_wlan">Только Wi-Fe</string>
@@ -207,11 +219,11 @@ Click on the link below to view the map position information:
     <string name="battery_info_status_discharging">Используется</string>
     <string name="battery_info_status_not_charging">Не заряжается</string>
     <string name="battery_info_status_full">Батарея заряжена</string>
-    <string name="tether_settings_title_usb">USB-модем</string>
-    <string name="tether_settings_title_wifi">Точка доступа Wi-Fi</string>
-    <string name="tether_settings_title_bluetooth">Bluetooth-модем</string>
-    <string name="tether_settings_title_usb_bluetooth">Режим модема</string>
-    <string name="tether_settings_title_all">Хот-спот</string>
+    <string name="tether_settings_title_usb">Общий доступ по USB</string>
+    <string name="tether_settings_title_wifi">Хотспот</string>
+    <string name="tether_settings_title_bluetooth">Общий доступ по Bluetooth</string>
+    <string name="tether_settings_title_usb_bluetooth">Общий доступ</string>
+    <string name="tether_settings_title_all">Общий доступ по Wi-Fi</string>
     <string name="settings_safetylegal_activity_loading">Загрузка…</string>
     <string name="applications_settings">Приложения</string>
     <string name="application_info_label">О приложении</string>
@@ -390,7 +402,7 @@ Click on the link below to view the map position information:
     <string name="please_choise">Select apps you want to use</string>
     <string name="backup_app_title">Restoring preset apps</string>
     <string name="backup_app_count">Uninstalled preset apps:%1$d</string>
-    <string name="report">Сообщить</string>
+    <string name="report">Отчет</string>
     <string name="monney_related_count">%d</string>
     <string name="access_privace_msg_count">%d</string>
     <string name="view_authority_detail">View permission details</string>
@@ -444,16 +456,16 @@ Click on the link below to view the map position information:
     <string name="install_confirm_question_update_system">После обновления это приложение получит доступ к указанным ниже данным. При этом текущая информация сохранится. Обновить?</string>
     <string name="install_confirm_question_update_no_perms">Установить обновление этого приложения? На текущих данных это никак не отразится. Специальных прав доступа не требуется.</string>
     <string name="install_confirm_question_update_system_no_perms">Установить обновление этого встроенного приложения? На текущих данных это никак не отразится. Специальных прав доступа не требуется.</string>
-    <string name="install_failed">Установка не удалась, попробуйте еще раз</string>
-    <string name="install_failed_invalid_apk">Установочный пакет поврежден</string>
-    <string name="install_failed_inconsistent_certificates">Пакет с таким названием уже установлен и имеет конфликтующую подпись.</string>
-    <string name="install_failed_older_sdk">Пакет доступен только для новых версий Android</string>
-    <string name="install_failed_cpu_abi_incompatible">Приложение не совместимо с этим телефоном</string>
+    <string name="install_failed">Ошибка установки</string>
+    <string name="install_failed_invalid_apk">Этот пакет поврежден.</string>
+    <string name="install_failed_inconsistent_certificates">Пакет с конфликтующей подписью уже установлен.</string>
+    <string name="install_failed_older_sdk">Пакет работает только на новых версиях Android.</string>
+    <string name="install_failed_cpu_abi_incompatible">Это приложение не совместимо с Вашим телефоном.</string>
     <string name="install_failed_cpu_abi_incompatible_tablet">"This app isn't compatible with your tablet."</string>
     <string name="install_failed_msg">Не удалось установить приложение \"%1$s\".</string>
     <string name="install_failed_msg_tablet">"%1$s couldn't be installed on your tablet."</string>
     <string name="launch">Открыть</string>
-    <string name="unknown_apps_dlg_title">Установка заблокирована</string>
+    <string name="unknown_apps_dlg_title">Подтвердить установку</string>
     <string name="ok">ОК</string>
     <string name="allow_source_dlg_title">Новый источник для приложений</string>
     <string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.
@@ -464,21 +476,21 @@ Click on the link below to view the map position information:
     <string name="out_of_space_dlg_text">Не удалось установить приложение \"%1$s\". Освободите место и повторите попытку.</string>
     <string name="dlg_ok">ОК</string>
     <string name="app_not_found_dlg_title">Приложение не найдено</string>
-    <string name="app_not_found_dlg_text">Приложения нет в списке установленных.</string>
-    <string name="uninstall_application_title">Удаление приложения</string>
-    <string name="uninstall_update_title">Удаление обновления</string>
-    <string name="uninstall_activity_text">"%1$s принадлежит к следующим приложениям: "</string>
-    <string name="uninstall_application_text">Удалить приложение?</string>
+    <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных приложений.</string>
+    <string name="uninstall_application_title">Удалить</string>
+    <string name="uninstall_update_title">Удалить обновление</string>
+    <string name="uninstall_activity_text">%1$s часть приложения:</string>
+    <string name="uninstall_application_text">Хотите удалить это приложение?</string>
     <string name="uninstall_application_text_all_users">Удалить это приложение для <b>всех</b> пользователей? После этого <b>ни один</b> пользователь устройства не будет иметь доступа к приложению и связанным с ним данным.</string>
     <string name="uninstall_application_text_user">Do you want to uninstall this app for the user %1$s?</string>
-    <string name="uninstall_update_text">Хотите обновить это приложение?</string>
+    <string name="uninstall_update_text">Хотите заменить это приложение системным?</string>
     <string name="uninstalling">Удаление:</string>
-    <string name="uninstall_done">Удаление завершено.</string>
-    <string name="uninstall_failed">Ошибка при удалении.</string>
-    <string name="uninstall_failed_device_policy_manager">Это приложение активно в диспетчере устройств и не может быть удалено</string>
+    <string name="uninstall_done">Удаление выполнено</string>
+    <string name="uninstall_failed">Удаление завершено</string>
+    <string name="uninstall_failed_device_policy_manager">Невозможно удалить, т.к. приложение занято администратором устройства.</string>
     <string name="uninstall_blocked_profile_owner">"This app is needed for your %1$s profile and can't be uninstalled."</string>
     <string name="uninstall_blocked_device_owner">"This app is required by your device administrator and can't be uninstalled."</string>
-    <string name="manage_device_administrators">Управление диспетчером устройств</string>
+    <string name="manage_device_administrators">Управление администраторами устройства</string>
     <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
     <string name="Parse_error_dlg_text">Ошибка при синтаксическом анализе пакета.</string>
     <string name="del_file_after_install">Удалить приложение?</string>
@@ -501,7 +513,7 @@ Click on the link below to view the map position information:
     <string name="perms_config_hint">You can change this feature in SafeCenter > Permissions.</string>
     <string name="install_failed_duplicate_permission">The package duplicate permission %s</string>
     <string name="app_name">SafeCenter</string>
-    <string name="permission_control">Разрешения</string>
+    <string name="permission_control">Защита данных</string>
     <string name="permissions_label">Разрешения</string>
     <string name="auto_boot_pref_title">Автозапуск</string>
     <string name="permission_label_location">Получение местоположения</string>
